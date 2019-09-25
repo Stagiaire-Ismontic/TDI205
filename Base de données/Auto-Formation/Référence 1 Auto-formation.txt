@@ -1,0 +1,2 @@
+Initiez-vous à l'algèbre relationnelle avec le langage SQL
+https://openclassrooms.com/fr/courses/4449026-initiez-vous-a-lalgebre-relationnelle-avec-le-langage-sql/4538696-comprenez-les-bases-de-donnees-sql
