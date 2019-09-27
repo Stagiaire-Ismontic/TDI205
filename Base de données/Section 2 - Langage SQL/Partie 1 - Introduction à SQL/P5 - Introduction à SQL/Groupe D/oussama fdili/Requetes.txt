@@ -1,0 +1,11 @@
+INSERT INTO dbo.Stagiaires(id_Stag,nom,prenom,cin,e_mail,date_naissance,tel_fixe,tel_portable)
+values(1,'mohamed','mohammmed',998,'gmail@com','1-1-2000','0666666667','p77pp7'),
+(2,'arban','youka',999,'gmail@com','1-2-2000','0666666667','p77pp7');
+Update Stagiaires set nom='mohaaaaaamed' where id_Stag=1;
+select * from Stagiaires;
+
+
+select * from Stagiaires;
+delete from Stagiaires where nom='arban';
+select * from Stagiaires;
+ALTER TABLE stagiaires add  twitter text ; 

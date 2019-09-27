@@ -1,0 +1,6 @@
+insert into [dbo].[projets](id,titre,[nombre-jours-realisation]) values(1,'ahmad',5);
+insert into [dbo].[projets](id,titre,[nombre-jours-realisation]) values(2,'ahmad',15);
+insert into [dbo].[projets](id,titre,[nombre-jours-realisation]) values(3,'Loubna',10);
+select id,titre from [Taches]
+update Projets set titre='mohamed' where id=1;
+delete from Projets where id=2;

@@ -1,0 +1,13 @@
+Create database yousra
+use yousra 
+go
+create table person(idperson int,nom nvarchar(30),city nvarchar(30));
+select * from person;
+insert into person(idperson,nom,city) values (1,'youssra','tanger'),(2,'laila','rabat'),(3,'chaimae','france');
+select nom as 'nom de person',city as'city' from person;
+update person set nom='youssi' where idperson=1;
+select*from person;
+delete from person where idperson=3;
+select*from person;
+
+ 
