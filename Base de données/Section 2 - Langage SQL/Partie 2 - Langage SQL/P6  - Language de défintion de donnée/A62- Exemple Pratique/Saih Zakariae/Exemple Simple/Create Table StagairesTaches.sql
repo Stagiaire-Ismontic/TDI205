@@ -1,0 +1,1 @@
+Create Table TachesStagaires(stagaire_id int, tache_id int, date_debut date, date_fin date);
