@@ -1,0 +1,1 @@
+alter table v add idv int;
