@@ -1,1 +1,1 @@
-drop table v;
+drop table Projets;

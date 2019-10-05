@@ -1,1 +1,1 @@
-alter table v drop column idv
+alter table Projets drop column idv;

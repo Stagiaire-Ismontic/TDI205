@@ -1,1 +1,1 @@
-alter table v add idv int;
+alter table Projets add idv int;
