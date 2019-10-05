@@ -1,1 +1,1 @@
-alter table taches drop column adresse;
+alter table Stagiaire drop column Nom_Stagiaire;

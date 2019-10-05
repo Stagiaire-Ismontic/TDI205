@@ -1,0 +1,1 @@
+create table Stagiaire(Id_Stagiaire int,Nom_Stagiaire varchar(20));
