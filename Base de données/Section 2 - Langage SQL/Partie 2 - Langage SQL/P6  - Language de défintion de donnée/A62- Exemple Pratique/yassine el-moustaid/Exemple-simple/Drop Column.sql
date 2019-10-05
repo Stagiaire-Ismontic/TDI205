@@ -1,0 +1,1 @@
+alter table Stagiaire drop column Nom_Stagiaire;
