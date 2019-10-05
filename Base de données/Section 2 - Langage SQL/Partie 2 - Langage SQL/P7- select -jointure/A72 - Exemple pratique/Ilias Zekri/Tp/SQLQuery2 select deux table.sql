@@ -1,1 +1,1 @@
-select c.id,c.titre,n.projet_id from Projets c inner join Taches n on c.id!=''
+select c.id,c.titre,n.projet_id from Projets c inner join Taches n on c.id =n.projet_id

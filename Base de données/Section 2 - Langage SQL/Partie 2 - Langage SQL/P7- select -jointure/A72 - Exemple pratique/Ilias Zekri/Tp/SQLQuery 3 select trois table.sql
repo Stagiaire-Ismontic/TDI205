@@ -1,1 +1,1 @@
-select c.id,c.titre,n.projet_id,d.date_fin from Projets c inner join Taches n on c.id!='' inner join TachesStagiairs d on d.date_fin!=0
+select c.id,c.titre,n.projet_id,d.date_fin from Projets c inner join Taches n on c.id = n.projet_id inner join TachesStagiairs d on n.id = d.tache_id
