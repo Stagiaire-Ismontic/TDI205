@@ -1,0 +1,1 @@
+create table Stagiaires(id int primary key,nom varchar(30),prenom varchar(30),cin varchar(15),e_mail varchar(30),date_naissance date,tel_fixe varchar(20),tel_portable varchar(20));
