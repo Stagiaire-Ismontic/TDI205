@@ -1,0 +1,1 @@
+create table taches(id int not null primary key,titre varchar(20),projet_id int not null,nombre_jours_realisation varchar(20),foreign key(id) references projets(id));
