@@ -1,0 +1,12 @@
+create DataBase Gestion_projet;
+create table projet(id_projet int,titre varchar(30),nombr_jour_realisation int);
+insert into projet values(1,'titre',10);
+select titre from projet;
+create table tache(id int, titre_tache varchar(30),nombre_jr_realisatin int,id_projet int);
+insert into tache values(2,'tache1',5,1);
+select*from tache where id_projet=1;
+create table stagiaire(id_stagiaire int,nom varchar(30),prenom varchar(30),cin varchar(30),email varchar(30),date_naissance date,tele_fix varchar(10),tele_portable varchar(10));
+create table tache_stagiaire(id_stagiaire int,id_tache int,date_debut date,date_fin date);
+insert into stagiaire values(1,'youssra','el amoury','kb170205','youssra@gmail.com','2019/06/06','066555','4455555');
+insert into tache_stagiaire values(1,1,'2019/05/05','2019/06/06');
+select*from tache_stagiaire where id_stagiaire=1 and id_tache=1; 

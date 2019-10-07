@@ -1,0 +1,4 @@
+create DataBase Gestion_projet;
+create table projet(id int,titre varchar(30),nombr_jour_realisation int);
+insert into projet values(1,'titre',10);
+select titre from projet;
