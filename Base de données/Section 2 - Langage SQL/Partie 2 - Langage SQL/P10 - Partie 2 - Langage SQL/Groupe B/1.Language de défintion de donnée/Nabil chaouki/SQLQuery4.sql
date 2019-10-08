@@ -1,0 +1,1 @@
+alter table Projets drop column nombre_jours_realisation ;

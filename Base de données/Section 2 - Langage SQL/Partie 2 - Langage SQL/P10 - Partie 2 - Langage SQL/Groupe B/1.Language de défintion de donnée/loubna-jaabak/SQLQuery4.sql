@@ -1,0 +1,1 @@
+alter table projet drop nombre_jour;
