@@ -1,0 +1,8 @@
+create table projetzaka(
+	id int,
+	name varchar(50),
+);
+alter table projetzaka add idprojet varchar(50);
+alter table projetzaka add columnn idprojet;
+alter table projetzaka drop column idprojet;
+drop table projetzaka; 

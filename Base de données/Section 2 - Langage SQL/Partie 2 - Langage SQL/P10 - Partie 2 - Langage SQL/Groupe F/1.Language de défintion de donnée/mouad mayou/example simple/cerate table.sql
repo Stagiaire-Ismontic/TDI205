@@ -1,0 +1,1 @@
+create table Projets(id varchar(30),titre varchar(50));
