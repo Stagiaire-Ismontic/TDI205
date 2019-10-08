@@ -1,0 +1,1 @@
+alter table Projet Drop column idProj 
