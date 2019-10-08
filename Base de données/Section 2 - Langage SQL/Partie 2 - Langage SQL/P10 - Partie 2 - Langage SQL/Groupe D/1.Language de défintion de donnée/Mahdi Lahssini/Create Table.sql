@@ -1,0 +1,1 @@
+create table test12(Nom varchar(20),Prénom varchar(20),Age int);

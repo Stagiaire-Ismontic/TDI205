@@ -1,0 +1,1 @@
+alter table test12 add cin varchar(10);

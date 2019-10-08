@@ -1,0 +1,1 @@
+alter table test12 drop column cin;
