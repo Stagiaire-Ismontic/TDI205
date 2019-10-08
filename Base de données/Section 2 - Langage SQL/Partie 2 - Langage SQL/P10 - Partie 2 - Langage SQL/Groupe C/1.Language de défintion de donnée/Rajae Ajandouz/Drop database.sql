@@ -1,0 +1,1 @@
+Drop Database gestion_de_projet;

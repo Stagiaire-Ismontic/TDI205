@@ -1,0 +1,1 @@
+alter table Projet Add idProj varchar(30);
