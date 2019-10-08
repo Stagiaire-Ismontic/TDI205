@@ -1,0 +1,1 @@
+create table Projets(id int primary key ,titre varchar(20),nombre_jours_realisation int);
