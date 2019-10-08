@@ -1,0 +1,19 @@
+CREATE TABLE client(id_cli int  PRIMARY KEY ,nom NVARCHAR(20),prenom Nvarchar(50),Adresse nvarchar(50));
+insert into client(id_cli,nom,prenom,Adresse) values(1,'loubna','jaabak','Tanger');
+
+select *from client;
+
+create table Compte(id int  PRIMARY KEY,Solde float);
+insert into Compte(id,Solde) values(1,5000);
+
+
+begin transaction;
+update compte set solde=5000-500 where id=1 ;
+commit;
+
+begin transaction;
+update compte set solde=4500-500 where id=1 ;
+rollback;
+
+select *from compte;
+

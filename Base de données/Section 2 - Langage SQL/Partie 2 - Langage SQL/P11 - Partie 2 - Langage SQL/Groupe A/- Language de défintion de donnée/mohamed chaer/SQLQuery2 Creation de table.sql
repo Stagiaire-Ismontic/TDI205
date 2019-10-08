@@ -1,0 +1,1 @@
+create table Projets (id nchar(20),titre nchar(20),nombre_jours_realisation int);

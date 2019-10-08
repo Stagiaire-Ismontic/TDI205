@@ -1,1 +1,0 @@
-create Login Amine1 with password ='123456' , default_database = "master";
