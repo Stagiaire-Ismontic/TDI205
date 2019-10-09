@@ -1,0 +1,1 @@
+revoke all privileges on Projets from  Apprenant;
