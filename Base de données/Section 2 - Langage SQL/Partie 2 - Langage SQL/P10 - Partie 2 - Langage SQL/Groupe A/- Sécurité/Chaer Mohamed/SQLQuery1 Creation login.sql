@@ -1,0 +1,1 @@
+create login  Apprenant with password='123456', default_database="Gestion";
