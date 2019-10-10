@@ -1,0 +1,1 @@
+revoke update on grgr from "Mahdi1";
