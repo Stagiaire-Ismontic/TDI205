@@ -1,0 +1,30 @@
+
+create database My_DB
+
+create table A1(
+id int not null  identity(1,1),
+user_name varchar(50) not null primary key,
+pass_word varchar(50) not null
+);
+
+
+create table A2(
+id int not null,
+f_name nvarchar(50),
+l_name nvarchar(50),
+email nvarchar(50),
+adress nvarchar(80)
+);
+
+alter table A2
+add foreign key (id)
+references A1(id)
+
+
+insert into A1 values('user_1','pass_1'),('user_2','pass_2'),('user_3','pass_3'),('user_4','pass_4')
+select * from A1
+insert into A2 values(1,'','','user_1@mail.com','tanger'),(2,'','','user_2@mail.com','sala'),(3,'','','user_3@mail.com','tanger'),(4,'','','user_4@mail.com','rabat')
+select * from A2
+
+select * from A1 where id in (select id from A2 where adress = 'tanger') order by id desc
+

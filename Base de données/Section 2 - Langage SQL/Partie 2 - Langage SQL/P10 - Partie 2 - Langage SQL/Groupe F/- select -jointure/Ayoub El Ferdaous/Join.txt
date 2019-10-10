@@ -1,0 +1,10 @@
+insert into A1 values(1,'user_1','pass_1'),(2,'user_2','pass_2'),(3,'user_3','pass_3'),(4,'user_4','pass_4')
+insert into A2 values(1,'user__1','user_1@mail.com','tanger',1),(2,'user__2','user_2@mail.com','Sala',2),(3,'user__3','user_3@mail.com','tanger',3),(4,'user__4','user_4@mail.com','rabat',4)
+insert into A1 values(5,'user_5','pass_5')
+
+select * from A1
+
+select * from A2
+
+select *  from A1
+join A2 on A1.Id = A2.Id_user

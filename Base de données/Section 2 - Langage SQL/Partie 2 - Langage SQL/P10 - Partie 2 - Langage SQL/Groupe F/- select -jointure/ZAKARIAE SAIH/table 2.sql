@@ -1,0 +1,1 @@
+select P.id,P.titre,t.projet_id from projets P inner join Taches T on P.id = T.projet_id ;

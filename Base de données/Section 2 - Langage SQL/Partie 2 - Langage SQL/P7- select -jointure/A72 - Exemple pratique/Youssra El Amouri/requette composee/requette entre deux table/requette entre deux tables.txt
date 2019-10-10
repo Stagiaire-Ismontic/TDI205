@@ -1,7 +1,0 @@
-create DataBase Gestion_projet;
-create table projet(id_projet int,titre varchar(30),nombr_jour_realisation int);
-insert into projet values(1,'titre',10);
-select titre from projet;
-create table tache(id int, titre_tache varchar(30),nombre_jr_realisatin int,id_projet int);
-insert into tache values(2,'tache1',5,1);
-select*from tache where id_projet=1;
