@@ -1,0 +1,1 @@
+create login youssra with password ='123456789',default_database="youssra el amoury";
