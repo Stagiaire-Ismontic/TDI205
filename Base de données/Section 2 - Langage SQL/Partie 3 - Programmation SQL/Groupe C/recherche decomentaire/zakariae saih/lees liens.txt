@@ -1,0 +1,2 @@
+https://www.developpez.net/forums/d493628/bases-donnees/ms-sql-server/creer-boucle-for/
+https://www.journaldunet.fr/web-tech/developpement/1202467-comment-ecrire-une-boucle-conditionnelle-if-then-dans-une-commande-sql-select/
