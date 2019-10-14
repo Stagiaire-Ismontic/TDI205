@@ -4,7 +4,8 @@ DECLARE @Test int
 SET @Test = 1
 SELECT
 Case @Test
-WHEN 1 THEN IF @Num1=@Num2 SELECT @Num1 ElSE SELECT @Num2 
-WHEN 2 THEN DECLARE @Num3 varchar(30)='Zekri' SELECT @Nun3
+WHEN 1 THEN 'Correcte'
+WHEN 2 THEN	'incorecte'
 ElSE 'Error'
 END
+IF @Num1=@Num2 SELECT @Num1 ELSE SELECT @Num2
