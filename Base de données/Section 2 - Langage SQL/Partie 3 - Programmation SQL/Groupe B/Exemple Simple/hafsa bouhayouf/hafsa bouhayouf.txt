@@ -1,0 +1,17 @@
+
+DECLARE @jk int
+SET @jk = 1
+SELECT
+Case @jk
+WHEN 1 THEN '1'
+WHEN 2 THEN '2'
+ElSE 'Error'
+END
+
+
+DECLARE @Num1 varchar(30)='Hafsa'
+DECLARE @Num2 varchar(30)='Hafsa'
+IF @Num1=@Num2 
+	SELECT @Num1 
+ElSE 
+	SELECT @Num2 
