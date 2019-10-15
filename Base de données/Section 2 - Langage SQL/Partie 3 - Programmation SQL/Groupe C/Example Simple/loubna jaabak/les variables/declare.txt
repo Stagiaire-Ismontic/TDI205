@@ -1,0 +1,9 @@
+select *from Stagiaire;
+/*Variables*/
+
+/*declaration declare Nom_variable type*/
+declare @nom nvarchar(50);
+/*remplissage*/
+set @nom='loubna jaabak';
+/*Affichage*/
+print ' le nom est '+@nom;
