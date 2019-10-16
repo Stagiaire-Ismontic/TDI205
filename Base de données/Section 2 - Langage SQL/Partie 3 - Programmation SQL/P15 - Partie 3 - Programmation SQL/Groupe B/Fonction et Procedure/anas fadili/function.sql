@@ -1,0 +1,5 @@
+CREATE FUNCTION T(@a int, @b int)
+	RETURNS INT
+	BEGIN 
+		RETURN @a+@b
+	END
