@@ -1,0 +1,52 @@
+
+//create table
+
+create table celebs(
+  id integer,
+  name text,
+  age int
+);
+
+//insert
+
+insert into celebs (id, name, age)
+ values (1, 'cr7', 34);
+ 
+ insert into celebs (id, name, age)
+ values (2, 'messi', 31);
+ 
+ insert into celebs (id, name, age)
+ values (3, 'benzema', 31);
+ 
+ insert into celebs (id, name, age)
+ values (4, 'hazard', 28);
+
+// select
+
+select * from celebs;
+select name from celebs;
+
+//alter
+
+ALTER TABLE celebs 
+ADD COLUMN clubs TEXT; 
+
+//update
+
+update celebs
+set twitter_handle = '@taylorswift13'
+where id = 4;
+
+//delete
+
+ delete from celebs
+ where twitter_handle is null;
+
+//Constraints
+
+ create table awards(
+   id integer primary key,
+   recipient text not null,
+   award_name text default 'grammy'
+ );
+
