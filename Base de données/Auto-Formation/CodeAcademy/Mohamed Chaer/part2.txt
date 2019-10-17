@@ -1,0 +1,12 @@
+
+SELECT * FROM celebs;
+
+CREATE TABLE celebs (
+   id INTEGER, 
+   name TEXT, 
+   age INTEGER
+);
+
+
+INSERT INTO celebs (id, name, age) 
+VALUES (2, 'Beyonce Knowles', 33); 
