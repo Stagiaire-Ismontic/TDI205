@@ -1,0 +1,10 @@
+DECLARE @nomcol varchar(50)
+DECLARE @TABLE varchar(50)
+DECLARE @SQLReq varchar(100)
+SET @nomcol='nomcol'
+SET @TABLE='table'
+SET @SQLReq='SELECT col FROM ' + @TABLE + ' WHERE col = ' + @nomcol
+ 
+SELECT @SQLReq
+ 
+SELECT col FROM table WHERE col = nomcol
