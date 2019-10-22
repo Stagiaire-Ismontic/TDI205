@@ -1,10 +1,10 @@
 --Select
 
-SELECT * FROM celebs;
+SELECT * FROM cele;
 
 --Create
 
-CREATE TABLE celebs (
+CREATE TABLE cele (
    id INTEGER, 
    name TEXT, 
    age INTEGER
@@ -13,5 +13,5 @@ CREATE TABLE celebs (
 
 --Insert
 
-INSERT INTO celebs (id, name, age) 
-VALUES (2, 'Beyonce Knowles', 33); 
+INSERT INTO cele (id, name, age) 
+VALUES (2, 'Bey', 33); 

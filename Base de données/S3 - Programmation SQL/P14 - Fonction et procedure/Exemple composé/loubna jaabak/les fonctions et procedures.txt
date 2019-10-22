@@ -1,0 +1,14 @@
+CREATE TABLE emp (
+    nom         text,
+    salaire     numeric,
+    age         integer,
+    cubicle     point
+);
+
+CREATE FUNCTION double_salaire(emp) RETURNS numeric AS $$
+    SELECT $1.salaire * 2 AS salaire;
+$$ LANGUAGE SQL;
+
+SELECT nom, double_salaire(emp.*) AS reve
+    FROM emp
+    WHERE emp.cubicle ~= point '(2,1)';
