@@ -1,21 +1,21 @@
 
 --Alter
 
-ALTER TABLE celebs 
-ADD COLUMN twitter_handle TEXT; 
+ALTER TABLE cele
+ADD COLUMN twitt_hand TEXT; 
 
 
 --Update
 
-UPDATE celebs 
-SET twitter_handle = '@taylorswift13' 
+UPDATE cele
+SET twitt_hand = '@ighjkhkh' 
 WHERE id = 4; 
 
 
 --Delete
 
-DELETE FROM celebs 
-WHERE twitter_handle IS NULL;
+DELETE FROM cele
+WHERE twitt_hand IS NULL;
 
 --Constraints
 

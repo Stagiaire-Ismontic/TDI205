@@ -1,0 +1,13 @@
+SELECT @a, CASE
+        WHEN @a > 0 THEN 'positif'
+        WHEN @a < 0 THEN 'negatif'
+        WHEN @a = 0 THEN 'nul'
+        ELSE 'NULL'
+        END AS signe_a;
+SET @a = -5;
+SELECT @a, CASE
+        WHEN @a > 0 THEN 'positif'
+        WHEN @a < 0 THEN 'negatif'
+        WHEN @a = 0 THEN 'nul'
+        ELSE 'NULL'
+        END AS signe_a;

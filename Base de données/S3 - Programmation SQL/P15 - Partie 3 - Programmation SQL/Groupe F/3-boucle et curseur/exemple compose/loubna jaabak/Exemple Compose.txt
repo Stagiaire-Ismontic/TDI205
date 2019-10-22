@@ -1,0 +1,18 @@
+DECLARE @Stagiaire_Cursor as nvarchar(256)
+DECLARE @nom as nvarchar(50)
+
+DECLARE Stagiaire_Cursor CURSOR FOR  
+SELECT ID, nom
+FROM Stagiaire 
+WHERE ID = 1;  
+OPEN Stagiaire_Cursor;  
+FETCH NEXT FROM Stagiaire_Cursor;  
+FETCH NEXT FROM Stagiaire_Cursor INTO @ID, @nom;  
+WHILE @@FETCH_STATUS = 0  
+   BEGIN  
+      Print '   ' + @ID + '      '+  @nom 
+      FETCH NEXT FROM Stagiaire_Cursor;  
+   END;  
+CLOSE Stagiaire_Cursor;  
+DEALLOCATE Stagiaire_Cursor;  
+GO 
