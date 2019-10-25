@@ -1,0 +1,1 @@
+select *from employer where salaire>any(select(MAX(salaire)) from employer group by ville);

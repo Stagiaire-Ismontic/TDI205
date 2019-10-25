@@ -1,0 +1,1 @@
+select Nom,Prenom,Note from staggiaires order by note ASC;
