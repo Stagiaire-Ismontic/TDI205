@@ -1,0 +1,1 @@
+Create index index_nom on Stagiaires(nom);
