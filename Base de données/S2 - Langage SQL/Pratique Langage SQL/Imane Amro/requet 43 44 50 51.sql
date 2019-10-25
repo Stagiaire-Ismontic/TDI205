@@ -1,6 +1,7 @@
 insert into stagiaires(id,nom,prenom,note_bac,ville)
-values (1,'imane','amro',17,'tanger'),
-(2,'walid','azalmad',18,'fes'),
+values (1,'imane','amro',17,'tanger')
+insert into stagiaires(id,nom,prenom,note_bac,ville)
+values(2,'walid','azalmad',18,'fes')
 /*requet 43*/
 Select nom,prenom, note_bac from stagiaires ORDER BY note_bac ASC;
 /*requet 44*/

@@ -1,0 +1,1 @@
+Select * From Employé where salaire =(select MAX(salaire) From Employé) ;
