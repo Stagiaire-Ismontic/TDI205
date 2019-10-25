@@ -1,0 +1,1 @@
+Select Nom,Prenom, note_bac from Stagiaires ORDER BY note_bac DESC;

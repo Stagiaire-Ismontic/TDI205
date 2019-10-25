@@ -1,0 +1,1 @@
+Create index I on Stagiaires(nom);

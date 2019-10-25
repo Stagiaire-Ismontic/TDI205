@@ -1,0 +1,1 @@
+Select ville,max(note_bac) as nmax From Stagiaires GROUP BY ville;

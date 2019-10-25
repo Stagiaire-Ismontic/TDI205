@@ -1,0 +1,1 @@
+select MAX(note_bac) as nmax from Stagiaires;
