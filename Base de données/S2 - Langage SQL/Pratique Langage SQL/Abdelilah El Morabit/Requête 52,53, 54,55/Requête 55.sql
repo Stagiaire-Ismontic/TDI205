@@ -1,0 +1,1 @@
+select * from Employe where salaire <all (select max(salaire) from Employe group by ville );

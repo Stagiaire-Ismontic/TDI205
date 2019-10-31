@@ -1,0 +1,1 @@
+select max(note) as notemaximum from Stagiaires;

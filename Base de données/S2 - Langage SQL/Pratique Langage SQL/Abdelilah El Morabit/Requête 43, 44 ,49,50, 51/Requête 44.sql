@@ -1,0 +1,1 @@
+select nom,prenom,note from Stagiaires order by note desc;
