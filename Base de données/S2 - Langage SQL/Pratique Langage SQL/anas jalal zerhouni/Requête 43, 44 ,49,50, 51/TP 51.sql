@@ -1,0 +1,1 @@
+select ville,MAX(note_bac) as note from Stagiaires group by ville having MAX(note_bac) >15;

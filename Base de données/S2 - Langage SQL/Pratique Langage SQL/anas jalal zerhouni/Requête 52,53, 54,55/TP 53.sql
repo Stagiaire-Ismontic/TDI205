@@ -1,0 +1,1 @@
+select * from employee where salaire in (select max(salaire) from employee group by ville)
