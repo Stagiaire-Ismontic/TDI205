@@ -1,0 +1,5 @@
+Create Database GestionProjets;
+Create Table Projets(Id_Projets int,Titre varchar(30),Nombre_Jours_Realisation int,Constraint Pk_Projets Primary key(Id_Projets),constraint ProjetsId Unique(Id_Projets));
+Create Table Tache(Id_Tache int,Titre varchar(30),Projets_Id int,Nombre_Jours_Realisation int,Constraint Pk_Tache Primary key(Id_Tache),Constraint FK_Projets_Tache Foreign key (Projets_Id) References Projets(Id_Projets),constraint TacheId Unique(Id_Tache) );
+Create Table Stagiaires (Id_Stagiaire int, Nom varchar(30), Prenom varchar(30), Cin varchar(30), Ville varchar(30) , Date_Naissance Date, E_Mail varchar(30), Tel_Fixe int, Tel_Portable int,Constraint Pk_Stagiaire Primary key(Id_Stagiaire),constraint StagiareId Unique(Id_Stagiaire));
+Create Table TachesStagiaires(Stagiaire_Id int, Tache_Id int, Date_Debut Date, Date_Fin Date,Constraint FK_TacheStagiaire_Tache Foreign key (Tache_Id) References Tache(Id_Tache),Constraint FK_StagiaireTache_Stagiaire Foreign key (Stagiaire_Id) References Stagiaires(Id_Stagiaire));
