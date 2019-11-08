@@ -1,0 +1,1 @@
+select * from Employe where salaire in (select max(salaire) as salairemax from Employe group by ville);

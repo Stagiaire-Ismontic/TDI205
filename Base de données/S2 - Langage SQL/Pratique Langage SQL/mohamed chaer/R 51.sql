@@ -1,0 +1,1 @@
+Select Ville , max(note) as NoteMax From Stagiaire GROUP BY ville HAVING max(note) > 15 ; 

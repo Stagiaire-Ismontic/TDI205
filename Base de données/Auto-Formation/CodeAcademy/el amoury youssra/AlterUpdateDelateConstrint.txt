@@ -1,0 +1,21 @@
+ALTER TABLE celebs 
+ADD COLUMN twitter_handle TEXT; 
+
+SELECT * FROM celebs;
+//update
+UPDATE celebs 
+SET twitter_handle = '@taylorswift13' 
+WHERE id = 4; 
+
+SELECT * FROM celebs; 
+//delet
+DELETE FROM celebs 
+WHERE twitter_handle IS NULL;
+
+SELECT * FROM celebs;
+//constraints
+CREATE TABLE awards (
+   id INTEGER PRIMARY KEY,
+   recipient TEXT NOT NULL,
+   award_name TEXT DEFAULT 'Grammy'
+);

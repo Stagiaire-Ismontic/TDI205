@@ -1,0 +1,1 @@
+select Max(note) as NoteMax from stagiares Group by ville;

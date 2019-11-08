@@ -1,0 +1,1 @@
+create view ListeStagiaires as select nom,id from Stagiaires;

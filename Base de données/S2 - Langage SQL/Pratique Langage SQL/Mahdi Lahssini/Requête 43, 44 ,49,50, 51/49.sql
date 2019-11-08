@@ -1,0 +1,1 @@
+select MAX(Note_bac) as NoteMaximum from Stagiaires;

@@ -1,0 +1,17 @@
+AlterUpdateDelateConstrint
+//alter
+ ALTER TABLE celebs 
+ADD COLUMN twitter_handle TEXT;
+//update
+ UPDATE celebs 
+SET twitter_handle = '@taylorswift13' 
+WHERE id = 4; 
+//delete
+DELETE FROM celebs 
+//constraints
+ CREATE TABLE awards (
+   id INTEGER PRIMARY KEY,
+   recipient TEXT NOT NULL,
+   award_name TEXT DEFAULT 'Grammy'
+);
+WHERE twitter_handle IS NULL;

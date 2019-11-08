@@ -1,0 +1,1 @@
+Select * From Employé where salaire> ANY(Select MAX (salaire) from Employé GROUP BY ville) ;
