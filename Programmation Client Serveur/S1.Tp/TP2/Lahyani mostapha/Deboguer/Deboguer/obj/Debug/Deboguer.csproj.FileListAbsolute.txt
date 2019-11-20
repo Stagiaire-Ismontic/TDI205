@@ -1,0 +1,7 @@
+C:\Users\Mustapha\Desktop\Dev 2eme anne\Fouad\c#\Deboguer\Deboguer\bin\Debug\Deboguer.exe.config
+C:\Users\Mustapha\Desktop\Dev 2eme anne\Fouad\c#\Deboguer\Deboguer\bin\Debug\Deboguer.exe
+C:\Users\Mustapha\Desktop\Dev 2eme anne\Fouad\c#\Deboguer\Deboguer\bin\Debug\Deboguer.pdb
+C:\Users\Mustapha\Desktop\Dev 2eme anne\Fouad\c#\Deboguer\Deboguer\obj\Debug\Deboguer.csprojAssemblyReference.cache
+C:\Users\Mustapha\Desktop\Dev 2eme anne\Fouad\c#\Deboguer\Deboguer\obj\Debug\Deboguer.csproj.CoreCompileInputs.cache
+C:\Users\Mustapha\Desktop\Dev 2eme anne\Fouad\c#\Deboguer\Deboguer\obj\Debug\Deboguer.exe
+C:\Users\Mustapha\Desktop\Dev 2eme anne\Fouad\c#\Deboguer\Deboguer\obj\Debug\Deboguer.pdb

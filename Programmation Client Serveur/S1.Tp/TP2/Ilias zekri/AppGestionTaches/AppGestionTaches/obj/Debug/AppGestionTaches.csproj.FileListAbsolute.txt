@@ -1,0 +1,36 @@
+C:\Users\TP\Desktop\AppGestionTaches\AppGestionTaches\bin\Debug\AppGestionTaches.exe.config
+C:\Users\TP\Desktop\AppGestionTaches\AppGestionTaches\bin\Debug\AppGestionTaches.exe
+C:\Users\TP\Desktop\AppGestionTaches\AppGestionTaches\bin\Debug\AppGestionTaches.pdb
+C:\Users\TP\Desktop\AppGestionTaches\AppGestionTaches\obj\Debug\AppGestionTaches.csprojResolveAssemblyReference.cache
+C:\Users\TP\Desktop\AppGestionTaches\AppGestionTaches\obj\Debug\AppGestionTaches.Presentation.GestionProjets.FormGererProjets.resources
+C:\Users\TP\Desktop\AppGestionTaches\AppGestionTaches\obj\Debug\AppGestionTaches.Properties.Resources.resources
+C:\Users\TP\Desktop\AppGestionTaches\AppGestionTaches\obj\Debug\AppGestionTaches.csproj.GenerateResource.Cache
+C:\Users\TP\Desktop\AppGestionTaches\AppGestionTaches\obj\Debug\AppGestionTaches.exe
+C:\Users\TP\Desktop\AppGestionTaches\AppGestionTaches\obj\Debug\AppGestionTaches.pdb
+C:\Users\TP\Desktop\AppGestionTaches\AppGestionTaches\obj\Debug\AppGestionTaches.FormApplication.resources
+G:\Base des données\Programmation\AppGestionTaches\AppGestionTaches\bin\Debug\AppGestionTaches.exe.config
+G:\Base des données\Programmation\AppGestionTaches\AppGestionTaches\obj\Debug\AppGestionTaches.exe
+G:\Base des données\Programmation\AppGestionTaches\AppGestionTaches\obj\Debug\AppGestionTaches.pdb
+G:\Base des données\Programmation\AppGestionTaches\AppGestionTaches\bin\Debug\AppGestionTaches.exe
+G:\Base des données\Programmation\AppGestionTaches\AppGestionTaches\bin\Debug\AppGestionTaches.pdb
+G:\Base des données\Programmation\AppGestionTaches\AppGestionTaches\obj\Debug\AppGestionTaches.csprojResolveAssemblyReference.cache
+G:\Base des données\Programmation\AppGestionTaches\AppGestionTaches\obj\Debug\AppGestionTaches.FormApplication.resources
+G:\Base des données\Programmation\AppGestionTaches\AppGestionTaches\obj\Debug\AppGestionTaches.Presentation.GestionProjets.FormGererProjets.resources
+G:\Base des données\Programmation\AppGestionTaches\AppGestionTaches\obj\Debug\AppGestionTaches.Properties.Resources.resources
+G:\Base des données\Programmation\AppGestionTaches\AppGestionTaches\obj\Debug\AppGestionTaches.csproj.GenerateResource.Cache
+F:\Base des données\Programmation\AppGestionTaches\AppGestionTaches\bin\Debug\AppGestionTaches.exe.config
+F:\Base des données\Programmation\AppGestionTaches\AppGestionTaches\obj\Debug\AppGestionTaches.exe
+F:\Base des données\Programmation\AppGestionTaches\AppGestionTaches\obj\Debug\AppGestionTaches.pdb
+F:\Base des données\Programmation\AppGestionTaches\AppGestionTaches\bin\Debug\AppGestionTaches.exe
+F:\Base des données\Programmation\AppGestionTaches\AppGestionTaches\bin\Debug\AppGestionTaches.pdb
+F:\Base des données\Programmation\AppGestionTaches\AppGestionTaches\obj\Debug\AppGestionTaches.csprojResolveAssemblyReference.cache
+F:\Base des données\Programmation\AppGestionTaches\AppGestionTaches\obj\Debug\AppGestionTaches.FormApplication.resources
+F:\Base des données\Programmation\AppGestionTaches\AppGestionTaches\obj\Debug\AppGestionTaches.Presentation.GestionProjets.FormGererProjets.resources
+F:\Base des données\Programmation\AppGestionTaches\AppGestionTaches\obj\Debug\AppGestionTaches.Properties.Resources.resources
+F:\Base des données\Programmation\AppGestionTaches\AppGestionTaches\obj\Debug\AppGestionTaches.csproj.GenerateResource.Cache
+F:\Base des données\Programmation\Tp1(Gestion Stagiaires)\AppGestionTaches\AppGestionTaches\bin\Debug\AppGestionTaches.exe.config
+F:\Base des données\Programmation\Tp1(Gestion Stagiaires)\AppGestionTaches\AppGestionTaches\obj\Debug\AppGestionTaches.exe
+F:\Base des données\Programmation\Tp1(Gestion Stagiaires)\AppGestionTaches\AppGestionTaches\obj\Debug\AppGestionTaches.pdb
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\S1.Tp\TP2\Ilias zekri\AppGestionTaches\AppGestionTaches\bin\Debug\AppGestionTaches.exe.config
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\S1.Tp\TP2\Ilias zekri\AppGestionTaches\AppGestionTaches\obj\Debug\AppGestionTaches.exe
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\S1.Tp\TP2\Ilias zekri\AppGestionTaches\AppGestionTaches\obj\Debug\AppGestionTaches.pdb
