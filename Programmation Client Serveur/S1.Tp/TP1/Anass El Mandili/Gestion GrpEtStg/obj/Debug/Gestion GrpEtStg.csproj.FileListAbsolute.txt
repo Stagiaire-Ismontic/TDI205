@@ -1,0 +1,22 @@
+C:\Gestion GrpEtStg\Gestion GrpEtStg\bin\Debug\Gestion GrpEtStg.exe.config
+C:\Gestion GrpEtStg\Gestion GrpEtStg\bin\Debug\Gestion GrpEtStg.exe
+C:\Gestion GrpEtStg\Gestion GrpEtStg\bin\Debug\Gestion GrpEtStg.pdb
+C:\Gestion GrpEtStg\Gestion GrpEtStg\obj\Debug\Gestion GrpEtStg.csprojResolveAssemblyReference.cache
+C:\Gestion GrpEtStg\Gestion GrpEtStg\obj\Debug\Gestion_GrpEtStg.Properties.Resources.resources
+C:\Gestion GrpEtStg\Gestion GrpEtStg\obj\Debug\Gestion GrpEtStg.csproj.GenerateResource.Cache
+C:\Gestion GrpEtStg\Gestion GrpEtStg\obj\Debug\Gestion GrpEtStg.exe
+C:\Gestion GrpEtStg\Gestion GrpEtStg\obj\Debug\Gestion GrpEtStg.pdb
+F:\MOI\Gestion GrpEtStg\Gestion GrpEtStg\bin\Debug\Gestion GrpEtStg.exe.config
+F:\MOI\Gestion GrpEtStg\Gestion GrpEtStg\obj\Debug\Gestion GrpEtStg.exe
+F:\MOI\Gestion GrpEtStg\Gestion GrpEtStg\obj\Debug\Gestion GrpEtStg.pdb
+E:\MOI\Gestion GrpEtStg\Gestion GrpEtStg\bin\Debug\Gestion GrpEtStg.exe.config
+E:\MOI\Gestion GrpEtStg\Gestion GrpEtStg\bin\Debug\Gestion GrpEtStg.exe
+E:\MOI\Gestion GrpEtStg\Gestion GrpEtStg\bin\Debug\Gestion GrpEtStg.pdb
+E:\MOI\Gestion GrpEtStg\Gestion GrpEtStg\obj\Debug\Gestion GrpEtStg.csprojAssemblyReference.cache
+E:\MOI\Gestion GrpEtStg\Gestion GrpEtStg\obj\Debug\Gestion_GrpEtStg.Form1.resources
+E:\MOI\Gestion GrpEtStg\Gestion GrpEtStg\obj\Debug\Gestion_GrpEtStg.Properties.Resources.resources
+E:\MOI\Gestion GrpEtStg\Gestion GrpEtStg\obj\Debug\Gestion GrpEtStg.csproj.GenerateResource.cache
+E:\MOI\Gestion GrpEtStg\Gestion GrpEtStg\obj\Debug\Gestion GrpEtStg.exe
+E:\MOI\Gestion GrpEtStg\Gestion GrpEtStg\obj\Debug\Gestion GrpEtStg.pdb
+E:\MOI\Gestion GrpEtStg\Gestion GrpEtStg\obj\Debug\Gestion_GrpEtStg.Form2.resources
+E:\MOI\Gestion GrpEtStg\Gestion GrpEtStg\obj\Debug\Gestion_GrpEtStg.Form3.resources
