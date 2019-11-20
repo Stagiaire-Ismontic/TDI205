@@ -1,0 +1,13 @@
+C:\Users\ITM Professional\Desktop\CommandInsert\bin\Debug\CommandInsert.exe.config
+C:\Users\ITM Professional\Desktop\CommandInsert\bin\Debug\CommandInsert.exe
+C:\Users\ITM Professional\Desktop\CommandInsert\bin\Debug\CommandInsert.pdb
+C:\Users\ITM Professional\Desktop\CommandInsert\obj\Debug\CommandInsert.csprojAssemblyReference.cache
+C:\Users\ITM Professional\Desktop\CommandInsert\obj\Debug\CommandInsert.csproj.CoreCompileInputs.cache
+C:\Users\ITM Professional\Desktop\CommandInsert\obj\Debug\CommandInsert.exe
+C:\Users\ITM Professional\Desktop\CommandInsert\obj\Debug\CommandInsert.pdb
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\S1.Tp\TP3\mohcine touil\Connection-CommandInsert\bin\Debug\CommandInsert.exe.config
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\S1.Tp\TP3\mohcine touil\Connection-CommandInsert\obj\Debug\CommandInsert.exe
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\S1.Tp\TP3\mohcine touil\Connection-CommandInsert\obj\Debug\CommandInsert.pdb
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\S1.Tp\TP3\mohcine touil\Connection-CommandInsert\bin\Debug\CommandInsert.exe
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\S1.Tp\TP3\mohcine touil\Connection-CommandInsert\bin\Debug\CommandInsert.pdb
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\S1.Tp\TP3\mohcine touil\Connection-CommandInsert\obj\Debug\CommandInsert.csprojResolveAssemblyReference.cache
