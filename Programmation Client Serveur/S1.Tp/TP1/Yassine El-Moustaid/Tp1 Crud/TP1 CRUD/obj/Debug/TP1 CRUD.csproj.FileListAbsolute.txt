@@ -1,0 +1,12 @@
+C:\Users\TP\Documents\Abdelilah el morabit\TP1 CRUD\TP1 CRUD\bin\Debug\TP1 CRUD.exe.config
+C:\Users\TP\Documents\Abdelilah el morabit\TP1 CRUD\TP1 CRUD\obj\Debug\TP1 CRUD.csprojResolveAssemblyReference.cache
+C:\Users\TP\Documents\Abdelilah el morabit\TP1 CRUD\TP1 CRUD\obj\Debug\TP1_CRUD.GroupeForm.resources
+C:\Users\TP\Documents\Abdelilah el morabit\TP1 CRUD\TP1 CRUD\obj\Debug\TP1_CRUD.Properties.Resources.resources
+C:\Users\TP\Documents\Abdelilah el morabit\TP1 CRUD\TP1 CRUD\obj\Debug\TP1 CRUD.csproj.GenerateResource.Cache
+C:\Users\TP\Documents\Abdelilah el morabit\TP1 CRUD\TP1 CRUD\bin\Debug\TP1 CRUD.exe
+C:\Users\TP\Documents\Abdelilah el morabit\TP1 CRUD\TP1 CRUD\bin\Debug\TP1 CRUD.pdb
+C:\Users\TP\Documents\Abdelilah el morabit\TP1 CRUD\TP1 CRUD\obj\Debug\TP1 CRUD.exe
+C:\Users\TP\Documents\Abdelilah el morabit\TP1 CRUD\TP1 CRUD\obj\Debug\TP1 CRUD.pdb
+C:\Users\Yassine\OneDrive\Images\Yassine El-Moustaid\Tp1 Crud\TP1 CRUD\bin\Debug\TP1 CRUD.exe.config
+C:\Users\Yassine\OneDrive\Images\Yassine El-Moustaid\Tp1 Crud\TP1 CRUD\obj\Debug\TP1 CRUD.exe
+C:\Users\Yassine\OneDrive\Images\Yassine El-Moustaid\Tp1 Crud\TP1 CRUD\obj\Debug\TP1 CRUD.pdb
