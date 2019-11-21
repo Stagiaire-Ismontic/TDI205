@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\deboguage\deboguage\obj\Debug\deboguage.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\deboguage\deboguage\obj\Debug\deboguage.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\deboguage\deboguage\bin\Debug\deboguage.exe.config
+C:\Users\HP\source\repos\deboguage\deboguage\bin\Debug\deboguage.exe
+C:\Users\HP\source\repos\deboguage\deboguage\bin\Debug\deboguage.pdb
+C:\Users\HP\source\repos\deboguage\deboguage\obj\Debug\deboguage.exe
+C:\Users\HP\source\repos\deboguage\deboguage\obj\Debug\deboguage.pdb

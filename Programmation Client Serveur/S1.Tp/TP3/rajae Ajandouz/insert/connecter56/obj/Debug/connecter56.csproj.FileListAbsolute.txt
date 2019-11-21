@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\connecter56\connecter56\bin\Debug\connecter56.exe.config
+C:\Users\HP\source\repos\connecter56\connecter56\bin\Debug\connecter56.exe
+C:\Users\HP\source\repos\connecter56\connecter56\bin\Debug\connecter56.pdb
+C:\Users\HP\source\repos\connecter56\connecter56\obj\Debug\connecter56.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\connecter56\connecter56\obj\Debug\connecter56.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\connecter56\connecter56\obj\Debug\connecter56.exe
+C:\Users\HP\source\repos\connecter56\connecter56\obj\Debug\connecter56.pdb

@@ -1,0 +1,9 @@
+c:\users\hp probook\documents\visual studio 2015\Projects\SQL\SQL\bin\Debug\SQL.exe.config
+c:\users\hp probook\documents\visual studio 2015\Projects\SQL\SQL\bin\Debug\SQL.exe
+c:\users\hp probook\documents\visual studio 2015\Projects\SQL\SQL\bin\Debug\SQL.pdb
+c:\users\hp probook\documents\visual studio 2015\Projects\SQL\SQL\obj\Debug\SQL.csprojResolveAssemblyReference.cache
+c:\users\hp probook\documents\visual studio 2015\Projects\SQL\SQL\obj\Debug\SQL.exe
+c:\users\hp probook\documents\visual studio 2015\Projects\SQL\SQL\obj\Debug\SQL.pdb
+E:\loubna_jaabak_c#\mode connecte\SQL\bin\Debug\SQL.exe.config
+E:\loubna_jaabak_c#\mode connecte\SQL\obj\Debug\SQL.exe
+E:\loubna_jaabak_c#\mode connecte\SQL\obj\Debug\SQL.pdb
