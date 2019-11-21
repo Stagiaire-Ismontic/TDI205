@@ -1,0 +1,8 @@
+c:\users\j\documents\visual studio 2015\Projects\TP1_PCS\TP1_PCS\obj\Debug\TP1_PCS.csprojResolveAssemblyReference.cache
+c:\users\j\documents\visual studio 2015\Projects\TP1_PCS\TP1_PCS\obj\Debug\TP1_PCS.Form1.resources
+c:\users\j\documents\visual studio 2015\Projects\TP1_PCS\TP1_PCS\obj\Debug\TP1_PCS.Properties.Resources.resources
+c:\users\j\documents\visual studio 2015\Projects\TP1_PCS\TP1_PCS\obj\Debug\TP1_PCS.csproj.GenerateResource.Cache
+c:\users\j\documents\visual studio 2015\Projects\TP1_PCS\TP1_PCS\bin\Debug\TP1_PCS.exe
+c:\users\j\documents\visual studio 2015\Projects\TP1_PCS\TP1_PCS\bin\Debug\TP1_PCS.pdb
+c:\users\j\documents\visual studio 2015\Projects\TP1_PCS\TP1_PCS\obj\Debug\TP1_PCS.exe
+c:\users\j\documents\visual studio 2015\Projects\TP1_PCS\TP1_PCS\obj\Debug\TP1_PCS.pdb
