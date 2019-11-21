@@ -1,0 +1,9 @@
+E:\exempleDeboguage\exempleDeboguage\bin\Debug\exempleDeboguage.exe.config
+E:\exempleDeboguage\exempleDeboguage\obj\Debug\exempleDeboguage.csprojResolveAssemblyReference.cache
+E:\exempleDeboguage\exempleDeboguage\bin\Debug\exempleDeboguage.exe
+E:\exempleDeboguage\exempleDeboguage\bin\Debug\exempleDeboguage.pdb
+E:\exempleDeboguage\exempleDeboguage\obj\Debug\exempleDeboguage.exe
+E:\exempleDeboguage\exempleDeboguage\obj\Debug\exempleDeboguage.pdb
+D:\exempleDeboguage\exempleDeboguage\bin\Debug\exempleDeboguage.exe.config
+D:\exempleDeboguage\exempleDeboguage\obj\Debug\exempleDeboguage.exe
+D:\exempleDeboguage\exempleDeboguage\obj\Debug\exempleDeboguage.pdb
