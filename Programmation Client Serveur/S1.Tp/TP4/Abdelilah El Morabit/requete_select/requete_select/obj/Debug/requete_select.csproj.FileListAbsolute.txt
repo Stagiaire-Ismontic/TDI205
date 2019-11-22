@@ -1,0 +1,2 @@
+c:\users\yassine\onedrive\documents\visual studio 2015\Projects\requete_select\requete_select\bin\Debug\requete_select.exe.config
+E:\requete_select\requete_select\obj\Debug\requete_select.csprojAssemblyReference.cache

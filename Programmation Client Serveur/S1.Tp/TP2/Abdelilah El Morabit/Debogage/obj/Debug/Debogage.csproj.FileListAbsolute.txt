@@ -1,0 +1,12 @@
+C:\Users\TP\source\repos\Debogage\bin\Debug\Debogage.exe.config
+C:\Users\TP\source\repos\Debogage\bin\Debug\Debogage.exe
+C:\Users\TP\source\repos\Debogage\bin\Debug\Debogage.pdb
+C:\Users\TP\source\repos\Debogage\obj\Debug\Debogage.csprojAssemblyReference.cache
+C:\Users\TP\source\repos\Debogage\obj\Debug\Debogage.exe
+C:\Users\TP\source\repos\Debogage\obj\Debug\Debogage.pdb
+F:\Abdelilah El Morabit\debogage\Debogage\bin\Debug\Debogage.exe.config
+F:\Abdelilah El Morabit\debogage\Debogage\bin\Debug\Debogage.exe
+F:\Abdelilah El Morabit\debogage\Debogage\bin\Debug\Debogage.pdb
+F:\Abdelilah El Morabit\debogage\Debogage\obj\Debug\Debogage.csprojAssemblyReference.cache
+F:\Abdelilah El Morabit\debogage\Debogage\obj\Debug\Debogage.exe
+F:\Abdelilah El Morabit\debogage\Debogage\obj\Debug\Debogage.pdb
