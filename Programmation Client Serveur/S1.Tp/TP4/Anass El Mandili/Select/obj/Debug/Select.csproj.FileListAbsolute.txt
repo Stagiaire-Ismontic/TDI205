@@ -1,0 +1,6 @@
+C:\Users\TP\Desktop\Select\bin\Debug\Select.exe.config
+C:\Users\TP\Desktop\Select\bin\Debug\Select.exe
+C:\Users\TP\Desktop\Select\bin\Debug\Select.pdb
+C:\Users\TP\Desktop\Select\obj\Debug\Select.csprojAssemblyReference.cache
+C:\Users\TP\Desktop\Select\obj\Debug\Select.exe
+C:\Users\TP\Desktop\Select\obj\Debug\Select.pdb
