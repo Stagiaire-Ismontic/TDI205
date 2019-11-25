@@ -1,0 +1,6 @@
+E:\select\select\bin\Debug\select.exe.config
+E:\select\select\bin\Debug\select.exe
+E:\select\select\bin\Debug\select.pdb
+E:\select\select\obj\Debug\select.csprojResolveAssemblyReference.cache
+E:\select\select\obj\Debug\select.exe
+E:\select\select\obj\Debug\select.pdb

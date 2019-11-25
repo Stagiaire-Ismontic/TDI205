@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\connection66\connection66\bin\Debug\connection66.exe.config
+C:\Users\HP\source\repos\connection66\connection66\bin\Debug\connection66.exe
+C:\Users\HP\source\repos\connection66\connection66\bin\Debug\connection66.pdb
+C:\Users\HP\source\repos\connection66\connection66\obj\Debug\connection66.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\connection66\connection66\obj\Debug\connection66.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\connection66\connection66\obj\Debug\connection66.exe
+C:\Users\HP\source\repos\connection66\connection66\obj\Debug\connection66.pdb

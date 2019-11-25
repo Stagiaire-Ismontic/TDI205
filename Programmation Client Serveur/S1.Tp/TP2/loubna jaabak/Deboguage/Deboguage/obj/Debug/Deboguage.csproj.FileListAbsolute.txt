@@ -1,0 +1,6 @@
+c:\users\hp probook\documents\visual studio 2015\Projects\Deboguage\Deboguage\bin\Debug\Deboguage.exe.config
+c:\users\hp probook\documents\visual studio 2015\Projects\Deboguage\Deboguage\bin\Debug\Deboguage.exe
+c:\users\hp probook\documents\visual studio 2015\Projects\Deboguage\Deboguage\bin\Debug\Deboguage.pdb
+c:\users\hp probook\documents\visual studio 2015\Projects\Deboguage\Deboguage\obj\Debug\Deboguage.csprojResolveAssemblyReference.cache
+c:\users\hp probook\documents\visual studio 2015\Projects\Deboguage\Deboguage\obj\Debug\Deboguage.exe
+c:\users\hp probook\documents\visual studio 2015\Projects\Deboguage\Deboguage\obj\Debug\Deboguage.pdb

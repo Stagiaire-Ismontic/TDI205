@@ -1,0 +1,6 @@
+C:\Users\TP\source\repos\Debogage\bin\Debug\Debogage.exe.config
+C:\Users\TP\source\repos\Debogage\bin\Debug\Debogage.exe
+C:\Users\TP\source\repos\Debogage\bin\Debug\Debogage.pdb
+C:\Users\TP\source\repos\Debogage\obj\Debug\Debogage.csprojAssemblyReference.cache
+C:\Users\TP\source\repos\Debogage\obj\Debug\Debogage.exe
+C:\Users\TP\source\repos\Debogage\obj\Debug\Debogage.pdb

@@ -1,0 +1,6 @@
+C:\Users\TP\Desktop\Anass El\tp3\tp3\bin\Debug\tp3.exe.config
+C:\Users\TP\Desktop\Anass El\tp3\tp3\bin\Debug\tp3.exe
+C:\Users\TP\Desktop\Anass El\tp3\tp3\bin\Debug\tp3.pdb
+C:\Users\TP\Desktop\Anass El\tp3\tp3\obj\Debug\tp3.csprojResolveAssemblyReference.cache
+C:\Users\TP\Desktop\Anass El\tp3\tp3\obj\Debug\tp3.exe
+C:\Users\TP\Desktop\Anass El\tp3\tp3\obj\Debug\tp3.pdb

@@ -1,0 +1,21 @@
+C:\Users\lenovo\Desktop\Gestion des livre\Gestion des livre\bin\Debug\Gestion des livre.exe.config
+C:\Users\lenovo\Desktop\Gestion des livre\Gestion des livre\bin\Debug\Gestion des livre.exe
+C:\Users\lenovo\Desktop\Gestion des livre\Gestion des livre\bin\Debug\Gestion des livre.pdb
+C:\Users\lenovo\Desktop\Gestion des livre\Gestion des livre\obj\Debug\Gestion des livre.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\Gestion des livre\Gestion des livre\obj\Debug\Gestion_des_livre.Form1.resources
+C:\Users\lenovo\Desktop\Gestion des livre\Gestion des livre\obj\Debug\Gestion_des_livre.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Gestion des livre\Gestion des livre\obj\Debug\Gestion des livre.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\Gestion des livre\Gestion des livre\obj\Debug\Gestion des livre.exe
+C:\Users\lenovo\Desktop\Gestion des livre\Gestion des livre\obj\Debug\Gestion des livre.pdb
+C:\Users\lenovo\Desktop\language C#\Gestion des livre\Gestion des livre\bin\Debug\Gestion des livre.exe.config
+C:\Users\lenovo\Desktop\language C#\Gestion des livre\Gestion des livre\obj\Debug\Gestion des livre.exe
+C:\Users\lenovo\Desktop\language C#\Gestion des livre\Gestion des livre\obj\Debug\Gestion des livre.pdb
+C:\Users\lenovo\Desktop\language C#\Gestion des livre\Gestion des livre\bin\Debug\Gestion des livre.exe
+C:\Users\lenovo\Desktop\language C#\Gestion des livre\Gestion des livre\bin\Debug\Gestion des livre.pdb
+C:\Users\lenovo\Desktop\language C#\Gestion des livre\Gestion des livre\obj\Debug\Gestion des livre.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\language C#\Gestion des livre\Gestion des livre\obj\Debug\Gestion_des_livre.Form1.resources
+C:\Users\lenovo\Desktop\language C#\Gestion des livre\Gestion des livre\obj\Debug\Gestion_des_livre.Properties.Resources.resources
+C:\Users\lenovo\Desktop\language C#\Gestion des livre\Gestion des livre\obj\Debug\Gestion des livre.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\Gestion des stagiaire\Gestion des livre\bin\Debug\Gestion des livre.exe.config
+C:\Users\lenovo\Desktop\Gestion des stagiaire\Gestion des livre\obj\Debug\Gestion des livre.exe
+C:\Users\lenovo\Desktop\Gestion des stagiaire\Gestion des livre\obj\Debug\Gestion des livre.pdb

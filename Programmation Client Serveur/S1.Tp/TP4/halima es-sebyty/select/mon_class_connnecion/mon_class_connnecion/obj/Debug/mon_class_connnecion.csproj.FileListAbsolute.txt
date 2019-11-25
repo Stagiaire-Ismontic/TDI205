@@ -1,0 +1,9 @@
+C:\Users\lenovo\Desktop\language C#\mon_class_connnecion\mon_class_connnecion\bin\Debug\mon_class_connnecion.exe.config
+C:\Users\lenovo\Desktop\language C#\mon_class_connnecion\mon_class_connnecion\bin\Debug\mon_class_connnecion.exe
+C:\Users\lenovo\Desktop\language C#\mon_class_connnecion\mon_class_connnecion\bin\Debug\mon_class_connnecion.pdb
+C:\Users\lenovo\Desktop\language C#\mon_class_connnecion\mon_class_connnecion\obj\Debug\mon_class_connnecion.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\language C#\mon_class_connnecion\mon_class_connnecion\obj\Debug\mon_class_connnecion.exe
+C:\Users\lenovo\Desktop\language C#\mon_class_connnecion\mon_class_connnecion\obj\Debug\mon_class_connnecion.pdb
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\Mode connecter\Tp4\mon_class_connnecion\mon_class_connnecion\bin\Debug\mon_class_connnecion.exe.config
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\Mode connecter\Tp4\mon_class_connnecion\mon_class_connnecion\obj\Debug\mon_class_connnecion.exe
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\Mode connecter\Tp4\mon_class_connnecion\mon_class_connnecion\obj\Debug\mon_class_connnecion.pdb

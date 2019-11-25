@@ -1,0 +1,6 @@
+C:\Users\lenovo\Desktop\deboguer\deboguer\bin\Debug\deboguer.exe.config
+C:\Users\lenovo\Desktop\deboguer\deboguer\bin\Debug\deboguer.exe
+C:\Users\lenovo\Desktop\deboguer\deboguer\bin\Debug\deboguer.pdb
+C:\Users\lenovo\Desktop\deboguer\deboguer\obj\Debug\deboguer.exe
+C:\Users\lenovo\Desktop\deboguer\deboguer\obj\Debug\deboguer.pdb
+C:\Users\lenovo\Desktop\deboguer\deboguer\obj\Debug\deboguer.csprojResolveAssemblyReference.cache

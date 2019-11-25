@@ -1,0 +1,7 @@
+D:\Base des données\Programmation\Tp4\Select\Select\bin\Debug\Select.exe.config
+C:\Users\Stagiaire\Desktop\Oussama Fdili\Select\Select\bin\Debug\Select.exe.config
+C:\Users\Stagiaire\Desktop\Oussama Fdili\Select\Select\bin\Debug\Select.exe
+C:\Users\Stagiaire\Desktop\Oussama Fdili\Select\Select\bin\Debug\Select.pdb
+C:\Users\Stagiaire\Desktop\Oussama Fdili\Select\Select\obj\Debug\Select.csprojResolveAssemblyReference.cache
+C:\Users\Stagiaire\Desktop\Oussama Fdili\Select\Select\obj\Debug\Select.exe
+C:\Users\Stagiaire\Desktop\Oussama Fdili\Select\Select\obj\Debug\Select.pdb

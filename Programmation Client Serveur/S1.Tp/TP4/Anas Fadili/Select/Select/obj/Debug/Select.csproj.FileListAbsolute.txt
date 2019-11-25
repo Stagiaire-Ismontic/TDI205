@@ -1,0 +1,3 @@
+D:\Base des données\Programmation\Tp4\Select\Select\bin\Debug\Select.exe.config
+C:\Users\Stagiaire\Desktop\Anas Fadili\Select\Select\bin\Debug\Select.exe.config
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\S1.Tp\TP4\Anas Fadili\Select\Select\bin\Debug\Select.exe.config
