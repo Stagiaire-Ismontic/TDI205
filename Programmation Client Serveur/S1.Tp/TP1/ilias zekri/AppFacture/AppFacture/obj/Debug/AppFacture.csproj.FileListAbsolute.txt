@@ -1,0 +1,28 @@
+c:\users\ilias\documents\visual studio 2015\Projects\AppFacture\AppFacture\bin\Debug\AppFacture.exe.config
+C:\Users\Ilias\Desktop\AppFacture\AppFacture\bin\Debug\AppFacture.exe.config
+C:\Users\Ilias\Desktop\AppFacture\AppFacture\bin\Debug\AppFacture.exe
+C:\Users\Ilias\Desktop\AppFacture\AppFacture\bin\Debug\AppFacture.pdb
+C:\Users\Ilias\Desktop\AppFacture\AppFacture\obj\Debug\AppFacture.csprojResolveAssemblyReference.cache
+C:\Users\Ilias\Desktop\AppFacture\AppFacture\obj\Debug\AppFacture.Form1.resources
+C:\Users\Ilias\Desktop\AppFacture\AppFacture\obj\Debug\AppFacture.Properties.Resources.resources
+C:\Users\Ilias\Desktop\AppFacture\AppFacture\obj\Debug\AppFacture.csproj.GenerateResource.Cache
+C:\Users\Ilias\Desktop\AppFacture\AppFacture\obj\Debug\AppFacture.exe
+C:\Users\Ilias\Desktop\AppFacture\AppFacture\obj\Debug\AppFacture.pdb
+G:\Base des données\Programmation\Trav Pratique\Tp1(Gestion Facture)\AppFacture\AppFacture\bin\Debug\AppFacture.exe.config
+G:\Base des données\Programmation\Trav Pratique\Tp1(Gestion Facture)\AppFacture\AppFacture\obj\Debug\AppFacture.exe
+G:\Base des données\Programmation\Trav Pratique\Tp1(Gestion Facture)\AppFacture\AppFacture\obj\Debug\AppFacture.pdb
+G:\Base des données\Programmation\Trav Pratique\Tp1(Gestion Facture)\AppFacture\AppFacture\bin\Debug\AppFacture.exe
+G:\Base des données\Programmation\Trav Pratique\Tp1(Gestion Facture)\AppFacture\AppFacture\bin\Debug\AppFacture.pdb
+G:\Base des données\Programmation\Trav Pratique\Tp1(Gestion Facture)\AppFacture\AppFacture\obj\Debug\AppFacture.csprojResolveAssemblyReference.cache
+G:\Base des données\Programmation\Trav Pratique\Tp1(Gestion Facture)\AppFacture\AppFacture\obj\Debug\AppFacture.Properties.Resources.resources
+G:\Base des données\Programmation\Trav Pratique\Tp1(Gestion Facture)\AppFacture\AppFacture\obj\Debug\AppFacture.csproj.GenerateResource.Cache
+G:\Base des données\Programmation\Trav Pratique\Tp1(Gestion Facture)\AppFacture\AppFacture\obj\Debug\AppFacture.GestionnaireFactures.resources
+C:\Users\Omar\Desktop\AppFacture\AppFacture\bin\Debug\AppFacture.exe.config
+C:\Users\Omar\Desktop\AppFacture\AppFacture\obj\Debug\AppFacture.exe
+C:\Users\Omar\Desktop\AppFacture\AppFacture\obj\Debug\AppFacture.pdb
+C:\Users\Omar\Desktop\AppFacture\AppFacture\bin\Debug\AppFacture.exe
+C:\Users\Omar\Desktop\AppFacture\AppFacture\bin\Debug\AppFacture.pdb
+C:\Users\Omar\Desktop\AppFacture\AppFacture\obj\Debug\AppFacture.csprojResolveAssemblyReference.cache
+C:\Users\Omar\Desktop\AppFacture\AppFacture\obj\Debug\AppFacture.GestionnaireFactures.resources
+C:\Users\Omar\Desktop\AppFacture\AppFacture\obj\Debug\AppFacture.Properties.Resources.resources
+C:\Users\Omar\Desktop\AppFacture\AppFacture\obj\Debug\AppFacture.csproj.GenerateResource.Cache
