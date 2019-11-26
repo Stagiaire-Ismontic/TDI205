@@ -1,0 +1,29 @@
+C:\Users\ESSARRAJ-Fouad\Desktop\TD - Classe DAO\GestionStagiaires\GestionStagiaires\bin\Debug\GestionStagiaires.exe.config
+C:\Users\ESSARRAJ-Fouad\Desktop\TD - Classe DAO\GestionStagiaires\GestionStagiaires\bin\Debug\GestionStagiaires.exe
+C:\Users\ESSARRAJ-Fouad\Desktop\TD - Classe DAO\GestionStagiaires\GestionStagiaires\bin\Debug\GestionStagiaires.pdb
+C:\Users\ESSARRAJ-Fouad\Desktop\TD - Classe DAO\GestionStagiaires\GestionStagiaires\obj\Debug\GestionStagiaires.csprojResolveAssemblyReference.cache
+C:\Users\ESSARRAJ-Fouad\Desktop\TD - Classe DAO\GestionStagiaires\GestionStagiaires\obj\Debug\GestionStagiaires.exe
+C:\Users\ESSARRAJ-Fouad\Desktop\TD - Classe DAO\GestionStagiaires\GestionStagiaires\obj\Debug\GestionStagiaires.pdb
+C:\Users\ES-SARRAJ Fouad\Google Drive\Formations\Modules\1 - App client serveur 2017\Tp et TD\Partie 1 - Mode connecté\TD - Classe DAO\GestionStagiaires\GestionStagiaires\bin\Debug\GestionStagiaires.exe.config
+C:\Users\ES-SARRAJ Fouad\Google Drive\Formations\Modules\1 - App client serveur 2017\Tp et TD\Partie 1 - Mode connecté\TD - Classe DAO\GestionStagiaires\GestionStagiaires\obj\Debug\GestionStagiaires.exe
+C:\Users\ES-SARRAJ Fouad\Google Drive\Formations\Modules\1 - App client serveur 2017\Tp et TD\Partie 1 - Mode connecté\TD - Classe DAO\GestionStagiaires\GestionStagiaires\obj\Debug\GestionStagiaires.pdb
+C:\Users\ES-SARRAJ Fouad\Google Drive\Formations\Modules\1 - App client serveur 2017\Tp et TD\Partie 1 - Mode connecté\TD - Classe DAO\GestionStagiaires\GestionStagiaires\bin\Debug\GestionStagiaires.exe
+C:\Users\ES-SARRAJ Fouad\Google Drive\Formations\Modules\1 - App client serveur 2017\Tp et TD\Partie 1 - Mode connecté\TD - Classe DAO\GestionStagiaires\GestionStagiaires\bin\Debug\GestionStagiaires.pdb
+C:\Users\ES-SARRAJ Fouad\Google Drive\Formations\Modules\1 - App client serveur 2017\Tp et TD\Partie 1 - Mode connecté\TD - Classe DAO\GestionStagiaires\GestionStagiaires\obj\Debug\GestionStagiaires.csprojResolveAssemblyReference.cache
+C:\Users\ES-SARRAJ Fouad\Google Drive\Formations\Modules\1 - App client serveur 2017\Tp et TD\Partie 1 - Mode connecté\TD 8 - Classe GestionGroupe\GestionStagiaires\GestionStagiaires\bin\Debug\GestionStagiaires.exe.config
+C:\Users\ES-SARRAJ Fouad\Google Drive\Formations\Modules\1 - App client serveur 2017\Tp et TD\Partie 1 - Mode connecté\TD 8 - Classe GestionGroupe\GestionStagiaires\GestionStagiaires\obj\Debug\GestionStagiaires.exe
+C:\Users\ES-SARRAJ Fouad\Google Drive\Formations\Modules\1 - App client serveur 2017\Tp et TD\Partie 1 - Mode connecté\TD 8 - Classe GestionGroupe\GestionStagiaires\GestionStagiaires\obj\Debug\GestionStagiaires.pdb
+D:\Google Drive\Formations\Modules\App client serveur 2019\Tp et TD\Partie 1 - Mode connecté\TD 8 - Classe GestionGroupe\GestionStagiaires\GestionStagiaires\bin\Debug\GestionStagiaires.exe.config
+D:\Google Drive\Formations\Modules\App client serveur 2019\Tp et TD\Partie 1 - Mode connecté\TD 8 - Classe GestionGroupe\GestionStagiaires\GestionStagiaires\bin\Debug\GestionStagiaires.exe
+D:\Google Drive\Formations\Modules\App client serveur 2019\Tp et TD\Partie 1 - Mode connecté\TD 8 - Classe GestionGroupe\GestionStagiaires\GestionStagiaires\bin\Debug\GestionStagiaires.pdb
+D:\Google Drive\Formations\Modules\App client serveur 2019\Tp et TD\Partie 1 - Mode connecté\TD 8 - Classe GestionGroupe\GestionStagiaires\GestionStagiaires\obj\Debug\GestionStagiaires.csprojAssemblyReference.cache
+D:\Google Drive\Formations\Modules\App client serveur 2019\Tp et TD\Partie 1 - Mode connecté\TD 8 - Classe GestionGroupe\GestionStagiaires\GestionStagiaires\obj\Debug\GestionStagiaires.csproj.CoreCompileInputs.cache
+D:\Google Drive\Formations\Modules\App client serveur 2019\Tp et TD\Partie 1 - Mode connecté\TD 8 - Classe GestionGroupe\GestionStagiaires\GestionStagiaires\obj\Debug\GestionStagiaires.exe
+D:\Google Drive\Formations\Modules\App client serveur 2019\Tp et TD\Partie 1 - Mode connecté\TD 8 - Classe GestionGroupe\GestionStagiaires\GestionStagiaires\obj\Debug\GestionStagiaires.pdb
+C:\Users\essar_000\Desktop\TD 8 - Classe GestionGroupe\GestionStagiaires\GestionStagiaires\bin\Debug\GestionStagiaires.exe.config
+C:\Users\essar_000\Desktop\TD 8 - Classe GestionGroupe\GestionStagiaires\GestionStagiaires\bin\Debug\GestionStagiaires.exe
+C:\Users\essar_000\Desktop\TD 8 - Classe GestionGroupe\GestionStagiaires\GestionStagiaires\bin\Debug\GestionStagiaires.pdb
+C:\Users\essar_000\Desktop\TD 8 - Classe GestionGroupe\GestionStagiaires\GestionStagiaires\obj\Debug\GestionStagiaires.csprojAssemblyReference.cache
+C:\Users\essar_000\Desktop\TD 8 - Classe GestionGroupe\GestionStagiaires\GestionStagiaires\obj\Debug\GestionStagiaires.csproj.CoreCompileInputs.cache
+C:\Users\essar_000\Desktop\TD 8 - Classe GestionGroupe\GestionStagiaires\GestionStagiaires\obj\Debug\GestionStagiaires.exe
+C:\Users\essar_000\Desktop\TD 8 - Classe GestionGroupe\GestionStagiaires\GestionStagiaires\obj\Debug\GestionStagiaires.pdb
