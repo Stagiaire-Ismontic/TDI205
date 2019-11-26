@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?PowerDesigner AppLocale="Unicode" ID="{18086B01-C9E1-11D4-9552-0090277716A9}" Label="" Name="ModeleFluiditeInformation_1" Objects="6" Symbols="0" Type="{3F78E634-A98C-4FB7-994C-DD5DE09F2C44}" signature="ILM_MODEL_XML" version="15.1.0.2840"?>
+<!-- Veuillez ne pas modifier ce fichier -->
+
+<Model xmlns:a="attribute" xmlns:c="collection" xmlns:o="object">
+
+<o:RootObject Id="o1">
+<c:Children>
+<o:Model Id="o2">
+<a:ObjectID>18086B01-C9E1-11D4-9552-0090277716A9</a:ObjectID>
+<a:Name>ModeleFluiditeInformation_1</a:Name>
+<a:Code>ModeleFluiditeInformation_1</a:Code>
+<c:ExtendedModelDefinitions>
+<o:Shortcut Id="o4">
+<a:ObjectID>6F10C887-DEE4-46CE-8DBC-6D94545577F7</a:ObjectID>
+<a:Name>Replication Server 15.2</a:Name>
+<a:Code>Replication Server 15_2</a:Code>
+<a:TargetStereotype/>
+<a:TargetID>7FA23696-833D-4AE9-A3DE-260F0700825B</a:TargetID>
+<a:TargetClassID>186C8AC3-D3DC-11D3-881C-00508B03C75C</a:TargetClassID>
+</o:Shortcut>
+</c:ExtendedModelDefinitions>
+<c:InformationLiquidityDiagrams>
+<o:InformationLiquidityDiagram Id="o5">
+<a:ObjectID>BAB8E1DC-AE1A-4D71-9F9C-7897F091AB0D</a:ObjectID>
+<a:Name>Diagramme_1</a:Name>
+<a:Code>Diagramme_1</a:Code>
+</o:InformationLiquidityDiagram>
+</c:InformationLiquidityDiagrams>
+<c:DefaultDiagram>
+<o:InformationLiquidityDiagram Ref="o5"/>
+</c:DefaultDiagram>
+<c:TargetModels>
+<o:TargetModel Id="o7">
+<a:ObjectID>4873F65D-88D7-4900-966D-CA12EECCC36C</a:ObjectID>
+<a:Name>Replication Server 15.2</a:Name>
+<a:Code>Replication Server 15_2</a:Code>
+<a:TargetModelURL>file:///%_XEM%/ReplicationServer152.xem</a:TargetModelURL>
+<a:TargetModelID>7FA23696-833D-4AE9-A3DE-260F0700825B</a:TargetModelID>
+<a:TargetModelClassID>186C8AC3-D3DC-11D3-881C-00508B03C75C</a:TargetModelClassID>
+<c:SessionShortcuts>
+<o:Shortcut Ref="o4"/>
+</c:SessionShortcuts>
+</o:TargetModel>
+</c:TargetModels>
+</o:Model>
+</c:Children>
+</o:RootObject>
+
+</Model>
