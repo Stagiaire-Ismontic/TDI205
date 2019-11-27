@@ -1,0 +1,10 @@
+C:\Users\ITM Professional\Desktop\TP05\bin\Debug\TP05.exe.config
+C:\Users\ITM Professional\Desktop\TP05\bin\Debug\TP05.exe
+C:\Users\ITM Professional\Desktop\TP05\bin\Debug\TP05.pdb
+C:\Users\ITM Professional\Desktop\TP05\obj\Debug\TP05.csprojAssemblyReference.cache
+C:\Users\ITM Professional\Desktop\TP05\obj\Debug\TP05.csproj.CoreCompileInputs.cache
+C:\Users\ITM Professional\Desktop\TP05\obj\Debug\TP05.exe
+C:\Users\ITM Professional\Desktop\TP05\obj\Debug\TP05.pdb
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\S1.Tp\TP5\MohcineTouil\TP05\bin\Debug\TP05.exe.config
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\S1.Tp\TP5\MohcineTouil\TP05\obj\Debug\TP05.exe
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\S1.Tp\TP5\MohcineTouil\TP05\obj\Debug\TP05.pdb

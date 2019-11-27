@@ -1,0 +1,9 @@
+C:\Users\TP\Desktop\mode connecter\CRUD_Console\CRUD_En_Console\CRUD_En_Console\bin\Debug\CRUD_En_Console.exe.config
+C:\Users\TP\Desktop\mode connecter\CRUD_Console\CRUD_En_Console\CRUD_En_Console\obj\Debug\CRUD_En_Console.csprojResolveAssemblyReference.cache
+C:\Users\TP\Desktop\mode connecter\CRUD_Console\CRUD_En_Console\CRUD_En_Console\bin\Debug\CRUD_En_Console.exe
+C:\Users\TP\Desktop\mode connecter\CRUD_Console\CRUD_En_Console\CRUD_En_Console\bin\Debug\CRUD_En_Console.pdb
+C:\Users\TP\Desktop\mode connecter\CRUD_Console\CRUD_En_Console\CRUD_En_Console\obj\Debug\CRUD_En_Console.exe
+C:\Users\TP\Desktop\mode connecter\CRUD_Console\CRUD_En_Console\CRUD_En_Console\obj\Debug\CRUD_En_Console.pdb
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\S1.Tp\TP5\Anass El Mandili\CRUD_En_Console\bin\Debug\CRUD_En_Console.exe.config
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\S1.Tp\TP5\Anass El Mandili\CRUD_En_Console\obj\Debug\CRUD_En_Console.exe
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\S1.Tp\TP5\Anass El Mandili\CRUD_En_Console\obj\Debug\CRUD_En_Console.pdb
