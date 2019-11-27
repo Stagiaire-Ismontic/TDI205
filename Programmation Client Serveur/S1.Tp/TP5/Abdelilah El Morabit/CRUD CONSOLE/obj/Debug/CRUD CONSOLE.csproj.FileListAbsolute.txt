@@ -1,0 +1,6 @@
+C:\Users\TP\Desktop\abdelilah el morabit\CRUD CONSOLE\CRUD CONSOLE\obj\Debug\CRUD CONSOLE.csprojAssemblyReference.cache
+C:\Users\TP\Desktop\abdelilah el morabit\CRUD CONSOLE\CRUD CONSOLE\bin\Debug\CRUD CONSOLE.exe.config
+C:\Users\TP\Desktop\abdelilah el morabit\CRUD CONSOLE\CRUD CONSOLE\bin\Debug\CRUD CONSOLE.exe
+C:\Users\TP\Desktop\abdelilah el morabit\CRUD CONSOLE\CRUD CONSOLE\bin\Debug\CRUD CONSOLE.pdb
+C:\Users\TP\Desktop\abdelilah el morabit\CRUD CONSOLE\CRUD CONSOLE\obj\Debug\CRUD CONSOLE.exe
+C:\Users\TP\Desktop\abdelilah el morabit\CRUD CONSOLE\CRUD CONSOLE\obj\Debug\CRUD CONSOLE.pdb

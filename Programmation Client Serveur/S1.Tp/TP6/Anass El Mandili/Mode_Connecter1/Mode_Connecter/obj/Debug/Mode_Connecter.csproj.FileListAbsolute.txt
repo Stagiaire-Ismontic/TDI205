@@ -1,0 +1,29 @@
+C:\Users\TP\Desktop\mode connecter\Mode_Connecter\Mode_Connecter\bin\Debug\Mode_Connecter.exe.config
+C:\Users\TP\Desktop\mode connecter\Mode_Connecter\Mode_Connecter\bin\Debug\Mode_Connecter.exe
+C:\Users\TP\Desktop\mode connecter\Mode_Connecter\Mode_Connecter\bin\Debug\Mode_Connecter.pdb
+C:\Users\TP\Desktop\mode connecter\Mode_Connecter\Mode_Connecter\obj\Debug\Mode_Connecter.csprojResolveAssemblyReference.cache
+C:\Users\TP\Desktop\mode connecter\Mode_Connecter\Mode_Connecter\obj\Debug\Mode_Connecter.Form1.resources
+C:\Users\TP\Desktop\mode connecter\Mode_Connecter\Mode_Connecter\obj\Debug\Mode_Connecter.Properties.Resources.resources
+C:\Users\TP\Desktop\mode connecter\Mode_Connecter\Mode_Connecter\obj\Debug\Mode_Connecter.csproj.GenerateResource.Cache
+C:\Users\TP\Desktop\mode connecter\Mode_Connecter\Mode_Connecter\obj\Debug\Mode_Connecter.exe
+C:\Users\TP\Desktop\mode connecter\Mode_Connecter\Mode_Connecter\obj\Debug\Mode_Connecter.pdb
+E:\TP-6 MonTp\Mode_Connecter\Mode_Connecter\bin\Debug\Mode_Connecter.exe.config
+E:\TP-6 MonTp\Mode_Connecter\Mode_Connecter\obj\Debug\Mode_Connecter.exe
+E:\TP-6 MonTp\Mode_Connecter\Mode_Connecter\obj\Debug\Mode_Connecter.pdb
+C:\Users\TP\Desktop\Mode_Connecter\Mode_Connecter\bin\Debug\Mode_Connecter.exe.config
+C:\Users\TP\Desktop\Mode_Connecter\Mode_Connecter\obj\Debug\Mode_Connecter.exe
+C:\Users\TP\Desktop\Mode_Connecter\Mode_Connecter\obj\Debug\Mode_Connecter.pdb
+C:\Users\TP\Desktop\Mode_Connecter\Mode_Connecter\bin\Debug\Mode_Connecter.exe
+C:\Users\TP\Desktop\Mode_Connecter\Mode_Connecter\bin\Debug\Mode_Connecter.pdb
+C:\Users\TP\Desktop\Mode_Connecter\Mode_Connecter\obj\Debug\Mode_Connecter.csprojResolveAssemblyReference.cache
+C:\Users\TP\Desktop\Mode_Connecter\Mode_Connecter\obj\Debug\Mode_Connecter.Form1.resources
+C:\Users\TP\Desktop\Mode_Connecter\Mode_Connecter\obj\Debug\Mode_Connecter.Properties.Resources.resources
+C:\Users\TP\Desktop\Mode_Connecter\Mode_Connecter\obj\Debug\Mode_Connecter.csproj.GenerateResource.Cache
+C:\Users\TP\Desktop\Mode_Connecter\Mode_Connecter\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\TP-6 MonTp\Mode_Connecter1\Mode_Connecter\bin\Debug\Mode_Connecter.exe.config
+F:\TP-6 MonTp\Mode_Connecter1\Mode_Connecter\obj\Debug\Mode_Connecter.exe
+F:\TP-6 MonTp\Mode_Connecter1\Mode_Connecter\obj\Debug\Mode_Connecter.pdb
+F:\TP-6 MonTp\Mode_Connecter1\Mode_Connecter\obj\Debug\Mode_Connecter.csprojResolveAssemblyReference.cache
+F:\TP-6 MonTp\Mode_Connecter1\Mode_Connecter\obj\Debug\Mode_Connecter.Form1.resources
+F:\TP-6 MonTp\Mode_Connecter1\Mode_Connecter\obj\Debug\Mode_Connecter.Properties.Resources.resources
+F:\TP-6 MonTp\Mode_Connecter1\Mode_Connecter\obj\Debug\Mode_Connecter.csproj.GenerateResource.Cache
