@@ -1,0 +1,6 @@
+c:\users\hp probook\documents\visual studio 2015\Projects\projet_Delegatee\projet_Delegatee\bin\Debug\projet_Delegatee.exe.config
+C:\Users\Hp ProBook\Documents\Visual Studio 2015\Projects\projet_Delegatee\projet_Delegatee\bin\Debug\projet_Delegatee.exe
+C:\Users\Hp ProBook\Documents\Visual Studio 2015\Projects\projet_Delegatee\projet_Delegatee\bin\Debug\projet_Delegatee.pdb
+C:\Users\Hp ProBook\Documents\Visual Studio 2015\Projects\projet_Delegatee\projet_Delegatee\obj\Debug\projet_Delegatee.csprojResolveAssemblyReference.cache
+C:\Users\Hp ProBook\Documents\Visual Studio 2015\Projects\projet_Delegatee\projet_Delegatee\obj\Debug\projet_Delegatee.exe
+C:\Users\Hp ProBook\Documents\Visual Studio 2015\Projects\projet_Delegatee\projet_Delegatee\obj\Debug\projet_Delegatee.pdb
