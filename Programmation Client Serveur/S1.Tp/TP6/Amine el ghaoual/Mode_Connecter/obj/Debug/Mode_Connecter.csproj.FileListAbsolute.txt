@@ -1,0 +1,12 @@
+C:\Users\TP\Desktop\Mode_Connecter\bin\Debug\Mode_Connecter.exe.config
+C:\Users\TP\Desktop\Mode_Connecter\bin\Debug\Mode_Connecter.exe
+C:\Users\TP\Desktop\Mode_Connecter\bin\Debug\Mode_Connecter.pdb
+C:\Users\TP\Desktop\Mode_Connecter\obj\Debug\Mode_Connecter.csprojAssemblyReference.cache
+C:\Users\TP\Desktop\Mode_Connecter\obj\Debug\Mode_Connecter.Form1.resources
+C:\Users\TP\Desktop\Mode_Connecter\obj\Debug\Mode_Connecter.Properties.Resources.resources
+C:\Users\TP\Desktop\Mode_Connecter\obj\Debug\Mode_Connecter.csproj.GenerateResource.cache
+C:\Users\TP\Desktop\Mode_Connecter\obj\Debug\Mode_Connecter.exe
+C:\Users\TP\Desktop\Mode_Connecter\obj\Debug\Mode_Connecter.pdb
+E:\Mode_Connecter\bin\Debug\Mode_Connecter.exe.config
+E:\Mode_Connecter\obj\Debug\Mode_Connecter.exe
+E:\Mode_Connecter\obj\Debug\Mode_Connecter.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mode_Connecter", "Mode_Connecter.csproj", "{D8055384-831A-4A35-9DDD-B39CEFFB7A9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tp5console", "c:\users\j\documents\visual studio 2015\Projects\tp5console\tp5console.csproj", "{C57FE964-A655-475A-8F1A-6DD3F2430835}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8055384-831A-4A35-9DDD-B39CEFFB7A9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8055384-831A-4A35-9DDD-B39CEFFB7A9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8055384-831A-4A35-9DDD-B39CEFFB7A9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8055384-831A-4A35-9DDD-B39CEFFB7A9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C57FE964-A655-475A-8F1A-6DD3F2430835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C57FE964-A655-475A-8F1A-6DD3F2430835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C57FE964-A655-475A-8F1A-6DD3F2430835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C57FE964-A655-475A-8F1A-6DD3F2430835}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F407ADCC-ADB8-4C47-9CC0-CB14535028E1}
+	EndGlobalSection
+EndGlobal
