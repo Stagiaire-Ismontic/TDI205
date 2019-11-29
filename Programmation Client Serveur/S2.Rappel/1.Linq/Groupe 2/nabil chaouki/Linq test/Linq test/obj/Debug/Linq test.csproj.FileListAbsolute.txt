@@ -1,0 +1,5 @@
+c:\users\j\documents\visual studio 2015\Projects\Linq test\Linq test\bin\Debug\Linq test.exe
+c:\users\j\documents\visual studio 2015\Projects\Linq test\Linq test\bin\Debug\Linq test.pdb
+c:\users\j\documents\visual studio 2015\Projects\Linq test\Linq test\obj\Debug\Linq test.csprojResolveAssemblyReference.cache
+c:\users\j\documents\visual studio 2015\Projects\Linq test\Linq test\obj\Debug\Linq test.exe
+c:\users\j\documents\visual studio 2015\Projects\Linq test\Linq test\obj\Debug\Linq test.pdb
