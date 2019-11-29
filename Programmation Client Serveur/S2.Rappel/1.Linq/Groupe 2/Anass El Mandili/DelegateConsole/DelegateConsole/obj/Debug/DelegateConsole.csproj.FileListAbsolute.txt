@@ -1,0 +1,6 @@
+C:\Users\TP\Desktop\DELEGATE\DelegateConsole\DelegateConsole\bin\Debug\DelegateConsole.exe.config
+C:\Users\TP\Desktop\DELEGATE\DelegateConsole\DelegateConsole\bin\Debug\DelegateConsole.exe
+C:\Users\TP\Desktop\DELEGATE\DelegateConsole\DelegateConsole\bin\Debug\DelegateConsole.pdb
+C:\Users\TP\Desktop\DELEGATE\DelegateConsole\DelegateConsole\obj\Debug\DelegateConsole.csprojAssemblyReference.cache
+C:\Users\TP\Desktop\DELEGATE\DelegateConsole\DelegateConsole\obj\Debug\DelegateConsole.exe
+C:\Users\TP\Desktop\DELEGATE\DelegateConsole\DelegateConsole\obj\Debug\DelegateConsole.pdb
