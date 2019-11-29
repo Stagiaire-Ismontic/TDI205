@@ -1,0 +1,6 @@
+E:\groupe1\InferenceDeType\InferenceDeType\bin\Debug\InferenceDeType.exe.config
+E:\groupe1\InferenceDeType\InferenceDeType\bin\Debug\InferenceDeType.exe
+E:\groupe1\InferenceDeType\InferenceDeType\bin\Debug\InferenceDeType.pdb
+E:\groupe1\InferenceDeType\InferenceDeType\obj\Debug\InferenceDeType.csprojResolveAssemblyReference.cache
+E:\groupe1\InferenceDeType\InferenceDeType\obj\Debug\InferenceDeType.exe
+E:\groupe1\InferenceDeType\InferenceDeType\obj\Debug\InferenceDeType.pdb

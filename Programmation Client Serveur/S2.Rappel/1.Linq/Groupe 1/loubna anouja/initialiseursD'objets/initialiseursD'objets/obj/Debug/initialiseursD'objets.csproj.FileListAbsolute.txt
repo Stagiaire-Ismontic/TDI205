@@ -1,0 +1,6 @@
+E:\group1\initialiseursD'objets\initialiseursD'objets\bin\Debug\initialiseursD'objets.exe.config
+E:\group1\initialiseursD'objets\initialiseursD'objets\bin\Debug\initialiseursD'objets.exe
+E:\group1\initialiseursD'objets\initialiseursD'objets\bin\Debug\initialiseursD'objets.pdb
+E:\group1\initialiseursD'objets\initialiseursD'objets\obj\Debug\initialiseursD'objets.csprojResolveAssemblyReference.cache
+E:\group1\initialiseursD'objets\initialiseursD'objets\obj\Debug\initialiseursD'objets.exe
+E:\group1\initialiseursD'objets\initialiseursD'objets\obj\Debug\initialiseursD'objets.pdb
