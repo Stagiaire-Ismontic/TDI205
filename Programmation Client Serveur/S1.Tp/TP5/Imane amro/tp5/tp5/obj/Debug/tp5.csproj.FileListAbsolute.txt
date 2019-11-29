@@ -1,0 +1,6 @@
+F:\tp5\tp5\bin\Debug\tp5.exe.config
+F:\tp5\tp5\bin\Debug\tp5.exe
+F:\tp5\tp5\bin\Debug\tp5.pdb
+F:\tp5\tp5\obj\Debug\tp5.csprojResolveAssemblyReference.cache
+F:\tp5\tp5\obj\Debug\tp5.exe
+F:\tp5\tp5\obj\Debug\tp5.pdb
