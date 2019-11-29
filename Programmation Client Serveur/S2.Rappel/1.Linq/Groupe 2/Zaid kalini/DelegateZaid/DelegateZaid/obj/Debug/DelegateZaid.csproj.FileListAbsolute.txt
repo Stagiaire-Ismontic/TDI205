@@ -1,6 +1,6 @@
 D:\Nouveau dossier\DelegateZaid\DelegateZaid\bin\Debug\DelegateZaid.exe.config
 D:\Nouveau dossier\DelegateZaid\DelegateZaid\bin\Debug\DelegateZaid.exe
 D:\Nouveau dossier\DelegateZaid\DelegateZaid\bin\Debug\DelegateZaid.pdb
-D:\Nouveau dossier\DelegateZaid\DelegateZaid\obj\Debug\DelegateZaid.csprojAssemblyReference.cache
 D:\Nouveau dossier\DelegateZaid\DelegateZaid\obj\Debug\DelegateZaid.exe
 D:\Nouveau dossier\DelegateZaid\DelegateZaid\obj\Debug\DelegateZaid.pdb
+D:\Nouveau dossier\DelegateZaid\DelegateZaid\obj\Debug\DelegateZaid.csprojResolveAssemblyReference.cache
