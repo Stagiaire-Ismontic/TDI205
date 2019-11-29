@@ -27,3 +27,6 @@ F:\TP-6 MonTp\Mode_Connecter1\Mode_Connecter\obj\Debug\Mode_Connecter.csprojReso
 F:\TP-6 MonTp\Mode_Connecter1\Mode_Connecter\obj\Debug\Mode_Connecter.Form1.resources
 F:\TP-6 MonTp\Mode_Connecter1\Mode_Connecter\obj\Debug\Mode_Connecter.Properties.Resources.resources
 F:\TP-6 MonTp\Mode_Connecter1\Mode_Connecter\obj\Debug\Mode_Connecter.csproj.GenerateResource.Cache
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\S1.Tp\TP6\Anass El Mandili\Mode_Connecter1\Mode_Connecter\bin\Debug\Mode_Connecter.exe.config
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\S1.Tp\TP6\Anass El Mandili\Mode_Connecter1\Mode_Connecter\obj\Debug\Mode_Connecter.exe
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\S1.Tp\TP6\Anass El Mandili\Mode_Connecter1\Mode_Connecter\obj\Debug\Mode_Connecter.pdb

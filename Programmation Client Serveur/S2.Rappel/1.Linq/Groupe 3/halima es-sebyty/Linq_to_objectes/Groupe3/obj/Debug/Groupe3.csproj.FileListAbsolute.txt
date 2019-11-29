@@ -1,0 +1,6 @@
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\Mode connecter\Groupe3\Groupe3\bin\Debug\Groupe3.exe.config
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\Mode connecter\Groupe3\Groupe3\bin\Debug\Groupe3.exe
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\Mode connecter\Groupe3\Groupe3\bin\Debug\Groupe3.pdb
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\Mode connecter\Groupe3\Groupe3\obj\Debug\Groupe3.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\Mode connecter\Groupe3\Groupe3\obj\Debug\Groupe3.exe
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\Mode connecter\Groupe3\Groupe3\obj\Debug\Groupe3.pdb

@@ -1,0 +1,18 @@
+C:\Users\lenovo\Desktop\TP6_WindowsForm\TP6_WindowsForm\bin\Debug\TP6_WindowsForm.exe.config
+C:\Users\lenovo\Desktop\TP6_WindowsForm\TP6_WindowsForm\bin\Debug\TP6_WindowsForm.exe
+C:\Users\lenovo\Desktop\TP6_WindowsForm\TP6_WindowsForm\bin\Debug\TP6_WindowsForm.pdb
+C:\Users\lenovo\Desktop\TP6_WindowsForm\TP6_WindowsForm\obj\Debug\TP6_WindowsForm.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\TP6_WindowsForm\TP6_WindowsForm\obj\Debug\TP6_WindowsForm.Form1.resources
+C:\Users\lenovo\Desktop\TP6_WindowsForm\TP6_WindowsForm\obj\Debug\TP6_WindowsForm.Properties.Resources.resources
+C:\Users\lenovo\Desktop\TP6_WindowsForm\TP6_WindowsForm\obj\Debug\TP6_WindowsForm.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\TP6_WindowsForm\TP6_WindowsForm\obj\Debug\TP6_WindowsForm.exe
+C:\Users\lenovo\Desktop\TP6_WindowsForm\TP6_WindowsForm\obj\Debug\TP6_WindowsForm.pdb
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\Mode connecter\TP6_WindowsForm\TP6_WindowsForm\bin\Debug\TP6_WindowsForm.exe.config
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\Mode connecter\TP6_WindowsForm\TP6_WindowsForm\obj\Debug\TP6_WindowsForm.exe
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\Mode connecter\TP6_WindowsForm\TP6_WindowsForm\obj\Debug\TP6_WindowsForm.pdb
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\Mode connecter\TP6_WindowsForm\TP6_WindowsForm\bin\Debug\TP6_WindowsForm.exe
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\Mode connecter\TP6_WindowsForm\TP6_WindowsForm\bin\Debug\TP6_WindowsForm.pdb
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\Mode connecter\TP6_WindowsForm\TP6_WindowsForm\obj\Debug\TP6_WindowsForm.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\Mode connecter\TP6_WindowsForm\TP6_WindowsForm\obj\Debug\TP6_WindowsForm.Form1.resources
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\Mode connecter\TP6_WindowsForm\TP6_WindowsForm\obj\Debug\TP6_WindowsForm.Properties.Resources.resources
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\Mode connecter\TP6_WindowsForm\TP6_WindowsForm\obj\Debug\TP6_WindowsForm.csproj.GenerateResource.Cache

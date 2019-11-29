@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Linq_to_object\Linq_to_object\obj\Debug\Linq_to_object.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Linq_to_object\Linq_to_object\obj\Debug\Linq_to_object.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Linq_to_object\Linq_to_object\bin\Debug\Linq_to_object.exe.config
+C:\Users\HP\source\repos\Linq_to_object\Linq_to_object\bin\Debug\Linq_to_object.exe
+C:\Users\HP\source\repos\Linq_to_object\Linq_to_object\bin\Debug\Linq_to_object.pdb
+C:\Users\HP\source\repos\Linq_to_object\Linq_to_object\obj\Debug\Linq_to_object.exe
+C:\Users\HP\source\repos\Linq_to_object\Linq_to_object\obj\Debug\Linq_to_object.pdb

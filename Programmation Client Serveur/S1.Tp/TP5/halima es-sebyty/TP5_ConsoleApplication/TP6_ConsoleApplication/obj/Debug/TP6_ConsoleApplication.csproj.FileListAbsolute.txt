@@ -1,0 +1,6 @@
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\Mode connecter\TP6_ConsoleApplication\TP6_ConsoleApplication\bin\Debug\TP6_ConsoleApplication.exe.config
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\Mode connecter\TP6_ConsoleApplication\TP6_ConsoleApplication\bin\Debug\TP6_ConsoleApplication.exe
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\Mode connecter\TP6_ConsoleApplication\TP6_ConsoleApplication\bin\Debug\TP6_ConsoleApplication.pdb
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\Mode connecter\TP6_ConsoleApplication\TP6_ConsoleApplication\obj\Debug\TP6_ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\Mode connecter\TP6_ConsoleApplication\TP6_ConsoleApplication\obj\Debug\TP6_ConsoleApplication.exe
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\Mode connecter\TP6_ConsoleApplication\TP6_ConsoleApplication\obj\Debug\TP6_ConsoleApplication.pdb
