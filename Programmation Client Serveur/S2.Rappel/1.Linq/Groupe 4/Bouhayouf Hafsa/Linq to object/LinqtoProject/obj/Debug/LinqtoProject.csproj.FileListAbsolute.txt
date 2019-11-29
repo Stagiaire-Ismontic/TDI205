@@ -1,0 +1,4 @@
+C:\Users\Stagiaire\Desktop\LinqtoProject\LinqtoProject\bin\Debug\LinqtoProject.exe.config
+C:\Users\Stagiaire\Desktop\LinqtoProject\LinqtoProject\obj\Debug\LinqtoProject.csprojResolveAssemblyReference.cache
+C:\Users\Stagiaire\Desktop\Nouveau dossier\LinqtoProject\bin\Debug\LinqtoProject.exe.config
+C:\Users\Stagiaire\Desktop\Nouveau dossier\LinqtoProject\obj\Debug\LinqtoProject.csprojResolveAssemblyReference.cache
