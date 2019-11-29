@@ -1,0 +1,5 @@
+C:\Users\TP\Desktop\Group3\exemple\exemple2\exemple2\bin\Debug\exemple2.exe.config
+C:\Users\TP\Desktop\Group3\exemple\exemple2\exemple2\bin\Debug\exemple2.exe
+C:\Users\TP\Desktop\Group3\exemple\exemple2\exemple2\bin\Debug\exemple2.pdb
+C:\Users\TP\Desktop\Group3\exemple\exemple2\exemple2\obj\Debug\exemple2.exe
+C:\Users\TP\Desktop\Group3\exemple\exemple2\exemple2\obj\Debug\exemple2.pdb
