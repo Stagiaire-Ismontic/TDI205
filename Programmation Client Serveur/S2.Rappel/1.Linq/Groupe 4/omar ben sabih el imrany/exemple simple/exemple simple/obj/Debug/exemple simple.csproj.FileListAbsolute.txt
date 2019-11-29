@@ -1,0 +1,6 @@
+C:\Users\Omar\Desktop\LINQ\exemple simple\exemple simple\bin\Debug\exemple simple.exe.config
+C:\Users\Omar\Desktop\LINQ\exemple simple\exemple simple\bin\Debug\exemple simple.exe
+C:\Users\Omar\Desktop\LINQ\exemple simple\exemple simple\bin\Debug\exemple simple.pdb
+C:\Users\Omar\Desktop\LINQ\exemple simple\exemple simple\obj\Debug\exemple simple.csprojResolveAssemblyReference.cache
+C:\Users\Omar\Desktop\LINQ\exemple simple\exemple simple\obj\Debug\exemple simple.exe
+C:\Users\Omar\Desktop\LINQ\exemple simple\exemple simple\obj\Debug\exemple simple.pdb
