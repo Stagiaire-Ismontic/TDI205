@@ -1,0 +1,9 @@
+C:\Traveaux Pratique\GestionEmployer\GestionEmployer\bin\Debug\GestionEmployer.exe.config
+C:\Traveaux Pratique\GestionEmployer\GestionEmployer\obj\Debug\GestionEmployer.csprojResolveAssemblyReference.cache
+C:\Traveaux Pratique\GestionEmployer\GestionEmployer\bin\Debug\GestionEmployer.exe
+C:\Traveaux Pratique\GestionEmployer\GestionEmployer\bin\Debug\GestionEmployer.pdb
+C:\Traveaux Pratique\GestionEmployer\GestionEmployer\obj\Debug\GestionEmployer.exe
+C:\Traveaux Pratique\GestionEmployer\GestionEmployer\obj\Debug\GestionEmployer.pdb
+C:\Users\TP\Desktop\Importanttttttttt\GestionEmployer\GestionEmployer\bin\Debug\GestionEmployer.exe.config
+C:\Users\TP\Desktop\Importanttttttttt\GestionEmployer\GestionEmployer\obj\Debug\GestionEmployer.exe
+C:\Users\TP\Desktop\Importanttttttttt\GestionEmployer\GestionEmployer\obj\Debug\GestionEmployer.pdb
