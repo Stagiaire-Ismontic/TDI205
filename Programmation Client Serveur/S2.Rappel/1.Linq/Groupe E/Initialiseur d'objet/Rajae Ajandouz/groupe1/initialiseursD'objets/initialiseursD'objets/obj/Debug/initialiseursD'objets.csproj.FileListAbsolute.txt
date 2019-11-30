@@ -1,0 +1,13 @@
+E:\group1\initialiseursD'objets\initialiseursD'objets\bin\Debug\initialiseursD'objets.exe.config
+E:\group1\initialiseursD'objets\initialiseursD'objets\bin\Debug\initialiseursD'objets.exe
+E:\group1\initialiseursD'objets\initialiseursD'objets\bin\Debug\initialiseursD'objets.pdb
+E:\group1\initialiseursD'objets\initialiseursD'objets\obj\Debug\initialiseursD'objets.csprojResolveAssemblyReference.cache
+E:\group1\initialiseursD'objets\initialiseursD'objets\obj\Debug\initialiseursD'objets.exe
+E:\group1\initialiseursD'objets\initialiseursD'objets\obj\Debug\initialiseursD'objets.pdb
+C:\Users\HP\Desktop\groupe1\initialiseursD'objets\initialiseursD'objets\bin\Debug\initialiseursD'objets.exe.config
+C:\Users\HP\Desktop\groupe1\initialiseursD'objets\initialiseursD'objets\bin\Debug\initialiseursD'objets.exe
+C:\Users\HP\Desktop\groupe1\initialiseursD'objets\initialiseursD'objets\bin\Debug\initialiseursD'objets.pdb
+C:\Users\HP\Desktop\groupe1\initialiseursD'objets\initialiseursD'objets\obj\Debug\initialiseursD'objets.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\groupe1\initialiseursD'objets\initialiseursD'objets\obj\Debug\initialiseursD'objets.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\groupe1\initialiseursD'objets\initialiseursD'objets\obj\Debug\initialiseursD'objets.exe
+C:\Users\HP\Desktop\groupe1\initialiseursD'objets\initialiseursD'objets\obj\Debug\initialiseursD'objets.pdb

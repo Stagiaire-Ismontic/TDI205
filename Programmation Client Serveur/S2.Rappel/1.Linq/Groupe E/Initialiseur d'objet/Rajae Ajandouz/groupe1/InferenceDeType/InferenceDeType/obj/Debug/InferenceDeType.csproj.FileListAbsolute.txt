@@ -1,0 +1,13 @@
+E:\groupe1\InferenceDeType\InferenceDeType\bin\Debug\InferenceDeType.exe.config
+E:\groupe1\InferenceDeType\InferenceDeType\bin\Debug\InferenceDeType.exe
+E:\groupe1\InferenceDeType\InferenceDeType\bin\Debug\InferenceDeType.pdb
+E:\groupe1\InferenceDeType\InferenceDeType\obj\Debug\InferenceDeType.csprojResolveAssemblyReference.cache
+E:\groupe1\InferenceDeType\InferenceDeType\obj\Debug\InferenceDeType.exe
+E:\groupe1\InferenceDeType\InferenceDeType\obj\Debug\InferenceDeType.pdb
+C:\Users\HP\Desktop\groupe1\InferenceDeType\InferenceDeType\bin\Debug\InferenceDeType.exe.config
+C:\Users\HP\Desktop\groupe1\InferenceDeType\InferenceDeType\bin\Debug\InferenceDeType.exe
+C:\Users\HP\Desktop\groupe1\InferenceDeType\InferenceDeType\bin\Debug\InferenceDeType.pdb
+C:\Users\HP\Desktop\groupe1\InferenceDeType\InferenceDeType\obj\Debug\InferenceDeType.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\groupe1\InferenceDeType\InferenceDeType\obj\Debug\InferenceDeType.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\groupe1\InferenceDeType\InferenceDeType\obj\Debug\InferenceDeType.exe
+C:\Users\HP\Desktop\groupe1\InferenceDeType\InferenceDeType\obj\Debug\InferenceDeType.pdb

@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\ConsoleApp10_groupe2\ConsoleApp10_groupe2\bin\Debug\ConsoleApp10_groupe2.exe.config
+C:\Users\HP\source\repos\ConsoleApp10_groupe2\ConsoleApp10_groupe2\bin\Debug\ConsoleApp10_groupe2.exe
+C:\Users\HP\source\repos\ConsoleApp10_groupe2\ConsoleApp10_groupe2\bin\Debug\ConsoleApp10_groupe2.pdb
+C:\Users\HP\source\repos\ConsoleApp10_groupe2\ConsoleApp10_groupe2\obj\Debug\ConsoleApp10_groupe2.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\ConsoleApp10_groupe2\ConsoleApp10_groupe2\obj\Debug\ConsoleApp10_groupe2.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ConsoleApp10_groupe2\ConsoleApp10_groupe2\obj\Debug\ConsoleApp10_groupe2.exe
+C:\Users\HP\source\repos\ConsoleApp10_groupe2\ConsoleApp10_groupe2\obj\Debug\ConsoleApp10_groupe2.pdb
