@@ -1,0 +1,7 @@
+C:\Users\Amine\source\repos\IntialisationObjet\IntialisationObjet\bin\Debug\IntialisationObjet.exe.config
+C:\Users\Amine\source\repos\IntialisationObjet\IntialisationObjet\bin\Debug\IntialisationObjet.exe
+C:\Users\Amine\source\repos\IntialisationObjet\IntialisationObjet\bin\Debug\IntialisationObjet.pdb
+C:\Users\Amine\source\repos\IntialisationObjet\IntialisationObjet\obj\Debug\IntialisationObjet.csprojAssemblyReference.cache
+C:\Users\Amine\source\repos\IntialisationObjet\IntialisationObjet\obj\Debug\IntialisationObjet.csproj.CoreCompileInputs.cache
+C:\Users\Amine\source\repos\IntialisationObjet\IntialisationObjet\obj\Debug\IntialisationObjet.exe
+C:\Users\Amine\source\repos\IntialisationObjet\IntialisationObjet\obj\Debug\IntialisationObjet.pdb

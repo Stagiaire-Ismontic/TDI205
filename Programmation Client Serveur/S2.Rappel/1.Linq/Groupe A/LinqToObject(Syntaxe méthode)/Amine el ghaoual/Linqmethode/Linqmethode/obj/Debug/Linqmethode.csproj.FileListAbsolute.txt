@@ -1,0 +1,7 @@
+C:\Users\Amine\source\repos\Linqmethode\Linqmethode\bin\Debug\Linqmethode.exe.config
+C:\Users\Amine\source\repos\Linqmethode\Linqmethode\bin\Debug\Linqmethode.exe
+C:\Users\Amine\source\repos\Linqmethode\Linqmethode\bin\Debug\Linqmethode.pdb
+C:\Users\Amine\source\repos\Linqmethode\Linqmethode\obj\Debug\Linqmethode.csprojAssemblyReference.cache
+C:\Users\Amine\source\repos\Linqmethode\Linqmethode\obj\Debug\Linqmethode.csproj.CoreCompileInputs.cache
+C:\Users\Amine\source\repos\Linqmethode\Linqmethode\obj\Debug\Linqmethode.exe
+C:\Users\Amine\source\repos\Linqmethode\Linqmethode\obj\Debug\Linqmethode.pdb
