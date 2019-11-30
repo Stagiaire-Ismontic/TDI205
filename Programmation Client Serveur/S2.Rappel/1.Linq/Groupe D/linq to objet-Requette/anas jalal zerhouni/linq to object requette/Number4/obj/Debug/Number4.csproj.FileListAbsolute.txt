@@ -1,0 +1,5 @@
+C:\Users\TP\source\repos\Number4\Number4\bin\Debug\Number4.exe.config
+C:\Users\TP\source\repos\Number4\Number4\bin\Debug\Number4.exe
+C:\Users\TP\source\repos\Number4\Number4\bin\Debug\Number4.pdb
+C:\Users\TP\source\repos\Number4\Number4\obj\Debug\Number4.exe
+C:\Users\TP\source\repos\Number4\Number4\obj\Debug\Number4.pdb

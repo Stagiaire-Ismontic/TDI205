@@ -1,0 +1,15 @@
+E:\deleget\deleget\bin\Debug\deleget.exe.config
+E:\deleget\deleget\obj\Debug\deleget.csprojResolveAssemblyReference.cache
+E:\deleget\deleget\bin\Debug\deleget.exe
+E:\deleget\deleget\bin\Debug\deleget.pdb
+E:\deleget\deleget\obj\Debug\deleget.exe
+E:\deleget\deleget\obj\Debug\deleget.pdb
+G:\deleget\deleget\bin\Debug\deleget.exe.config
+G:\deleget\deleget\obj\Debug\deleget.exe
+G:\deleget\deleget\obj\Debug\deleget.pdb
+F:\deleget\deleget\bin\Debug\deleget.exe.config
+F:\deleget\deleget\bin\Debug\deleget.exe
+F:\deleget\deleget\bin\Debug\deleget.pdb
+F:\deleget\deleget\obj\Debug\deleget.csprojAssemblyReference.cache
+F:\deleget\deleget\obj\Debug\deleget.exe
+F:\deleget\deleget\obj\Debug\deleget.pdb

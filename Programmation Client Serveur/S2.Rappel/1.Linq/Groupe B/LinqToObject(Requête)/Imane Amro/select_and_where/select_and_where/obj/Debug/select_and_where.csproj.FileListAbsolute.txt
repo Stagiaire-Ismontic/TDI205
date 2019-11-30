@@ -1,0 +1,6 @@
+C:\Users\Stagiaire\Desktop\client server\select_and_where\select_and_where\bin\Debug\select_and_where.exe.config
+C:\Users\Stagiaire\Desktop\client server\select_and_where\select_and_where\bin\Debug\select_and_where.exe
+C:\Users\Stagiaire\Desktop\client server\select_and_where\select_and_where\bin\Debug\select_and_where.pdb
+C:\Users\Stagiaire\Desktop\client server\select_and_where\select_and_where\obj\Debug\select_and_where.csprojResolveAssemblyReference.cache
+C:\Users\Stagiaire\Desktop\client server\select_and_where\select_and_where\obj\Debug\select_and_where.exe
+C:\Users\Stagiaire\Desktop\client server\select_and_where\select_and_where\obj\Debug\select_and_where.pdb

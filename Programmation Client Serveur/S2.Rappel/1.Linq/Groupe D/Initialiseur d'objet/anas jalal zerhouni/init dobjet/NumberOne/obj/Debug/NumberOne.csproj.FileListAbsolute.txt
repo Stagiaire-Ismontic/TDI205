@@ -1,0 +1,6 @@
+C:\Users\TP\source\repos\NumberOne\NumberOne\bin\Debug\NumberOne.exe.config
+C:\Users\TP\source\repos\NumberOne\NumberOne\bin\Debug\NumberOne.exe
+C:\Users\TP\source\repos\NumberOne\NumberOne\bin\Debug\NumberOne.pdb
+C:\Users\TP\source\repos\NumberOne\NumberOne\obj\Debug\NumberOne.csprojAssemblyReference.cache
+C:\Users\TP\source\repos\NumberOne\NumberOne\obj\Debug\NumberOne.exe
+C:\Users\TP\source\repos\NumberOne\NumberOne\obj\Debug\NumberOne.pdb

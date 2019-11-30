@@ -1,0 +1,6 @@
+C:\Users\TP\source\repos\Numberthree\Numberthree\bin\Debug\Numberthree.exe.config
+C:\Users\TP\source\repos\Numberthree\Numberthree\bin\Debug\Numberthree.exe
+C:\Users\TP\source\repos\Numberthree\Numberthree\bin\Debug\Numberthree.pdb
+C:\Users\TP\source\repos\Numberthree\Numberthree\obj\Debug\Numberthree.csprojAssemblyReference.cache
+C:\Users\TP\source\repos\Numberthree\Numberthree\obj\Debug\Numberthree.exe
+C:\Users\TP\source\repos\Numberthree\Numberthree\obj\Debug\Numberthree.pdb
