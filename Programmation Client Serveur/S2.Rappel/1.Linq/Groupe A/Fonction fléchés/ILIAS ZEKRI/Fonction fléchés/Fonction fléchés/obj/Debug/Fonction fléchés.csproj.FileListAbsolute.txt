@@ -1,0 +1,6 @@
+C:\Users\TP\Desktop\Fonction fléchés\Fonction fléchés\bin\Debug\Fonction fléchés.exe.config
+C:\Users\TP\Desktop\Fonction fléchés\Fonction fléchés\bin\Debug\Fonction fléchés.exe
+C:\Users\TP\Desktop\Fonction fléchés\Fonction fléchés\bin\Debug\Fonction fléchés.pdb
+C:\Users\TP\Desktop\Fonction fléchés\Fonction fléchés\obj\Debug\Fonction fléchés.csprojResolveAssemblyReference.cache
+C:\Users\TP\Desktop\Fonction fléchés\Fonction fléchés\obj\Debug\Fonction fléchés.exe
+C:\Users\TP\Desktop\Fonction fléchés\Fonction fléchés\obj\Debug\Fonction fléchés.pdb
