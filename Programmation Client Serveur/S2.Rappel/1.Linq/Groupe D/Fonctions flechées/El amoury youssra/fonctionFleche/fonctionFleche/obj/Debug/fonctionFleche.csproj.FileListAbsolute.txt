@@ -1,0 +1,2 @@
+C:\Users\TP\Desktop\el amoury youssra\exemple2\fonctionFleche\fonctionFleche\bin\Debug\fonctionFleche.exe.config
+C:\Users\TP\Desktop\el amoury youssra\exemple2\fonctionFleche\fonctionFleche\obj\Debug\fonctionFleche.csprojResolveAssemblyReference.cache

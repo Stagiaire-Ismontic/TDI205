@@ -1,0 +1,10 @@
+C:\Users\Amine\Desktop\delegrate\delegrate\bin\Debug\delegrate.exe.config
+C:\Users\Amine\Desktop\delegrate\delegrate\bin\Debug\delegrate.exe
+C:\Users\Amine\Desktop\delegrate\delegrate\bin\Debug\delegrate.pdb
+C:\Users\Amine\Desktop\delegrate\delegrate\obj\Debug\delegrate.csprojAssemblyReference.cache
+C:\Users\Amine\Desktop\delegrate\delegrate\obj\Debug\delegrate.csproj.CoreCompileInputs.cache
+C:\Users\Amine\Desktop\delegrate\delegrate\obj\Debug\delegrate.exe
+C:\Users\Amine\Desktop\delegrate\delegrate\obj\Debug\delegrate.pdb
+F:\delegrate\delegrate\bin\Debug\delegrate.exe.config
+F:\delegrate\delegrate\obj\Debug\delegrate.exe
+F:\delegrate\delegrate\obj\Debug\delegrate.pdb
