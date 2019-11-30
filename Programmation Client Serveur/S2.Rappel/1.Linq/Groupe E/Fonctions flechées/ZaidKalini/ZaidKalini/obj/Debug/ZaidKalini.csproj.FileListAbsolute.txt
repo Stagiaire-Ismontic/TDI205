@@ -1,0 +1,6 @@
+C:\Users\TP\Desktop\ZaidKalini\ZaidKalini\bin\Debug\ZaidKalini.exe.config
+C:\Users\TP\Desktop\ZaidKalini\ZaidKalini\bin\Debug\ZaidKalini.exe
+C:\Users\TP\Desktop\ZaidKalini\ZaidKalini\bin\Debug\ZaidKalini.pdb
+C:\Users\TP\Desktop\ZaidKalini\ZaidKalini\obj\Debug\ZaidKalini.csprojResolveAssemblyReference.cache
+C:\Users\TP\Desktop\ZaidKalini\ZaidKalini\obj\Debug\ZaidKalini.exe
+C:\Users\TP\Desktop\ZaidKalini\ZaidKalini\obj\Debug\ZaidKalini.pdb

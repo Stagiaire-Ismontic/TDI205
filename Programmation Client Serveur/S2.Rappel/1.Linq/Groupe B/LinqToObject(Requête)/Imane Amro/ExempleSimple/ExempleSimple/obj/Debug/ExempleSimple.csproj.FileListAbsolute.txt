@@ -1,0 +1,15 @@
+c:\users\yassine\onedrive\documents\visual studio 2015\Projects\ExempleSimple\ExempleSimple\bin\Debug\ExempleSimple.exe.config
+c:\users\yassine\onedrive\documents\visual studio 2015\Projects\ExempleSimple\ExempleSimple\obj\Debug\ExempleSimple.csprojResolveAssemblyReference.cache
+c:\users\yassine\onedrive\documents\visual studio 2015\Projects\ExempleSimple\ExempleSimple\bin\Debug\ExempleSimple.exe
+c:\users\yassine\onedrive\documents\visual studio 2015\Projects\ExempleSimple\ExempleSimple\bin\Debug\ExempleSimple.pdb
+c:\users\yassine\onedrive\documents\visual studio 2015\Projects\ExempleSimple\ExempleSimple\obj\Debug\ExempleSimple.exe
+c:\users\yassine\onedrive\documents\visual studio 2015\Projects\ExempleSimple\ExempleSimple\obj\Debug\ExempleSimple.pdb
+E:\ExempleSimple\ExempleSimple\bin\Debug\ExempleSimple.exe.config
+E:\ExempleSimple\ExempleSimple\obj\Debug\ExempleSimple.exe
+E:\ExempleSimple\ExempleSimple\obj\Debug\ExempleSimple.pdb
+G:\ExempleSimple\ExempleSimple\bin\Debug\ExempleSimple.exe.config
+G:\ExempleSimple\ExempleSimple\obj\Debug\ExempleSimple.exe
+G:\ExempleSimple\ExempleSimple\obj\Debug\ExempleSimple.pdb
+G:\ExempleSimple\ExempleSimple\bin\Debug\ExempleSimple.exe
+G:\ExempleSimple\ExempleSimple\bin\Debug\ExempleSimple.pdb
+G:\ExempleSimple\ExempleSimple\obj\Debug\ExempleSimple.csprojResolveAssemblyReference.cache

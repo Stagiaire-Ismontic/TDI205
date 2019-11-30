@@ -1,0 +1,19 @@
+E:\Base des données\Programmation\Nouveau dossier\Gestion Stagiaires\Gestion Stagiaires\bin\Debug\Gestion Stagiaires.exe.config
+E:\Base des données\Programmation\Trav Pratique\TpC\Gestion Stagiaires\Gestion Stagiaires\bin\Debug\Gestion Stagiaires.exe.config
+E:\Base des données\Programmation\Trav Pratique\TpC\Gestion Stagiaires\Gestion Stagiaires\bin\Debug\Gestion Stagiaires.exe
+E:\Base des données\Programmation\Trav Pratique\TpC\Gestion Stagiaires\Gestion Stagiaires\bin\Debug\Gestion Stagiaires.pdb
+E:\Base des données\Programmation\Trav Pratique\TpC\Gestion Stagiaires\Gestion Stagiaires\obj\Debug\Gestion Stagiaires.csprojResolveAssemblyReference.cache
+E:\Base des données\Programmation\Trav Pratique\TpC\Gestion Stagiaires\Gestion Stagiaires\obj\Debug\Gestion Stagiaires.exe
+E:\Base des données\Programmation\Trav Pratique\TpC\Gestion Stagiaires\Gestion Stagiaires\obj\Debug\Gestion Stagiaires.pdb
+G:\Base des données\Programmation\Trav Pratique\Tp5\Gestion Stagiaires\Gestion Stagiaires\bin\Debug\Gestion Stagiaires.exe.config
+G:\Base des données\Programmation\Trav Pratique\Tp5\Gestion Stagiaires\Gestion Stagiaires\obj\Debug\Gestion Stagiaires.exe
+G:\Base des données\Programmation\Trav Pratique\Tp5\Gestion Stagiaires\Gestion Stagiaires\obj\Debug\Gestion Stagiaires.pdb
+G:\Base des données\Programmation\Trav Pratique\Tp5\Gestion Stagiaires\Gestion Stagiaires\bin\Debug\Gestion Stagiaires.exe
+G:\Base des données\Programmation\Trav Pratique\Tp5\Gestion Stagiaires\Gestion Stagiaires\bin\Debug\Gestion Stagiaires.pdb
+G:\Base des données\Programmation\Trav Pratique\Tp5\Gestion Stagiaires\Gestion Stagiaires\obj\Debug\Gestion Stagiaires.csprojResolveAssemblyReference.cache
+E:\Base des données\Programmation\Trav Pratique\Tp5\Gestion Stagiaires\Gestion Stagiaires\bin\Debug\Gestion Stagiaires.exe.config
+E:\Base des données\Programmation\Trav Pratique\Tp5\Gestion Stagiaires\Gestion Stagiaires\obj\Debug\Gestion Stagiaires.exe
+E:\Base des données\Programmation\Trav Pratique\Tp5\Gestion Stagiaires\Gestion Stagiaires\obj\Debug\Gestion Stagiaires.pdb
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\S1.Tp\TP5\ilias zekri\Gestion Stagiaires(Sans classCnx)\Gestion Stagiaires\bin\Debug\Gestion Stagiaires.exe.config
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\S1.Tp\TP5\ilias zekri\Gestion Stagiaires(Sans classCnx)\Gestion Stagiaires\obj\Debug\Gestion Stagiaires.exe
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\S1.Tp\TP5\ilias zekri\Gestion Stagiaires(Sans classCnx)\Gestion Stagiaires\obj\Debug\Gestion Stagiaires.pdb

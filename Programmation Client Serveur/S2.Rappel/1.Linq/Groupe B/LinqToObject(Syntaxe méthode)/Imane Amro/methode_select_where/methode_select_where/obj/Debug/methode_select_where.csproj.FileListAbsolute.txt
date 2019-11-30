@@ -1,5 +1,0 @@
-C:\Users\Stagiaire\Desktop\client server\methode_select_where\methode_select_where\bin\Debug\methode_select_where.exe.config
-C:\Users\Stagiaire\Desktop\client server\methode_select_where\methode_select_where\bin\Debug\methode_select_where.exe
-C:\Users\Stagiaire\Desktop\client server\methode_select_where\methode_select_where\bin\Debug\methode_select_where.pdb
-C:\Users\Stagiaire\Desktop\client server\methode_select_where\methode_select_where\obj\Debug\methode_select_where.exe
-C:\Users\Stagiaire\Desktop\client server\methode_select_where\methode_select_where\obj\Debug\methode_select_where.pdb

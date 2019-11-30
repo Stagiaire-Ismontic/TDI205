@@ -1,0 +1,9 @@
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\Mode connecter\P4\fonction\fonction\bin\Debug\fonction.exe.config
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\Mode connecter\P4\fonction\fonction\bin\Debug\fonction.exe
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\Mode connecter\P4\fonction\fonction\bin\Debug\fonction.pdb
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\Mode connecter\P4\fonction\fonction\obj\Debug\fonction.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\Mode connecter\P4\fonction\fonction\obj\Debug\fonction.exe
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\Mode connecter\P4\fonction\fonction\obj\Debug\fonction.pdb
+E:\P4\fonction\fonction\bin\Debug\fonction.exe.config
+E:\P4\fonction\fonction\obj\Debug\fonction.exe
+E:\P4\fonction\fonction\obj\Debug\fonction.pdb

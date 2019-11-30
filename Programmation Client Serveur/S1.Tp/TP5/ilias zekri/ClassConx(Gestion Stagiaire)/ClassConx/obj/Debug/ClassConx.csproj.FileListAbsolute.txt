@@ -1,0 +1,4 @@
+C:\Users\Omar\Desktop\ClassConx\ClassConx\bin\Debug\ClassConx.exe.config
+G:\Base des données\Programmation\Trav Pratique\Tp6\ClassConx\ClassConx\bin\Debug\ClassConx.exe.config
+E:\Base des données\Programmation\Trav Pratique\Tp6\ClassConx\ClassConx\bin\Debug\ClassConx.exe.config
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\S1.Tp\TP5\ilias zekri\ClassConx(Gestion Stagiaire)\ClassConx\bin\Debug\ClassConx.exe.config

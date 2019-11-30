@@ -1,0 +1,7 @@
+C:\Users\Mustapha\Desktop\Dev 2eme anne\Fouad\c#\LINQ TO OBJECT REQUETE\LINQ TO OBJECT REQUETE\bin\Debug\LINQ TO OBJECT REQUETE.exe.config
+C:\Users\Mustapha\Desktop\Dev 2eme anne\Fouad\c#\LINQ TO OBJECT REQUETE\LINQ TO OBJECT REQUETE\bin\Debug\LINQ TO OBJECT REQUETE.exe
+C:\Users\Mustapha\Desktop\Dev 2eme anne\Fouad\c#\LINQ TO OBJECT REQUETE\LINQ TO OBJECT REQUETE\bin\Debug\LINQ TO OBJECT REQUETE.pdb
+C:\Users\Mustapha\Desktop\Dev 2eme anne\Fouad\c#\LINQ TO OBJECT REQUETE\LINQ TO OBJECT REQUETE\obj\Debug\LINQ TO OBJECT REQUETE.csprojAssemblyReference.cache
+C:\Users\Mustapha\Desktop\Dev 2eme anne\Fouad\c#\LINQ TO OBJECT REQUETE\LINQ TO OBJECT REQUETE\obj\Debug\LINQ TO OBJECT REQUETE.csproj.CoreCompileInputs.cache
+C:\Users\Mustapha\Desktop\Dev 2eme anne\Fouad\c#\LINQ TO OBJECT REQUETE\LINQ TO OBJECT REQUETE\obj\Debug\LINQ TO OBJECT REQUETE.exe
+C:\Users\Mustapha\Desktop\Dev 2eme anne\Fouad\c#\LINQ TO OBJECT REQUETE\LINQ TO OBJECT REQUETE\obj\Debug\LINQ TO OBJECT REQUETE.pdb

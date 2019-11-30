@@ -1,0 +1,6 @@
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\Mode connecter\Delegate\Delegate\Delegate\bin\Debug\Delegate.exe.config
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\Mode connecter\Delegate\Delegate\Delegate\bin\Debug\Delegate.exe
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\Mode connecter\Delegate\Delegate\Delegate\bin\Debug\Delegate.pdb
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\Mode connecter\Delegate\Delegate\Delegate\obj\Debug\Deleg.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\Mode connecter\Delegate\Delegate\Delegate\obj\Debug\Delegate.exe
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\Mode connecter\Delegate\Delegate\Delegate\obj\Debug\Delegate.pdb

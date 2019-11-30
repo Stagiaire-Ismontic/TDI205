@@ -1,0 +1,9 @@
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\Mode connecter\P1\Projet1\Projet1\bin\Debug\Projet1.exe.config
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\Mode connecter\P1\Projet1\Projet1\bin\Debug\Projet1.exe
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\Mode connecter\P1\Projet1\Projet1\bin\Debug\Projet1.pdb
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\Mode connecter\P1\Projet1\Projet1\obj\Debug\Projet1.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\Mode connecter\P1\Projet1\Projet1\obj\Debug\Projet1.exe
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\Mode connecter\P1\Projet1\Projet1\obj\Debug\Projet1.pdb
+C:\Users\Hp ProBook\Desktop\loubna_jaabak_group2\group1\P1\Projet1\Projet1\bin\Debug\Projet1.exe.config
+C:\Users\Hp ProBook\Desktop\loubna_jaabak_group2\group1\P1\Projet1\Projet1\obj\Debug\Projet1.exe
+C:\Users\Hp ProBook\Desktop\loubna_jaabak_group2\group1\P1\Projet1\Projet1\obj\Debug\Projet1.pdb

@@ -1,0 +1,2 @@
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\Mode connecter\Delegate\Delegate\Delegate\bin\Debug\Delegate.exe.config
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\Mode connecter\Delegate\Delegate\Delegate\obj\Debug\Delegate.csprojResolveAssemblyReference.cache
