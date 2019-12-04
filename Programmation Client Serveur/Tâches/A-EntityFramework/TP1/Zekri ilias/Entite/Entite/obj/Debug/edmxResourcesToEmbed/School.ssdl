@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SchoolModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Groupe">
+    <Key>
+      <PropertyRef Name="IdGroupe" />
+    </Key>
+    <Property Name="IdGroupe" Type="int" Nullable="false" />
+    <Property Name="NomG" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Student">
+    <Key>
+      <PropertyRef Name="IdStudent" />
+    </Key>
+    <Property Name="IdStudent" Type="int" Nullable="false" />
+    <Property Name="NomS" Type="varchar" MaxLength="50" />
+    <Property Name="GroupeId" Type="int" />
+  </EntityType>
+  <Association Name="FK__Student__GroupeI__4BAC3F29">
+    <End Role="Groupe" Type="Self.Groupe" Multiplicity="0..1" />
+    <End Role="Student" Type="Self.Student" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Groupe">
+        <PropertyRef Name="IdGroupe" />
+      </Principal>
+      <Dependent Role="Student">
+        <PropertyRef Name="GroupeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="SchoolModelStoreContainer">
+    <EntitySet Name="Groupe" EntityType="Self.Groupe" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Student" EntityType="Self.Student" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Student__GroupeI__4BAC3F29" Association="Self.FK__Student__GroupeI__4BAC3F29">
+      <End Role="Groupe" EntitySet="Groupe" />
+      <End Role="Student" EntitySet="Student" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
