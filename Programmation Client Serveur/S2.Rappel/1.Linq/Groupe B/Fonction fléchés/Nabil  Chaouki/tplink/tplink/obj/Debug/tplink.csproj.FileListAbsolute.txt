@@ -1,0 +1,6 @@
+C:\Users\j\source\repos\tplink\tplink\bin\Debug\tplink.exe.config
+C:\Users\j\source\repos\tplink\tplink\bin\Debug\tplink.exe
+C:\Users\j\source\repos\tplink\tplink\bin\Debug\tplink.pdb
+C:\Users\j\source\repos\tplink\tplink\obj\Debug\tplink.csprojAssemblyReference.cache
+C:\Users\j\source\repos\tplink\tplink\obj\Debug\tplink.exe
+C:\Users\j\source\repos\tplink\tplink\obj\Debug\tplink.pdb
