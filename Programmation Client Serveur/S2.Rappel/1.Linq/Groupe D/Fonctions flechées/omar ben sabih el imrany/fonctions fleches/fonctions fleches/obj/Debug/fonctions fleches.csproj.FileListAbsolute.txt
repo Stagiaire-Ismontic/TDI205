@@ -1,0 +1,2 @@
+C:\Users\Omar\Desktop\fleches\fonctions fleches\fonctions fleches\bin\Debug\fonctions fleches.exe.config
+C:\Users\Omar\Desktop\fleches\fonctions fleches\fonctions fleches\obj\Debug\fonctions fleches.csprojResolveAssemblyReference.cache

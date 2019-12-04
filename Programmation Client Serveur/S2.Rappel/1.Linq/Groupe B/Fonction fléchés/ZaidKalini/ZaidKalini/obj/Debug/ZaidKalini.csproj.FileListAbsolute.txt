@@ -4,3 +4,6 @@ C:\Users\TP\Desktop\ZaidKalini\ZaidKalini\bin\Debug\ZaidKalini.pdb
 C:\Users\TP\Desktop\ZaidKalini\ZaidKalini\obj\Debug\ZaidKalini.csprojResolveAssemblyReference.cache
 C:\Users\TP\Desktop\ZaidKalini\ZaidKalini\obj\Debug\ZaidKalini.exe
 C:\Users\TP\Desktop\ZaidKalini\ZaidKalini\obj\Debug\ZaidKalini.pdb
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\S2.Rappel\1.Linq\Groupe B\Fonction fléchés\ZaidKalini\ZaidKalini\bin\Debug\ZaidKalini.exe.config
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\S2.Rappel\1.Linq\Groupe B\Fonction fléchés\ZaidKalini\ZaidKalini\obj\Debug\ZaidKalini.exe
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\S2.Rappel\1.Linq\Groupe B\Fonction fléchés\ZaidKalini\ZaidKalini\obj\Debug\ZaidKalini.pdb

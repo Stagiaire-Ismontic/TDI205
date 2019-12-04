@@ -1,0 +1,6 @@
+C:\Users\TP\Desktop\abdelilah el morabit\delegate\RCsharp\RCsharp\bin\Debug\RCsharp.exe.config
+C:\Users\TP\Desktop\abdelilah el morabit\delegate\RCsharp\RCsharp\bin\Debug\RCsharp.exe
+C:\Users\TP\Desktop\abdelilah el morabit\delegate\RCsharp\RCsharp\bin\Debug\RCsharp.pdb
+C:\Users\TP\Desktop\abdelilah el morabit\delegate\RCsharp\RCsharp\obj\Debug\RCsharp.csprojAssemblyReference.cache
+C:\Users\TP\Desktop\abdelilah el morabit\delegate\RCsharp\RCsharp\obj\Debug\RCsharp.exe
+C:\Users\TP\Desktop\abdelilah el morabit\delegate\RCsharp\RCsharp\obj\Debug\RCsharp.pdb

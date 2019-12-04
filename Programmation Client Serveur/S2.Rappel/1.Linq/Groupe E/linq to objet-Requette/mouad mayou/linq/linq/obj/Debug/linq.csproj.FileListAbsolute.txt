@@ -1,0 +1,6 @@
+C:\Users\TP\Desktop\linq\linq\bin\Debug\linq.exe.config
+C:\Users\TP\Desktop\linq\linq\bin\Debug\linq.exe
+C:\Users\TP\Desktop\linq\linq\bin\Debug\linq.pdb
+C:\Users\TP\Desktop\linq\linq\obj\Debug\linq.csprojResolveAssemblyReference.cache
+C:\Users\TP\Desktop\linq\linq\obj\Debug\linq.exe
+C:\Users\TP\Desktop\linq\linq\obj\Debug\linq.pdb

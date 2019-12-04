@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="GestionProjetsModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Projets">
+    <Key>
+      <PropertyRef Name="Id_Projets" />
+    </Key>
+    <Property Name="Id_Projets" Type="Int32" Nullable="false" />
+    <Property Name="Titre" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="Nombre_Jours_Realisation" Type="Int32" />
+    <NavigationProperty Name="Tache" Relationship="Self.FK_Projets_Tache" FromRole="Projets" ToRole="Tache" />
+  </EntityType>
+  <EntityType Name="Stagiaires">
+    <Key>
+      <PropertyRef Name="Id_Stagiaire" />
+    </Key>
+    <Property Name="Id_Stagiaire" Type="Int32" Nullable="false" />
+    <Property Name="Nom" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="Prenom" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="Cin" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="Ville" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="Date_Naissance" Type="DateTime" Precision="0" />
+    <Property Name="E_Mail" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="Tel_Fixe" Type="Int32" />
+    <Property Name="Tel_Portable" Type="Int32" />
+  </EntityType>
+  <EntityType Name="Tache">
+    <Key>
+      <PropertyRef Name="Id_Tache" />
+    </Key>
+    <Property Name="Id_Tache" Type="Int32" Nullable="false" />
+    <Property Name="Titre" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="Projets_Id" Type="Int32" />
+    <Property Name="Nombre_Jours_Realisation" Type="Int32" />
+    <NavigationProperty Name="Projets" Relationship="Self.FK_Projets_Tache" FromRole="Tache" ToRole="Projets" />
+  </EntityType>
+  <Association Name="FK_Projets_Tache">
+    <End Role="Projets" Type="Self.Projets" Multiplicity="0..1" />
+    <End Role="Tache" Type="Self.Tache" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Projets">
+        <PropertyRef Name="Id_Projets" />
+      </Principal>
+      <Dependent Role="Tache">
+        <PropertyRef Name="Projets_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="GestionProjetsEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Projets" EntityType="Self.Projets" />
+    <EntitySet Name="Stagiaires" EntityType="Self.Stagiaires" />
+    <EntitySet Name="Tache" EntityType="Self.Tache" />
+    <AssociationSet Name="FK_Projets_Tache" Association="Self.FK_Projets_Tache">
+      <End Role="Projets" EntitySet="Projets" />
+      <End Role="Tache" EntitySet="Tache" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

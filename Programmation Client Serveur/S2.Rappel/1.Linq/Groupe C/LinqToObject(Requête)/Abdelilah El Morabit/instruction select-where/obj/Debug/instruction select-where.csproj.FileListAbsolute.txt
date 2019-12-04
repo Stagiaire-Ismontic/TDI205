@@ -1,0 +1,5 @@
+C:\Users\TP\Desktop\abdelilah el morabit\delegate\instruction select-where\instruction select-where\bin\Debug\instruction select-where.exe.config
+C:\Users\TP\Desktop\abdelilah el morabit\delegate\instruction select-where\instruction select-where\bin\Debug\instruction select-where.exe
+C:\Users\TP\Desktop\abdelilah el morabit\delegate\instruction select-where\instruction select-where\bin\Debug\instruction select-where.pdb
+C:\Users\TP\Desktop\abdelilah el morabit\delegate\instruction select-where\instruction select-where\obj\Debug\instruction select-where.exe
+C:\Users\TP\Desktop\abdelilah el morabit\delegate\instruction select-where\instruction select-where\obj\Debug\instruction select-where.pdb

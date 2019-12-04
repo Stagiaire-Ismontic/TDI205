@@ -1,0 +1,6 @@
+C:\Users\TP\Desktop\InitializationSample\InitializationSample\bin\Debug\InitializationSample.exe.config
+C:\Users\TP\Desktop\InitializationSample\InitializationSample\obj\Debug\InitializationSample.csprojResolveAssemblyReference.cache
+C:\Users\TP\Desktop\InitializationSample\InitializationSample\bin\Debug\InitializationSample.exe
+C:\Users\TP\Desktop\InitializationSample\InitializationSample\bin\Debug\InitializationSample.pdb
+C:\Users\TP\Desktop\InitializationSample\InitializationSample\obj\Debug\InitializationSample.exe
+C:\Users\TP\Desktop\InitializationSample\InitializationSample\obj\Debug\InitializationSample.pdb
