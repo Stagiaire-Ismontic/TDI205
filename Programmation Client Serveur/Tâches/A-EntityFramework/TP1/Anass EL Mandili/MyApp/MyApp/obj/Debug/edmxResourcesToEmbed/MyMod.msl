@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ServicesOptionnelModel1StoreContainer" CdmEntityContainer="ServicesOptionnelEntities1">
+    <EntitySetMapping Name="Etablissement1">
+      <EntityTypeMapping TypeName="ServicesOptionnelModel1.Etablissement1">
+        <MappingFragment StoreEntitySet="Etablissement1">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Etab_Name" ColumnName="Etab_Name" />
+          <ScalarProperty Name="Etab_Desc" ColumnName="Etab_Desc" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Etudiants">
+      <EntityTypeMapping TypeName="ServicesOptionnelModel1.Etudiant">
+        <MappingFragment StoreEntitySet="Etudiant">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Etud_Name" ColumnName="Etud_Name" />
+          <ScalarProperty Name="Etud_Tel" ColumnName="Etud_Tel" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="ServicesOptionnelModel1.sysdiagram">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

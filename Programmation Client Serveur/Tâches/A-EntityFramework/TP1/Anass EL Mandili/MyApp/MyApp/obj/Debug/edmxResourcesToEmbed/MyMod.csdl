@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ServicesOptionnelModel1" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Etablissement1">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="Etab_Name" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="Etab_Desc" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Etudiant" Relationship="Self.FK__Etudiant__Id__34C8D9D1" FromRole="Etablissement1" ToRole="Etudiant" />
+  </EntityType>
+  <EntityType Name="Etudiant">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="Etud_Name" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="Etud_Tel" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Etablissement1" Relationship="Self.FK__Etudiant__Id__34C8D9D1" FromRole="Etudiant" ToRole="Etablissement1" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <Association Name="FK__Etudiant__Id__34C8D9D1">
+    <End Role="Etablissement1" Type="Self.Etablissement1" Multiplicity="1" />
+    <End Role="Etudiant" Type="Self.Etudiant" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Etablissement1">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Etudiant">
+        <PropertyRef Name="Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ServicesOptionnelEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Etablissement1" EntityType="Self.Etablissement1" />
+    <EntitySet Name="Etudiants" EntityType="Self.Etudiant" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <AssociationSet Name="FK__Etudiant__Id__34C8D9D1" Association="Self.FK__Etudiant__Id__34C8D9D1">
+      <End Role="Etablissement1" EntitySet="Etablissement1" />
+      <End Role="Etudiant" EntitySet="Etudiants" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

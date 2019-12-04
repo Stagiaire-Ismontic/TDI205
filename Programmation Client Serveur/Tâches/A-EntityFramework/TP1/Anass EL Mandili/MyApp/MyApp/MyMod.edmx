@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="ServicesOptionnelModel1.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Etablissement1">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" Nullable="false" />
+          <Property Name="Etab_Name" Type="varchar" MaxLength="30" />
+          <Property Name="Etab_Desc" Type="varchar" MaxLength="30" />
+        </EntityType>
+        <EntityType Name="Etudiant">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" Nullable="false" />
+          <Property Name="Etud_Name" Type="varchar" MaxLength="30" />
+          <Property Name="Etud_Tel" Type="varchar" MaxLength="30" />
+        </EntityType>
+        <EntityType Name="sysdiagrams">
+          <Key>
+            <PropertyRef Name="diagram_id" />
+          </Key>
+          <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+          <Property Name="principal_id" Type="int" Nullable="false" />
+          <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="version" Type="int" />
+          <Property Name="definition" Type="varbinary(max)" />
+        </EntityType>
+        <Association Name="FK__Etudiant__Id__34C8D9D1">
+          <End Role="Etablissement1" Type="Self.Etablissement1" Multiplicity="1" />
+          <End Role="Etudiant" Type="Self.Etudiant" Multiplicity="0..1" />
+          <ReferentialConstraint>
+            <Principal Role="Etablissement1">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Etudiant">
+              <PropertyRef Name="Id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="ServicesOptionnelModel1StoreContainer">
+          <EntitySet Name="Etablissement1" EntityType="Self.Etablissement1" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Etudiant" EntityType="Self.Etudiant" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK__Etudiant__Id__34C8D9D1" Association="Self.FK__Etudiant__Id__34C8D9D1">
+            <End Role="Etablissement1" EntitySet="Etablissement1" />
+            <End Role="Etudiant" EntitySet="Etudiant" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="ServicesOptionnelModel1" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Etablissement1">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" />
+          <Property Name="Etab_Name" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="Etab_Desc" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="Etudiant" Relationship="Self.FK__Etudiant__Id__34C8D9D1" FromRole="Etablissement1" ToRole="Etudiant" />
+        </EntityType>
+        <EntityType Name="Etudiant">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" />
+          <Property Name="Etud_Name" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="Etud_Tel" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="Etablissement1" Relationship="Self.FK__Etudiant__Id__34C8D9D1" FromRole="Etudiant" ToRole="Etablissement1" />
+        </EntityType>
+        <EntityType Name="sysdiagram">
+          <Key>
+            <PropertyRef Name="diagram_id" />
+          </Key>
+          <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="principal_id" Type="Int32" Nullable="false" />
+          <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="version" Type="Int32" />
+          <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+        </EntityType>
+        <Association Name="FK__Etudiant__Id__34C8D9D1">
+          <End Role="Etablissement1" Type="Self.Etablissement1" Multiplicity="1" />
+          <End Role="Etudiant" Type="Self.Etudiant" Multiplicity="0..1" />
+          <ReferentialConstraint>
+            <Principal Role="Etablissement1">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Etudiant">
+              <PropertyRef Name="Id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="ServicesOptionnelEntities1" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Etablissement1" EntityType="Self.Etablissement1" />
+          <EntitySet Name="Etudiants" EntityType="Self.Etudiant" />
+          <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+          <AssociationSet Name="FK__Etudiant__Id__34C8D9D1" Association="Self.FK__Etudiant__Id__34C8D9D1">
+            <End Role="Etablissement1" EntitySet="Etablissement1" />
+            <End Role="Etudiant" EntitySet="Etudiants" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="ServicesOptionnelModel1StoreContainer" CdmEntityContainer="ServicesOptionnelEntities1">
+          <EntitySetMapping Name="Etablissement1">
+            <EntityTypeMapping TypeName="ServicesOptionnelModel1.Etablissement1">
+              <MappingFragment StoreEntitySet="Etablissement1">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Etab_Name" ColumnName="Etab_Name" />
+                <ScalarProperty Name="Etab_Desc" ColumnName="Etab_Desc" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Etudiants">
+            <EntityTypeMapping TypeName="ServicesOptionnelModel1.Etudiant">
+              <MappingFragment StoreEntitySet="Etudiant">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Etud_Name" ColumnName="Etud_Name" />
+                <ScalarProperty Name="Etud_Tel" ColumnName="Etud_Tel" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="sysdiagrams">
+            <EntityTypeMapping TypeName="ServicesOptionnelModel1.sysdiagram">
+              <MappingFragment StoreEntitySet="sysdiagrams">
+                <ScalarProperty Name="name" ColumnName="name" />
+                <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+                <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+                <ScalarProperty Name="version" ColumnName="version" />
+                <ScalarProperty Name="definition" ColumnName="definition" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Aucun" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

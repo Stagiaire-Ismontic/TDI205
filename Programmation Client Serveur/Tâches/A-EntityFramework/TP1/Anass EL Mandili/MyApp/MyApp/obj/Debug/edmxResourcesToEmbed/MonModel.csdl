@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ServicesOptionnelModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Etablissement1">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="Etab_Name" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="Etab_Desc" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Etudiant">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="Etud_Name" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="Etud_Tel" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="ServicesOptionnelEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Etablissement1" EntityType="Self.Etablissement1" />
+    <EntitySet Name="Etudiants" EntityType="Self.Etudiant" />
+  </EntityContainer>
+</Schema>

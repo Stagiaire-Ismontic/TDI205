@@ -1,0 +1,11 @@
+C:\Users\TP\Desktop\Nouveau dossier\MyApp\MyApp\bin\Debug\MyApp.exe.config
+C:\Users\TP\Desktop\Nouveau dossier\MyApp\MyApp\bin\Debug\MyApp.exe
+C:\Users\TP\Desktop\Nouveau dossier\MyApp\MyApp\bin\Debug\MyApp.pdb
+C:\Users\TP\Desktop\Nouveau dossier\MyApp\MyApp\bin\Debug\EntityFramework.dll
+C:\Users\TP\Desktop\Nouveau dossier\MyApp\MyApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TP\Desktop\Nouveau dossier\MyApp\MyApp\bin\Debug\EntityFramework.xml
+C:\Users\TP\Desktop\Nouveau dossier\MyApp\MyApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TP\Desktop\Nouveau dossier\MyApp\MyApp\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\TP\Desktop\Nouveau dossier\MyApp\MyApp\obj\Debug\MyApp.csprojResolveAssemblyReference.cache
+C:\Users\TP\Desktop\Nouveau dossier\MyApp\MyApp\obj\Debug\MyApp.exe
+C:\Users\TP\Desktop\Nouveau dossier\MyApp\MyApp\obj\Debug\MyApp.pdb

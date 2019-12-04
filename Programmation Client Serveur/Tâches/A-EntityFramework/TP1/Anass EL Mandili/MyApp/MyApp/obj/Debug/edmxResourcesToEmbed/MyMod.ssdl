@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ServicesOptionnelModel1.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Etablissement1">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="Etab_Name" Type="varchar" MaxLength="30" />
+    <Property Name="Etab_Desc" Type="varchar" MaxLength="30" />
+  </EntityType>
+  <EntityType Name="Etudiant">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="Etud_Name" Type="varchar" MaxLength="30" />
+    <Property Name="Etud_Tel" Type="varchar" MaxLength="30" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <Association Name="FK__Etudiant__Id__34C8D9D1">
+    <End Role="Etablissement1" Type="Self.Etablissement1" Multiplicity="1" />
+    <End Role="Etudiant" Type="Self.Etudiant" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Etablissement1">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Etudiant">
+        <PropertyRef Name="Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ServicesOptionnelModel1StoreContainer">
+    <EntitySet Name="Etablissement1" EntityType="Self.Etablissement1" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Etudiant" EntityType="Self.Etudiant" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Etudiant__Id__34C8D9D1" Association="Self.FK__Etudiant__Id__34C8D9D1">
+      <End Role="Etablissement1" EntitySet="Etablissement1" />
+      <End Role="Etudiant" EntitySet="Etudiant" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
