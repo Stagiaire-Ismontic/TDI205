@@ -1,6 +1,0 @@
-c:\users\hp probook\documents\visual studio 2015\Projects\Gestion _Stagiaire\Gestion _Stagiaire\bin\Debug\Gestion _Stagiaire.exe.config
-c:\users\hp probook\documents\visual studio 2015\Projects\Gestion _Stagiaire\Gestion _Stagiaire\bin\Debug\Gestion _Stagiaire.exe
-c:\users\hp probook\documents\visual studio 2015\Projects\Gestion _Stagiaire\Gestion _Stagiaire\bin\Debug\Gestion _Stagiaire.pdb
-c:\users\hp probook\documents\visual studio 2015\Projects\Gestion _Stagiaire\Gestion _Stagiaire\obj\Debug\Gestion _Stagiaire.csprojResolveAssemblyReference.cache
-c:\users\hp probook\documents\visual studio 2015\Projects\Gestion _Stagiaire\Gestion _Stagiaire\obj\Debug\Gestion _Stagiaire.exe
-c:\users\hp probook\documents\visual studio 2015\Projects\Gestion _Stagiaire\Gestion _Stagiaire\obj\Debug\Gestion _Stagiaire.pdb

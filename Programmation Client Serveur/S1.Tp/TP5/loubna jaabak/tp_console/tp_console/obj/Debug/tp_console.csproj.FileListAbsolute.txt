@@ -1,0 +1,6 @@
+c:\users\hp probook\documents\visual studio 2015\Projects\tp_console\tp_console\bin\Debug\tp_console.exe.config
+c:\users\hp probook\documents\visual studio 2015\Projects\tp_console\tp_console\obj\Debug\tp_console.csprojResolveAssemblyReference.cache
+c:\users\hp probook\documents\visual studio 2015\Projects\tp_console\tp_console\bin\Debug\tp_console.exe
+c:\users\hp probook\documents\visual studio 2015\Projects\tp_console\tp_console\bin\Debug\tp_console.pdb
+c:\users\hp probook\documents\visual studio 2015\Projects\tp_console\tp_console\obj\Debug\tp_console.exe
+c:\users\hp probook\documents\visual studio 2015\Projects\tp_console\tp_console\obj\Debug\tp_console.pdb
