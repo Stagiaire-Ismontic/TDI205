@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DBSchoolModel1" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="groupe">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="nom" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="stgs" Relationship="Self.FK_stg_ToTable" FromRole="groupe" ToRole="stg" />
+  </EntityType>
+  <EntityType Name="stg">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="nom" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="prenom" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="groupeid" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="groupe" Relationship="Self.FK_stg_ToTable" FromRole="stg" ToRole="groupe" />
+  </EntityType>
+  <Association Name="FK_stg_ToTable">
+    <End Role="groupe" Type="Self.groupe" Multiplicity="1" />
+    <End Role="stg" Type="Self.stg" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="groupe">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="stg">
+        <PropertyRef Name="groupeid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DBSchoolEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="groupes" EntityType="Self.groupe" />
+    <EntitySet Name="stgs" EntityType="Self.stg" />
+    <AssociationSet Name="FK_stg_ToTable" Association="Self.FK_stg_ToTable">
+      <End Role="groupe" EntitySet="groupes" />
+      <End Role="stg" EntitySet="stgs" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

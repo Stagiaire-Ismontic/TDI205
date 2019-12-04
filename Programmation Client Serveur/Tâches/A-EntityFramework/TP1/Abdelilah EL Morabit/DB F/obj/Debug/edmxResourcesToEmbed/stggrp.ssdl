@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DBSchoolModel1.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="groupe">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="nom" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="stg">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="nom" Type="nvarchar" MaxLength="50" />
+    <Property Name="prenom" Type="nvarchar" MaxLength="50" />
+    <Property Name="groupeid" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_stg_ToTable">
+    <End Role="groupe" Type="Self.groupe" Multiplicity="1" />
+    <End Role="stg" Type="Self.stg" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="groupe">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="stg">
+        <PropertyRef Name="groupeid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DBSchoolModel1StoreContainer">
+    <EntitySet Name="groupe" EntityType="Self.groupe" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="stg" EntityType="Self.stg" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_stg_ToTable" Association="Self.FK_stg_ToTable">
+      <End Role="groupe" EntitySet="groupe" />
+      <End Role="stg" EntitySet="stg" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

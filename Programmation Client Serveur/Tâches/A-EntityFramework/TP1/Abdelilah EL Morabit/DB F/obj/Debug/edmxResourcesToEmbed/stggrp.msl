@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DBSchoolModel1StoreContainer" CdmEntityContainer="DBSchoolEntities1">
+    <EntitySetMapping Name="groupes">
+      <EntityTypeMapping TypeName="DBSchoolModel1.groupe">
+        <MappingFragment StoreEntitySet="groupe">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="nom" ColumnName="nom" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="stgs">
+      <EntityTypeMapping TypeName="DBSchoolModel1.stg">
+        <MappingFragment StoreEntitySet="stg">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="nom" ColumnName="nom" />
+          <ScalarProperty Name="prenom" ColumnName="prenom" />
+          <ScalarProperty Name="groupeid" ColumnName="groupeid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,15 @@
+C:\Users\TP\Desktop\abdelilah el morabit\dyali\bin\Debug\dyali.exe.config
+C:\Users\TP\Desktop\abdelilah el morabit\dyali\bin\Debug\dyali.exe
+C:\Users\TP\Desktop\abdelilah el morabit\dyali\bin\Debug\dyali.pdb
+C:\Users\TP\Desktop\abdelilah el morabit\dyali\bin\Debug\EntityFramework.dll
+C:\Users\TP\Desktop\abdelilah el morabit\dyali\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TP\Desktop\abdelilah el morabit\dyali\bin\Debug\EntityFramework.xml
+C:\Users\TP\Desktop\abdelilah el morabit\dyali\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TP\Desktop\abdelilah el morabit\dyali\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\TP\Desktop\abdelilah el morabit\dyali\obj\Debug\dyali.csprojAssemblyReference.cache
+C:\Users\TP\Desktop\abdelilah el morabit\dyali\obj\Debug\dyali.csproj.CopyComplete
+C:\Users\TP\Desktop\abdelilah el morabit\dyali\obj\Debug\dyali.exe
+C:\Users\TP\Desktop\abdelilah el morabit\dyali\obj\Debug\dyali.pdb
+E:\Yassine El-Moustaid\Abdelilah el morabit\abdelilah el morabit\dyali\bin\Debug\dyali.exe.config
+E:\Yassine El-Moustaid\Abdelilah el morabit\abdelilah el morabit\dyali\obj\Debug\dyali.exe
+E:\Yassine El-Moustaid\Abdelilah el morabit\abdelilah el morabit\dyali\obj\Debug\dyali.pdb
