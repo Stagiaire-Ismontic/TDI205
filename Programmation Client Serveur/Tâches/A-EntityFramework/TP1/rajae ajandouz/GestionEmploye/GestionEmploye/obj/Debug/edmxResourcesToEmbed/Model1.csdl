@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="GestionEmployeModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Employe">
+    <Key>
+      <PropertyRef Name="IdE" />
+    </Key>
+    <Property Name="IdE" Type="Int32" Nullable="false" />
+    <Property Name="Nom" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="Prenom" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="tel" Type="Int32" />
+    <Property Name="adresse" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="IDS" Type="Int32" />
+    <NavigationProperty Name="Salaire" Relationship="Self.FK__Employe__IDS__398D8EEE" FromRole="Employe" ToRole="Salaire" />
+  </EntityType>
+  <EntityType Name="Salaire">
+    <Key>
+      <PropertyRef Name="IdS" />
+    </Key>
+    <Property Name="IdS" Type="Int32" Nullable="false" />
+    <Property Name="salaire1" Type="Double" />
+    <NavigationProperty Name="Employes" Relationship="Self.FK__Employe__IDS__398D8EEE" FromRole="Salaire" ToRole="Employe" />
+  </EntityType>
+  <Association Name="FK__Employe__IDS__398D8EEE">
+    <End Role="Salaire" Type="Self.Salaire" Multiplicity="0..1" />
+    <End Role="Employe" Type="Self.Employe" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Salaire">
+        <PropertyRef Name="IdS" />
+      </Principal>
+      <Dependent Role="Employe">
+        <PropertyRef Name="IDS" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="GestionEmployeEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Employes" EntityType="Self.Employe" />
+    <EntitySet Name="Salaires" EntityType="Self.Salaire" />
+    <AssociationSet Name="FK__Employe__IDS__398D8EEE" Association="Self.FK__Employe__IDS__398D8EEE">
+      <End Role="Salaire" EntitySet="Salaires" />
+      <End Role="Employe" EntitySet="Employes" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

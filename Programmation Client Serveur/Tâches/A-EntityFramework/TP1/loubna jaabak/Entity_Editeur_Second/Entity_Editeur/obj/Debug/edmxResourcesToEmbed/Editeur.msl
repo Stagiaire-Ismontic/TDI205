@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Gestion_EditeursModelStoreContainer" CdmEntityContainer="Gestion_EditeursEntities">
+    <EntitySetMapping Name="Editeurs">
+      <EntityTypeMapping TypeName="Gestion_EditeursModel.Editeur">
+        <MappingFragment StoreEntitySet="Editeur">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nom" ColumnName="nom" />
+          <ScalarProperty Name="categorie" ColumnName="categorie" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Livres">
+      <EntityTypeMapping TypeName="Gestion_EditeursModel.Livre">
+        <MappingFragment StoreEntitySet="Livre">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Titre" ColumnName="Titre" />
+          <ScalarProperty Name="Categorie" ColumnName="Categorie" />
+          <ScalarProperty Name="idEdit" ColumnName="idEdit" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

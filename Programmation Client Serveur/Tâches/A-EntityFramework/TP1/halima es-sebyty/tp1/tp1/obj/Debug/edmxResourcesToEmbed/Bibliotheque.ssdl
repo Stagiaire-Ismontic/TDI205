@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="biblio_Entity_frameWorkModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="editeur">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" />
+    <Property Name="nom" Type="varchar" MaxLength="50" />
+    <Property Name="prenom" Type="varchar" MaxLength="50" />
+    <Property Name="numero_inscription" Type="int" />
+    <Property Name="id_livre" Type="int" />
+  </EntityType>
+  <EntityType Name="Livre">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" />
+    <Property Name="titre" Type="varchar" MaxLength="50" />
+    <Property Name="categorie" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK__editeur__id_livr__1273C1CD">
+    <End Role="Livre" Type="Self.Livre" Multiplicity="0..1" />
+    <End Role="editeur" Type="Self.editeur" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Livre">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="editeur">
+        <PropertyRef Name="id_livre" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="biblio_Entity_frameWorkModelStoreContainer">
+    <EntitySet Name="editeur" EntityType="Self.editeur" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Livre" EntityType="Self.Livre" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__editeur__id_livr__1273C1CD" Association="Self.FK__editeur__id_livr__1273C1CD">
+      <End Role="Livre" EntitySet="Livre" />
+      <End Role="editeur" EntitySet="editeur" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
