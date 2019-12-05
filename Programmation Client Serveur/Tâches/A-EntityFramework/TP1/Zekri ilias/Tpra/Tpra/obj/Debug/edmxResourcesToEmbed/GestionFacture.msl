@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="GestionFactureModelStoreContainer" CdmEntityContainer="GestionFactureEntities">
+    <EntitySetMapping Name="banqs">
+      <EntityTypeMapping TypeName="GestionFactureModel.banq">
+        <MappingFragment StoreEntitySet="banq">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="FacId" ColumnName="FacId" />
+          <ScalarProperty Name="Nom" ColumnName="Nom" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="factures">
+      <EntityTypeMapping TypeName="GestionFactureModel.facture">
+        <MappingFragment StoreEntitySet="facture">
+          <ScalarProperty Name="IdFac" ColumnName="IdFac" />
+          <ScalarProperty Name="Nom" ColumnName="Nom" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
