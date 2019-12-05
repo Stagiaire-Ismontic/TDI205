@@ -1,0 +1,22 @@
+E:\Base des données\Programmation\Nouveau dossier\Gestion Stagiaires\Gestion Stagiaires\bin\Debug\Gestion Stagiaires.exe.config
+E:\Base des données\Programmation\Trav Pratique\TpC\Gestion Stagiaires\Gestion Stagiaires\bin\Debug\Gestion Stagiaires.exe.config
+E:\Base des données\Programmation\Trav Pratique\TpC\Gestion Stagiaires\Gestion Stagiaires\bin\Debug\Gestion Stagiaires.exe
+E:\Base des données\Programmation\Trav Pratique\TpC\Gestion Stagiaires\Gestion Stagiaires\bin\Debug\Gestion Stagiaires.pdb
+E:\Base des données\Programmation\Trav Pratique\TpC\Gestion Stagiaires\Gestion Stagiaires\obj\Debug\Gestion Stagiaires.csprojResolveAssemblyReference.cache
+E:\Base des données\Programmation\Trav Pratique\TpC\Gestion Stagiaires\Gestion Stagiaires\obj\Debug\Gestion Stagiaires.exe
+E:\Base des données\Programmation\Trav Pratique\TpC\Gestion Stagiaires\Gestion Stagiaires\obj\Debug\Gestion Stagiaires.pdb
+G:\Base des données\Programmation\Trav Pratique\Tp5\Gestion Stagiaires\Gestion Stagiaires\bin\Debug\Gestion Stagiaires.exe.config
+G:\Base des données\Programmation\Trav Pratique\Tp5\Gestion Stagiaires\Gestion Stagiaires\obj\Debug\Gestion Stagiaires.exe
+G:\Base des données\Programmation\Trav Pratique\Tp5\Gestion Stagiaires\Gestion Stagiaires\obj\Debug\Gestion Stagiaires.pdb
+G:\Base des données\Programmation\Trav Pratique\Tp5\Gestion Stagiaires\Gestion Stagiaires\bin\Debug\Gestion Stagiaires.exe
+G:\Base des données\Programmation\Trav Pratique\Tp5\Gestion Stagiaires\Gestion Stagiaires\bin\Debug\Gestion Stagiaires.pdb
+G:\Base des données\Programmation\Trav Pratique\Tp5\Gestion Stagiaires\Gestion Stagiaires\obj\Debug\Gestion Stagiaires.csprojResolveAssemblyReference.cache
+E:\Base des données\Programmation\Trav Pratique\Tp5\Gestion Stagiaires\Gestion Stagiaires\bin\Debug\Gestion Stagiaires.exe.config
+E:\Base des données\Programmation\Trav Pratique\Tp5\Gestion Stagiaires\Gestion Stagiaires\obj\Debug\Gestion Stagiaires.exe
+E:\Base des données\Programmation\Trav Pratique\Tp5\Gestion Stagiaires\Gestion Stagiaires\obj\Debug\Gestion Stagiaires.pdb
+D:\Base des données\Programmation\Trav Pratique\Tp1...Tp6\Tp5\Gestion Stagiaires(Sans classCnx)\Gestion Stagiaires\bin\Debug\Gestion Stagiaires.exe.config
+D:\Base des données\Programmation\Trav Pratique\Tp1...Tp6\Tp5\Gestion Stagiaires(Sans classCnx)\Gestion Stagiaires\obj\Debug\Gestion Stagiaires.exe
+D:\Base des données\Programmation\Trav Pratique\Tp1...Tp6\Tp5\Gestion Stagiaires(Sans classCnx)\Gestion Stagiaires\obj\Debug\Gestion Stagiaires.pdb
+D:\Base des données\Programmation\Trav Pratique\Tp1...Tp6\Tp5\Gestion Stagiaires(Sans classCnx)\Gestion Stagiaires\bin\Debug\Gestion Stagiaires.exe
+D:\Base des données\Programmation\Trav Pratique\Tp1...Tp6\Tp5\Gestion Stagiaires(Sans classCnx)\Gestion Stagiaires\bin\Debug\Gestion Stagiaires.pdb
+D:\Base des données\Programmation\Trav Pratique\Tp1...Tp6\Tp5\Gestion Stagiaires(Sans classCnx)\Gestion Stagiaires\obj\Debug\Gestion Stagiaires.csprojResolveAssemblyReference.cache

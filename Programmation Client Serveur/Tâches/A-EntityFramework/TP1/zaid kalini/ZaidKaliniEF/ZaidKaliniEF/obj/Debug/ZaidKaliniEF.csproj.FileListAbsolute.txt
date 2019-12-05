@@ -1,0 +1,12 @@
+C:\Users\TP\Desktop\ZaidKaliniEF\ZaidKaliniEF\bin\Debug\ZaidKaliniEF.exe.config
+C:\Users\TP\Desktop\ZaidKaliniEF\ZaidKaliniEF\bin\Debug\ZaidKaliniEF.exe
+C:\Users\TP\Desktop\ZaidKaliniEF\ZaidKaliniEF\bin\Debug\ZaidKaliniEF.pdb
+C:\Users\TP\Desktop\ZaidKaliniEF\ZaidKaliniEF\bin\Debug\EntityFramework.dll
+C:\Users\TP\Desktop\ZaidKaliniEF\ZaidKaliniEF\bin\Debug\EntityFramework.xml
+C:\Users\TP\Desktop\ZaidKaliniEF\ZaidKaliniEF\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\TP\Desktop\ZaidKaliniEF\ZaidKaliniEF\obj\Debug\ZaidKaliniEF.csprojResolveAssemblyReference.cache
+C:\Users\TP\Desktop\ZaidKaliniEF\ZaidKaliniEF\obj\Debug\ZaidKaliniEF.exe
+C:\Users\TP\Desktop\ZaidKaliniEF\ZaidKaliniEF\obj\Debug\ZaidKaliniEF.pdb
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\Tâches\A-EntityFramework\TP1\zaid kalini\ZaidKaliniEF\ZaidKaliniEF\bin\Debug\ZaidKaliniEF.exe.config
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\Tâches\A-EntityFramework\TP1\zaid kalini\ZaidKaliniEF\ZaidKaliniEF\obj\Debug\ZaidKaliniEF.exe
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\Tâches\A-EntityFramework\TP1\zaid kalini\ZaidKaliniEF\ZaidKaliniEF\obj\Debug\ZaidKaliniEF.pdb
