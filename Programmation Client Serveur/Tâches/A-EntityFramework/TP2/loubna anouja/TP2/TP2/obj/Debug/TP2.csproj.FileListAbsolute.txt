@@ -1,0 +1,11 @@
+E:\TP2\TP2\bin\Debug\TP2.exe.config
+E:\TP2\TP2\bin\Debug\TP2.exe
+E:\TP2\TP2\bin\Debug\TP2.pdb
+E:\TP2\TP2\bin\Debug\EntityFramework.dll
+E:\TP2\TP2\bin\Debug\EntityFramework.SqlServer.dll
+E:\TP2\TP2\bin\Debug\EntityFramework.xml
+E:\TP2\TP2\bin\Debug\EntityFramework.SqlServer.xml
+E:\TP2\TP2\bin\Debug\fr\EntityFramework.resources.dll
+E:\TP2\TP2\obj\Debug\TP2.csprojResolveAssemblyReference.cache
+E:\TP2\TP2\obj\Debug\TP2.exe
+E:\TP2\TP2\obj\Debug\TP2.pdb
