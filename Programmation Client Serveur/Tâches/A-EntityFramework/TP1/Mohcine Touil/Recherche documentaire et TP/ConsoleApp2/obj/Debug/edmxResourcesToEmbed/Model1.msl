@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="GestionStagaireModelStoreContainer" CdmEntityContainer="GestionStagaireEntities">
+    <EntitySetMapping Name="Stagaire">
+      <EntityTypeMapping TypeName="GestionStagaireModel.Stagaire">
+        <MappingFragment StoreEntitySet="Stagaire">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nom" ColumnName="nom" />
+          <ScalarProperty Name="cin" ColumnName="cin" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
