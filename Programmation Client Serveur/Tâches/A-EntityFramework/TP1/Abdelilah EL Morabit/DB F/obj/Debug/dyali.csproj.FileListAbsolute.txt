@@ -13,3 +13,6 @@ C:\Users\TP\Desktop\abdelilah el morabit\dyali\obj\Debug\dyali.pdb
 E:\Yassine El-Moustaid\Abdelilah el morabit\abdelilah el morabit\dyali\bin\Debug\dyali.exe.config
 E:\Yassine El-Moustaid\Abdelilah el morabit\abdelilah el morabit\dyali\obj\Debug\dyali.exe
 E:\Yassine El-Moustaid\Abdelilah el morabit\abdelilah el morabit\dyali\obj\Debug\dyali.pdb
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\Tâches\A-EntityFramework\TP1\Abdelilah EL Morabit\DB F\bin\Debug\dyali.exe.config
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\Tâches\A-EntityFramework\TP1\Abdelilah EL Morabit\DB F\obj\Debug\dyali.exe
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\Tâches\A-EntityFramework\TP1\Abdelilah EL Morabit\DB F\obj\Debug\dyali.pdb
