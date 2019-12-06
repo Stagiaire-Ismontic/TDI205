@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="stagrpModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="groupe">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="nomgrp" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Stagiaire" Relationship="Self.FK__Stagiaire__Idgrp__1273C1CD" FromRole="groupe" ToRole="Stagiaire" />
+  </EntityType>
+  <EntityType Name="Stagiaire">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="nomComplet" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Idgrp" Type="Int32" />
+    <NavigationProperty Name="groupe" Relationship="Self.FK__Stagiaire__Idgrp__1273C1CD" FromRole="Stagiaire" ToRole="groupe" />
+  </EntityType>
+  <Association Name="FK__Stagiaire__Idgrp__1273C1CD">
+    <End Role="groupe" Type="Self.groupe" Multiplicity="0..1" />
+    <End Role="Stagiaire" Type="Self.Stagiaire" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="groupe">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Stagiaire">
+        <PropertyRef Name="Idgrp" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="stagrpEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="groupe" EntityType="Self.groupe" />
+    <EntitySet Name="Stagiaire" EntityType="Self.Stagiaire" />
+    <AssociationSet Name="FK__Stagiaire__Idgrp__1273C1CD" Association="Self.FK__Stagiaire__Idgrp__1273C1CD">
+      <End Role="groupe" EntitySet="groupe" />
+      <End Role="Stagiaire" EntitySet="Stagiaire" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
