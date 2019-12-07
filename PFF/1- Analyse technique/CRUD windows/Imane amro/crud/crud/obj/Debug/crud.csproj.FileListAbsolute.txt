@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\imane\crud\crud\obj\Debug\crud.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\imane\crud\crud\obj\Debug\crud.Form1.resources
+C:\Users\HP\Desktop\imane\crud\crud\obj\Debug\crud.Properties.Resources.resources
+C:\Users\HP\Desktop\imane\crud\crud\obj\Debug\crud.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\imane\crud\crud\bin\Debug\crud.exe.config
+C:\Users\HP\Desktop\imane\crud\crud\bin\Debug\crud.exe
+C:\Users\HP\Desktop\imane\crud\crud\bin\Debug\crud.pdb
+C:\Users\HP\Desktop\imane\crud\crud\obj\Debug\crud.exe
+C:\Users\HP\Desktop\imane\crud\crud\obj\Debug\crud.pdb
