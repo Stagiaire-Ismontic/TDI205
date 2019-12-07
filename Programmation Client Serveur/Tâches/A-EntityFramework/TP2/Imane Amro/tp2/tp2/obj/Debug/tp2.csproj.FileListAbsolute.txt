@@ -10,3 +10,6 @@ C:\Users\HP\Desktop\imane\entityfermwork\tp2\tp2\bin\Debug\fr\EntityFramework.re
 C:\Users\HP\Desktop\imane\entityfermwork\tp2\tp2\obj\Debug\tp2.csproj.CopyComplete
 C:\Users\HP\Desktop\imane\entityfermwork\tp2\tp2\obj\Debug\tp2.exe
 C:\Users\HP\Desktop\imane\entityfermwork\tp2\tp2\obj\Debug\tp2.pdb
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\Tâches\A-EntityFramework\TP2\Imane Amro\tp2\tp2\bin\Debug\tp2.exe.config
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\Tâches\A-EntityFramework\TP2\Imane Amro\tp2\tp2\obj\Debug\tp2.exe
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\Tâches\A-EntityFramework\TP2\Imane Amro\tp2\tp2\obj\Debug\tp2.pdb

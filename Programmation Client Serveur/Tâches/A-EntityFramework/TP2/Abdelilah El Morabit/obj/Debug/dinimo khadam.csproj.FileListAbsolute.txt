@@ -1,0 +1,24 @@
+C:\Users\TP\source\repos\dinimo khadam\bin\Debug\dinimo khadam.exe.config
+C:\Users\TP\source\repos\dinimo khadam\bin\Debug\dinimo khadam.exe
+C:\Users\TP\source\repos\dinimo khadam\bin\Debug\dinimo khadam.pdb
+C:\Users\TP\source\repos\dinimo khadam\obj\Debug\dinimo khadam.exe
+C:\Users\TP\source\repos\dinimo khadam\obj\Debug\dinimo khadam.pdb
+C:\Users\TP\source\repos\dinimo khadam\bin\Debug\EntityFramework.dll
+C:\Users\TP\source\repos\dinimo khadam\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TP\source\repos\dinimo khadam\bin\Debug\EntityFramework.xml
+C:\Users\TP\source\repos\dinimo khadam\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TP\source\repos\dinimo khadam\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\TP\source\repos\dinimo khadam\obj\Debug\dinimo khadam.csprojAssemblyReference.cache
+C:\Users\TP\source\repos\dinimo khadam\obj\Debug\dinimo khadam.csproj.CopyComplete
+C:\Users\TP\source\repos\dinimo_khadam\bin\Debug\dinimo khadam.exe.config
+C:\Users\TP\source\repos\dinimo_khadam\obj\Debug\dinimo khadam.exe
+C:\Users\TP\source\repos\dinimo_khadam\obj\Debug\dinimo khadam.pdb
+C:\Users\TP\source\repos\dinimo_khadam\obj\Debug\dinimo khadam.csprojResolveAssemblyReference.cache
+C:\Users\TP\source\repos\dinimo_khadam\bin\Debug\dinimo khadam.exe
+C:\Users\TP\source\repos\dinimo_khadam\bin\Debug\dinimo khadam.pdb
+C:\Users\TP\source\repos\dinimo_khadam\bin\Debug\EntityFramework.dll
+C:\Users\TP\source\repos\dinimo_khadam\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TP\source\repos\dinimo_khadam\bin\Debug\EntityFramework.xml
+C:\Users\TP\source\repos\dinimo_khadam\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TP\source\repos\dinimo_khadam\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\TP\source\repos\dinimo_khadam\bin\Debug\TP2.exe.config

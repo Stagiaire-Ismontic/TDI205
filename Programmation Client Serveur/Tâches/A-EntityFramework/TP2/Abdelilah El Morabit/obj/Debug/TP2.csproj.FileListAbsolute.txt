@@ -1,0 +1,23 @@
+C:\Users\TP\source\repos\dinimo_khadam\bin\Debug\TP2.exe.config
+C:\Users\TP\source\repos\dinimo_khadam\bin\Debug\TP2.exe
+C:\Users\TP\source\repos\dinimo_khadam\bin\Debug\TP2.pdb
+C:\Users\TP\source\repos\dinimo_khadam\bin\Debug\EntityFramework.dll
+C:\Users\TP\source\repos\dinimo_khadam\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TP\source\repos\dinimo_khadam\bin\Debug\EntityFramework.xml
+C:\Users\TP\source\repos\dinimo_khadam\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TP\source\repos\dinimo_khadam\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\TP\source\repos\dinimo_khadam\obj\Debug\TP2.exe
+C:\Users\TP\source\repos\dinimo_khadam\obj\Debug\TP2.pdb
+C:\Users\TP\source\repos\dinimo_khadam\obj\Debug\TP2.csprojAssemblyReference.cache
+C:\Users\TP\source\repos\dinimo_khadam\obj\Debug\TP2.csproj.CopyComplete
+C:\Users\TP\source\repos\Abdelilah El Morabit\bin\Debug\TP2.exe.config
+C:\Users\TP\source\repos\Abdelilah El Morabit\obj\Debug\TP2.exe
+C:\Users\TP\source\repos\Abdelilah El Morabit\obj\Debug\TP2.pdb
+C:\Users\TP\source\repos\Abdelilah El Morabit\bin\Debug\TP2.exe
+C:\Users\TP\source\repos\Abdelilah El Morabit\bin\Debug\TP2.pdb
+C:\Users\TP\source\repos\Abdelilah El Morabit\bin\Debug\EntityFramework.dll
+C:\Users\TP\source\repos\Abdelilah El Morabit\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TP\source\repos\Abdelilah El Morabit\bin\Debug\EntityFramework.xml
+C:\Users\TP\source\repos\Abdelilah El Morabit\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TP\source\repos\Abdelilah El Morabit\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\TP\source\repos\Abdelilah El Morabit\obj\Debug\TP2.csprojResolveAssemblyReference.cache

@@ -20,3 +20,6 @@ D:\Base des données\Programmation\Trav Pratique\Tp1...Tp6\Tp5\Gestion Stagiaire
 D:\Base des données\Programmation\Trav Pratique\Tp1...Tp6\Tp5\Gestion Stagiaires(Sans classCnx)\Gestion Stagiaires\bin\Debug\Gestion Stagiaires.exe
 D:\Base des données\Programmation\Trav Pratique\Tp1...Tp6\Tp5\Gestion Stagiaires(Sans classCnx)\Gestion Stagiaires\bin\Debug\Gestion Stagiaires.pdb
 D:\Base des données\Programmation\Trav Pratique\Tp1...Tp6\Tp5\Gestion Stagiaires(Sans classCnx)\Gestion Stagiaires\obj\Debug\Gestion Stagiaires.csprojResolveAssemblyReference.cache
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\S1.Tp\TP5\ilias zekri\Gestion Stagiaire(Sans ClassConnexion)\Gestion Stagiaires\bin\Debug\Gestion Stagiaires.exe.config
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\S1.Tp\TP5\ilias zekri\Gestion Stagiaire(Sans ClassConnexion)\Gestion Stagiaires\obj\Debug\Gestion Stagiaires.exe
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\S1.Tp\TP5\ilias zekri\Gestion Stagiaire(Sans ClassConnexion)\Gestion Stagiaires\obj\Debug\Gestion Stagiaires.pdb
