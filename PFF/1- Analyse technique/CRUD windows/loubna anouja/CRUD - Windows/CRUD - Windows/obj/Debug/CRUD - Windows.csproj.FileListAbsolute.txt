@@ -1,0 +1,9 @@
+E:\CRUD - Windows\CRUD - Windows\bin\Debug\CRUD - Windows.exe.config
+E:\CRUD - Windows\CRUD - Windows\bin\Debug\CRUD - Windows.exe
+E:\CRUD - Windows\CRUD - Windows\bin\Debug\CRUD - Windows.pdb
+E:\CRUD - Windows\CRUD - Windows\obj\Debug\CRUD - Windows.csprojResolveAssemblyReference.cache
+E:\CRUD - Windows\CRUD - Windows\obj\Debug\CRUD___Windows.Form1.resources
+E:\CRUD - Windows\CRUD - Windows\obj\Debug\CRUD___Windows.Properties.Resources.resources
+E:\CRUD - Windows\CRUD - Windows\obj\Debug\CRUD - Windows.csproj.GenerateResource.Cache
+E:\CRUD - Windows\CRUD - Windows\obj\Debug\CRUD - Windows.exe
+E:\CRUD - Windows\CRUD - Windows\obj\Debug\CRUD - Windows.pdb
