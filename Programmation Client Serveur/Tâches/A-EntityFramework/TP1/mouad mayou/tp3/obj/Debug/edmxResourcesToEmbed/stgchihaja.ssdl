@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="stgchihajaModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="groupe">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="nom" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="stgr">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="nom" Type="nvarchar" MaxLength="50" />
+    <Property Name="prenom" Type="nvarchar" MaxLength="50" />
+    <Property Name="groupid" Type="int" />
+  </EntityType>
+  <Association Name="FK__stgr__groupid__25869641">
+    <End Role="groupe" Type="Self.groupe" Multiplicity="0..1" />
+    <End Role="stgr" Type="Self.stgr" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="groupe">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="stgr">
+        <PropertyRef Name="groupid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="stgchihajaModelStoreContainer">
+    <EntitySet Name="groupe" EntityType="Self.groupe" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="stgr" EntityType="Self.stgr" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__stgr__groupid__25869641" Association="Self.FK__stgr__groupid__25869641">
+      <End Role="groupe" EntitySet="groupe" />
+      <End Role="stgr" EntitySet="stgr" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

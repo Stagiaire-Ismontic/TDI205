@@ -1,0 +1,14 @@
+C:\Users\Mustapha\Desktop\Dev 2eme anne\Fouad\c#\sqlConnexion et sqlCommand\sqlConnexion et sqlCommand\bin\Debug\sqlConnexion et sqlCommand.exe.config
+C:\Users\Mustapha\Desktop\Dev 2eme anne\Fouad\c#\sqlConnexion et sqlCommand\sqlConnexion et sqlCommand\bin\Debug\sqlConnexion et sqlCommand.exe
+C:\Users\Mustapha\Desktop\Dev 2eme anne\Fouad\c#\sqlConnexion et sqlCommand\sqlConnexion et sqlCommand\bin\Debug\sqlConnexion et sqlCommand.pdb
+C:\Users\Mustapha\Desktop\Dev 2eme anne\Fouad\c#\sqlConnexion et sqlCommand\sqlConnexion et sqlCommand\obj\Debug\sqlConnexion et sqlCommand.csprojAssemblyReference.cache
+C:\Users\Mustapha\Desktop\Dev 2eme anne\Fouad\c#\sqlConnexion et sqlCommand\sqlConnexion et sqlCommand\obj\Debug\sqlConnexion et sqlCommand.csproj.CoreCompileInputs.cache
+C:\Users\Mustapha\Desktop\Dev 2eme anne\Fouad\c#\sqlConnexion et sqlCommand\sqlConnexion et sqlCommand\obj\Debug\sqlConnexion et sqlCommand.exe
+C:\Users\Mustapha\Desktop\Dev 2eme anne\Fouad\c#\sqlConnexion et sqlCommand\sqlConnexion et sqlCommand\obj\Debug\sqlConnexion et sqlCommand.pdb
+G:\tp 4\sqlConnexion et sqlCommand\sqlConnexion et sqlCommand\bin\Debug\sqlConnexion et sqlCommand.exe.config
+G:\tp 4\sqlConnexion et sqlCommand\sqlConnexion et sqlCommand\bin\Debug\sqlConnexion et sqlCommand.exe
+G:\tp 4\sqlConnexion et sqlCommand\sqlConnexion et sqlCommand\bin\Debug\sqlConnexion et sqlCommand.pdb
+G:\tp 4\sqlConnexion et sqlCommand\sqlConnexion et sqlCommand\obj\Debug\sqlConnexion et sqlCommand.csprojAssemblyReference.cache
+G:\tp 4\sqlConnexion et sqlCommand\sqlConnexion et sqlCommand\obj\Debug\sqlConnexion et sqlCommand.csproj.CoreCompileInputs.cache
+G:\tp 4\sqlConnexion et sqlCommand\sqlConnexion et sqlCommand\obj\Debug\sqlConnexion et sqlCommand.exe
+G:\tp 4\sqlConnexion et sqlCommand\sqlConnexion et sqlCommand\obj\Debug\sqlConnexion et sqlCommand.pdb

@@ -1,0 +1,11 @@
+E:\apah\apah\bin\Debug\apah.exe.config
+E:\apah\apah\bin\Debug\apah.exe
+E:\apah\apah\bin\Debug\apah.pdb
+E:\apah\apah\bin\Debug\EntityFramework.dll
+E:\apah\apah\bin\Debug\EntityFramework.SqlServer.dll
+E:\apah\apah\bin\Debug\EntityFramework.xml
+E:\apah\apah\bin\Debug\EntityFramework.SqlServer.xml
+E:\apah\apah\bin\Debug\fr\EntityFramework.resources.dll
+E:\apah\apah\obj\Debug\tp3.csprojResolveAssemblyReference.cache
+E:\apah\apah\obj\Debug\apah.exe
+E:\apah\apah\obj\Debug\apah.pdb

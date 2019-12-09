@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="stagrpModel1.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="groupe">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="nomgrp" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Stagiaire">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="nomComplet" Type="nvarchar" MaxLength="50" />
+    <Property Name="Idgrp" Type="int" />
+  </EntityType>
+  <Association Name="FK__Stagiaire__Idgrp__1273C1CD">
+    <End Role="groupe" Type="Self.groupe" Multiplicity="0..1" />
+    <End Role="Stagiaire" Type="Self.Stagiaire" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="groupe">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Stagiaire">
+        <PropertyRef Name="Idgrp" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="stagrpModel1StoreContainer">
+    <EntitySet Name="groupe" EntityType="Self.groupe" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Stagiaire" EntityType="Self.Stagiaire" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Stagiaire__Idgrp__1273C1CD" Association="Self.FK__Stagiaire__Idgrp__1273C1CD">
+      <End Role="groupe" EntitySet="groupe" />
+      <End Role="Stagiaire" EntitySet="Stagiaire" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

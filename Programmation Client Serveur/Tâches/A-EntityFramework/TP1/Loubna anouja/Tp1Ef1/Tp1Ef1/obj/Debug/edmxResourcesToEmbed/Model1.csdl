@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="loubnaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="commande">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Code" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Nom" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="livraisons" Relationship="Self.FK__livraison__IdCom__25869641" FromRole="commande" ToRole="livraison" />
+  </EntityType>
+  <EntityType Name="livraison">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Datelivraison" Type="DateTime" Precision="3" />
+    <Property Name="IdCommande" Type="Int32" />
+    <NavigationProperty Name="commande" Relationship="Self.FK__livraison__IdCom__25869641" FromRole="livraison" ToRole="commande" />
+  </EntityType>
+  <Association Name="FK__livraison__IdCom__25869641">
+    <End Role="commande" Type="Self.commande" Multiplicity="0..1" />
+    <End Role="livraison" Type="Self.livraison" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="commande">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="livraison">
+        <PropertyRef Name="IdCommande" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="loubnaEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="commandes" EntityType="Self.commande" />
+    <EntitySet Name="livraisons" EntityType="Self.livraison" />
+    <AssociationSet Name="FK__livraison__IdCom__25869641" Association="Self.FK__livraison__IdCom__25869641">
+      <End Role="commande" EntitySet="commandes" />
+      <End Role="livraison" EntitySet="livraisons" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

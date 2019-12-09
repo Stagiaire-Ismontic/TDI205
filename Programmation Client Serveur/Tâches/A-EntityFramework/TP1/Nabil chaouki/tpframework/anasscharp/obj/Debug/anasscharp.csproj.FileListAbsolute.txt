@@ -1,0 +1,11 @@
+C:\Users\j\source\repos\anasscharp\anasscharp\bin\Debug\anasscharp.exe.config
+C:\Users\j\source\repos\anasscharp\anasscharp\bin\Debug\anasscharp.exe
+C:\Users\j\source\repos\anasscharp\anasscharp\bin\Debug\anasscharp.pdb
+C:\Users\j\source\repos\anasscharp\anasscharp\bin\Debug\EntityFramework.dll
+C:\Users\j\source\repos\anasscharp\anasscharp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\j\source\repos\anasscharp\anasscharp\bin\Debug\EntityFramework.xml
+C:\Users\j\source\repos\anasscharp\anasscharp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\j\source\repos\anasscharp\anasscharp\obj\Debug\anasscharp.csprojAssemblyReference.cache
+C:\Users\j\source\repos\anasscharp\anasscharp\obj\Debug\anasscharp.csproj.CopyComplete
+C:\Users\j\source\repos\anasscharp\anasscharp\obj\Debug\anasscharp.exe
+C:\Users\j\source\repos\anasscharp\anasscharp\obj\Debug\anasscharp.pdb

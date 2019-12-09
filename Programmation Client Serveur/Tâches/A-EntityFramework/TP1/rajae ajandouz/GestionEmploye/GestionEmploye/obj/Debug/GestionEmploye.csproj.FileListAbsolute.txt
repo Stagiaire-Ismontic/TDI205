@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\GestionEmploye\GestionEmploye\bin\Debug\GestionEmploye.exe.config
+C:\Users\HP\source\repos\GestionEmploye\GestionEmploye\bin\Debug\GestionEmploye.exe
+C:\Users\HP\source\repos\GestionEmploye\GestionEmploye\bin\Debug\GestionEmploye.pdb
+C:\Users\HP\source\repos\GestionEmploye\GestionEmploye\bin\Debug\EntityFramework.dll
+C:\Users\HP\source\repos\GestionEmploye\GestionEmploye\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\source\repos\GestionEmploye\GestionEmploye\bin\Debug\EntityFramework.xml
+C:\Users\HP\source\repos\GestionEmploye\GestionEmploye\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\source\repos\GestionEmploye\GestionEmploye\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\HP\source\repos\GestionEmploye\GestionEmploye\obj\Debug\GestionEmploye.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\GestionEmploye\GestionEmploye\obj\Debug\GestionEmploye.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\GestionEmploye\GestionEmploye\obj\Debug\GestionEmploye.csproj.CopyComplete
+C:\Users\HP\source\repos\GestionEmploye\GestionEmploye\obj\Debug\GestionEmploye.exe
+C:\Users\HP\source\repos\GestionEmploye\GestionEmploye\obj\Debug\GestionEmploye.pdb

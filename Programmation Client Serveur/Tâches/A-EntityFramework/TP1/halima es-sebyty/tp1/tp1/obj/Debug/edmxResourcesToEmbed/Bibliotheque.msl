@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="biblio_Entity_frameWorkModelStoreContainer" CdmEntityContainer="biblio_Entity_frameWorkEntities">
+    <EntitySetMapping Name="editeurs">
+      <EntityTypeMapping TypeName="biblio_Entity_frameWorkModel.editeur">
+        <MappingFragment StoreEntitySet="editeur">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nom" ColumnName="nom" />
+          <ScalarProperty Name="prenom" ColumnName="prenom" />
+          <ScalarProperty Name="numero_inscription" ColumnName="numero_inscription" />
+          <ScalarProperty Name="id_livre" ColumnName="id_livre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Livres">
+      <EntityTypeMapping TypeName="biblio_Entity_frameWorkModel.Livre">
+        <MappingFragment StoreEntitySet="Livre">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="titre" ColumnName="titre" />
+          <ScalarProperty Name="categorie" ColumnName="categorie" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

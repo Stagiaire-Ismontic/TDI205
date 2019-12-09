@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="GestionFactureModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="banq">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="FacId" Type="int" />
+    <Property Name="Nom" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="facture">
+    <Key>
+      <PropertyRef Name="IdFac" />
+    </Key>
+    <Property Name="IdFac" Type="int" Nullable="false" />
+    <Property Name="Nom" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FKCCL">
+    <End Role="facture" Type="Self.facture" Multiplicity="0..1" />
+    <End Role="banq" Type="Self.banq" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="facture">
+        <PropertyRef Name="IdFac" />
+      </Principal>
+      <Dependent Role="banq">
+        <PropertyRef Name="FacId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="GestionFactureModelStoreContainer">
+    <EntitySet Name="banq" EntityType="Self.banq" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="facture" EntityType="Self.facture" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FKCCL" Association="Self.FKCCL">
+      <End Role="facture" EntitySet="facture" />
+      <End Role="banq" EntitySet="banq" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

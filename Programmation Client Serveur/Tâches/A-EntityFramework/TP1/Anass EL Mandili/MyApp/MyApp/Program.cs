@@ -12,10 +12,14 @@ namespace MyApp
         {
             using (var context = new ServicesOptionnelEntities())
             {
+                //l'ajout d'un Etudiant utilusant la Methode AddEtudiant()
                 AddEtudiant(new Etudiant() { Id = 2, Etud_Name = "Samir",Etud_Tel="0758741258" }, context);
+                //Modifier L'Etudiant utilusant La Methode UpdateEtudiant() 
                 UpdateEtudiant(new Etudiant() { Id = 1, Etud_Name = "Madani", Etud_Tel = "0555545458" }, context);
+                //Supprimer L'Etudiant utilusant La Methode DeleteEtudiant ()
                 DeleteEtudiant(context,3);
                 Console.WriteLine("\n");
+                //Afficher Tous les Etudiant utilusant la methode ShowDetail()
                 ShowDetail(context);
                 context.SaveChanges();
             }

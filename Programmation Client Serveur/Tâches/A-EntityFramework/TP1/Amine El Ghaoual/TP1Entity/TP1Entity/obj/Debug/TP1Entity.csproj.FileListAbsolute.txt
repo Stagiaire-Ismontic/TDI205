@@ -1,0 +1,2 @@
+C:\Users\TP\Desktop\MonAPP\TP1Entity\TP1Entity\bin\Debug\TP1Entity.exe.config
+F:\TP1Entity\TP1Entity\bin\Debug\TP1Entity.exe.config

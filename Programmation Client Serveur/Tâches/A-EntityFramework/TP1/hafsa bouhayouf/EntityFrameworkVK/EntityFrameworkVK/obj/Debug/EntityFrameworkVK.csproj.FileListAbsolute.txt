@@ -1,0 +1,12 @@
+C:\Users\Stagiaire\Desktop\Nouveau dossier (3)\EntityFrameworkVK\EntityFrameworkVK\bin\Debug\EntityFrameworkVK.exe.config
+C:\Users\Stagiaire\Desktop\Nouveau dossier (3)\EntityFrameworkVK\EntityFrameworkVK\bin\Debug\EntityFrameworkVK.exe
+C:\Users\Stagiaire\Desktop\Nouveau dossier (3)\EntityFrameworkVK\EntityFrameworkVK\bin\Debug\EntityFrameworkVK.pdb
+C:\Users\Stagiaire\Desktop\Nouveau dossier (3)\EntityFrameworkVK\EntityFrameworkVK\bin\Debug\EntityFramework.dll
+C:\Users\Stagiaire\Desktop\Nouveau dossier (3)\EntityFrameworkVK\EntityFrameworkVK\bin\Debug\EntityFramework.xml
+C:\Users\Stagiaire\Desktop\Nouveau dossier (3)\EntityFrameworkVK\EntityFrameworkVK\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\Stagiaire\Desktop\Nouveau dossier (3)\EntityFrameworkVK\EntityFrameworkVK\obj\Debug\EntityFrameworkVK.csprojResolveAssemblyReference.cache
+C:\Users\Stagiaire\Desktop\Nouveau dossier (3)\EntityFrameworkVK\EntityFrameworkVK\obj\Debug\EntityFrameworkVK.exe
+C:\Users\Stagiaire\Desktop\Nouveau dossier (3)\EntityFrameworkVK\EntityFrameworkVK\obj\Debug\EntityFrameworkVK.pdb
+E:\Nouveau dossier (3)\EntityFrameworkVK\EntityFrameworkVK\bin\Debug\EntityFrameworkVK.exe.config
+E:\Nouveau dossier (3)\EntityFrameworkVK\EntityFrameworkVK\obj\Debug\EntityFrameworkVK.exe
+E:\Nouveau dossier (3)\EntityFrameworkVK\EntityFrameworkVK\obj\Debug\EntityFrameworkVK.pdb

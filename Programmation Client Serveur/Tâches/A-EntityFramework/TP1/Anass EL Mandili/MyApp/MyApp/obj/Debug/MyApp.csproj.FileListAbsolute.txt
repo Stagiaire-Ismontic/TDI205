@@ -9,3 +9,6 @@ C:\Users\TP\Desktop\Nouveau dossier\MyApp\MyApp\bin\Debug\fr\EntityFramework.res
 C:\Users\TP\Desktop\Nouveau dossier\MyApp\MyApp\obj\Debug\MyApp.csprojResolveAssemblyReference.cache
 C:\Users\TP\Desktop\Nouveau dossier\MyApp\MyApp\obj\Debug\MyApp.exe
 C:\Users\TP\Desktop\Nouveau dossier\MyApp\MyApp\obj\Debug\MyApp.pdb
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\Tâches\A-EntityFramework\TP1\Anass EL Mandili\MyApp\MyApp\bin\Debug\MyApp.exe.config
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\Tâches\A-EntityFramework\TP1\Anass EL Mandili\MyApp\MyApp\obj\Debug\MyApp.exe
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\Tâches\A-EntityFramework\TP1\Anass EL Mandili\MyApp\MyApp\obj\Debug\MyApp.pdb

@@ -1,0 +1,11 @@
+C:\Users\TP\Desktop\diyaze$\eq\Etablissment\Etablissment\bin\Debug\Etablissment.exe.config
+C:\Users\TP\Desktop\diyaze$\eq\Etablissment\Etablissment\bin\Debug\Etablissment.exe
+C:\Users\TP\Desktop\diyaze$\eq\Etablissment\Etablissment\bin\Debug\Etablissment.pdb
+C:\Users\TP\Desktop\diyaze$\eq\Etablissment\Etablissment\bin\Debug\EntityFramework.dll
+C:\Users\TP\Desktop\diyaze$\eq\Etablissment\Etablissment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TP\Desktop\diyaze$\eq\Etablissment\Etablissment\bin\Debug\EntityFramework.xml
+C:\Users\TP\Desktop\diyaze$\eq\Etablissment\Etablissment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TP\Desktop\diyaze$\eq\Etablissment\Etablissment\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\TP\Desktop\diyaze$\eq\Etablissment\Etablissment\obj\Debug\Etablissment.csprojResolveAssemblyReference.cache
+C:\Users\TP\Desktop\diyaze$\eq\Etablissment\Etablissment\obj\Debug\Etablissment.exe
+C:\Users\TP\Desktop\diyaze$\eq\Etablissment\Etablissment\obj\Debug\Etablissment.pdb

@@ -1,0 +1,11 @@
+C:\Users\j\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\j\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\j\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\j\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\EntityFramework.dll
+C:\Users\j\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\j\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\EntityFramework.xml
+C:\Users\j\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\j\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\j\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+C:\Users\j\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\j\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

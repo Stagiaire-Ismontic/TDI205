@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="stgchihajaModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="groupe">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" Nullable="false" />
+          <Property Name="nom" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="stgr">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" Nullable="false" />
+          <Property Name="nom" Type="nvarchar" MaxLength="50" />
+          <Property Name="prenom" Type="nvarchar" MaxLength="50" />
+          <Property Name="groupid" Type="int" />
+        </EntityType>
+        <Association Name="FK__stgr__groupid__25869641">
+          <End Role="groupe" Type="Self.groupe" Multiplicity="0..1" />
+          <End Role="stgr" Type="Self.stgr" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="groupe">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="stgr">
+              <PropertyRef Name="groupid" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="stgchihajaModelStoreContainer">
+          <EntitySet Name="groupe" EntityType="Self.groupe" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="stgr" EntityType="Self.stgr" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK__stgr__groupid__25869641" Association="Self.FK__stgr__groupid__25869641">
+            <End Role="groupe" EntitySet="groupe" />
+            <End Role="stgr" EntitySet="stgr" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="stgchihajaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="groupe">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" />
+          <Property Name="nom" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="stgrs" Relationship="Self.FK__stgr__groupid__25869641" FromRole="groupe" ToRole="stgr" />
+        </EntityType>
+        <EntityType Name="stgr">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" />
+          <Property Name="nom" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="prenom" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="groupid" Type="Int32" />
+          <NavigationProperty Name="groupe" Relationship="Self.FK__stgr__groupid__25869641" FromRole="stgr" ToRole="groupe" />
+        </EntityType>
+        <Association Name="FK__stgr__groupid__25869641">
+          <End Role="groupe" Type="Self.groupe" Multiplicity="0..1" />
+          <End Role="stgr" Type="Self.stgr" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="groupe">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="stgr">
+              <PropertyRef Name="groupid" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="stgchihajaEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="groupes" EntityType="Self.groupe" />
+          <EntitySet Name="stgrs" EntityType="Self.stgr" />
+          <AssociationSet Name="FK__stgr__groupid__25869641" Association="Self.FK__stgr__groupid__25869641">
+            <End Role="groupe" EntitySet="groupes" />
+            <End Role="stgr" EntitySet="stgrs" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="stgchihajaModelStoreContainer" CdmEntityContainer="stgchihajaEntities">
+          <EntitySetMapping Name="groupes">
+            <EntityTypeMapping TypeName="stgchihajaModel.groupe">
+              <MappingFragment StoreEntitySet="groupe">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="nom" ColumnName="nom" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="stgrs">
+            <EntityTypeMapping TypeName="stgchihajaModel.stgr">
+              <MappingFragment StoreEntitySet="stgr">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="nom" ColumnName="nom" />
+                <ScalarProperty Name="prenom" ColumnName="prenom" />
+                <ScalarProperty Name="groupid" ColumnName="groupid" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Aucun" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>
