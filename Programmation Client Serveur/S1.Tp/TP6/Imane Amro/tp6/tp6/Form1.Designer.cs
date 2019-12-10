@@ -29,7 +29,6 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            this.hScrollBar1 = new System.Windows.Forms.HScrollBar();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
@@ -43,21 +42,14 @@
             this.buttonsu = new System.Windows.Forms.Button();
             this.buttonaff = new System.Windows.Forms.Button();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.etudiantBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.idDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.nomDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.prenomDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.ageDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.etudiantBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.cinDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.etudiantBindingSource)).BeginInit();
             this.SuspendLayout();
-            // 
-            // hScrollBar1
-            // 
-            this.hScrollBar1.Location = new System.Drawing.Point(0, 264);
-            this.hScrollBar1.Name = "hScrollBar1";
-            this.hScrollBar1.Size = new System.Drawing.Size(80, 17);
-            this.hScrollBar1.TabIndex = 0;
             // 
             // label1
             // 
@@ -97,7 +89,7 @@
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(36, 18);
             this.label4.TabIndex = 4;
-            this.label4.Text = "Age";
+            this.label4.Text = "CIN";
             // 
             // textBox1
             // 
@@ -130,7 +122,7 @@
             // buttonajouter
             // 
             this.buttonajouter.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonajouter.Location = new System.Drawing.Point(12, 199);
+            this.buttonajouter.Location = new System.Drawing.Point(357, 18);
             this.buttonajouter.Name = "buttonajouter";
             this.buttonajouter.Size = new System.Drawing.Size(102, 32);
             this.buttonajouter.TabIndex = 9;
@@ -141,9 +133,9 @@
             // buttonmodi
             // 
             this.buttonmodi.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonmodi.Location = new System.Drawing.Point(120, 199);
+            this.buttonmodi.Location = new System.Drawing.Point(357, 56);
             this.buttonmodi.Name = "buttonmodi";
-            this.buttonmodi.Size = new System.Drawing.Size(97, 32);
+            this.buttonmodi.Size = new System.Drawing.Size(102, 32);
             this.buttonmodi.TabIndex = 10;
             this.buttonmodi.Text = "Modifier";
             this.buttonmodi.UseVisualStyleBackColor = true;
@@ -152,7 +144,7 @@
             // buttonsu
             // 
             this.buttonsu.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonsu.Location = new System.Drawing.Point(223, 202);
+            this.buttonsu.Location = new System.Drawing.Point(357, 94);
             this.buttonsu.Name = "buttonsu";
             this.buttonsu.Size = new System.Drawing.Size(100, 31);
             this.buttonsu.TabIndex = 11;
@@ -163,7 +155,7 @@
             // buttonaff
             // 
             this.buttonaff.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonaff.Location = new System.Drawing.Point(329, 202);
+            this.buttonaff.Location = new System.Drawing.Point(357, 131);
             this.buttonaff.Name = "buttonaff";
             this.buttonaff.Size = new System.Drawing.Size(100, 31);
             this.buttonaff.TabIndex = 12;
@@ -181,14 +173,19 @@
             this.idDataGridViewTextBoxColumn,
             this.nomDataGridViewTextBoxColumn,
             this.prenomDataGridViewTextBoxColumn,
-            this.ageDataGridViewTextBoxColumn});
+            this.cinDataGridViewTextBoxColumn});
             this.dataGridView1.DataSource = this.etudiantBindingSource;
-            this.dataGridView1.Location = new System.Drawing.Point(367, 12);
+            this.dataGridView1.Location = new System.Drawing.Point(12, 198);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.ReadOnly = true;
             this.dataGridView1.Size = new System.Drawing.Size(447, 174);
             this.dataGridView1.TabIndex = 13;
+            this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             this.dataGridView1.MouseDoubleClick += new System.Windows.Forms.MouseEventHandler(this.dataGridView1_MouseDoubleClick);
+            // 
+            // etudiantBindingSource
+            // 
+            this.etudiantBindingSource.DataSource = typeof(tp6.PackageEtudiants.Etudiant);
             // 
             // idDataGridViewTextBoxColumn
             // 
@@ -211,22 +208,18 @@
             this.prenomDataGridViewTextBoxColumn.Name = "prenomDataGridViewTextBoxColumn";
             this.prenomDataGridViewTextBoxColumn.ReadOnly = true;
             // 
-            // ageDataGridViewTextBoxColumn
+            // cinDataGridViewTextBoxColumn
             // 
-            this.ageDataGridViewTextBoxColumn.DataPropertyName = "Age";
-            this.ageDataGridViewTextBoxColumn.HeaderText = "Age";
-            this.ageDataGridViewTextBoxColumn.Name = "ageDataGridViewTextBoxColumn";
-            this.ageDataGridViewTextBoxColumn.ReadOnly = true;
-            // 
-            // etudiantBindingSource
-            // 
-            this.etudiantBindingSource.DataSource = typeof(tp6.PackageEtudiants.Etudiant);
+            this.cinDataGridViewTextBoxColumn.DataPropertyName = "Cin";
+            this.cinDataGridViewTextBoxColumn.HeaderText = "Cin";
+            this.cinDataGridViewTextBoxColumn.Name = "cinDataGridViewTextBoxColumn";
+            this.cinDataGridViewTextBoxColumn.ReadOnly = true;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(843, 261);
+            this.ClientSize = new System.Drawing.Size(527, 382);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.buttonaff);
             this.Controls.Add(this.buttonsu);
@@ -240,7 +233,6 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.hScrollBar1);
             this.Name = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
@@ -251,8 +243,6 @@
         }
 
         #endregion
-
-        private System.Windows.Forms.HScrollBar hScrollBar1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
@@ -266,11 +256,12 @@
         private System.Windows.Forms.Button buttonsu;
         private System.Windows.Forms.Button buttonaff;
         private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.DataGridViewTextBoxColumn ageDataGridViewTextBoxColumn;
+        private System.Windows.Forms.BindingSource etudiantBindingSource;
         private System.Windows.Forms.DataGridViewTextBoxColumn idDataGridViewTextBoxColumn;
         private System.Windows.Forms.DataGridViewTextBoxColumn nomDataGridViewTextBoxColumn;
         private System.Windows.Forms.DataGridViewTextBoxColumn prenomDataGridViewTextBoxColumn;
-        private System.Windows.Forms.DataGridViewTextBoxColumn ageDataGridViewTextBoxColumn;
-        private System.Windows.Forms.BindingSource etudiantBindingSource;
+        private System.Windows.Forms.DataGridViewTextBoxColumn cinDataGridViewTextBoxColumn;
     }
 }
 

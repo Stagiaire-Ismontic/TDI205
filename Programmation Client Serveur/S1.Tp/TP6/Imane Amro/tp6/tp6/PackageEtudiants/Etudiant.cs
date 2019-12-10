@@ -11,7 +11,7 @@ namespace tp6.PackageEtudiants
         int id;
         string nom;
         string prenom;
-        int age;
+        string cin;
 
         public int Id
         {
@@ -52,24 +52,25 @@ namespace tp6.PackageEtudiants
             }
         }
 
-        public int Age
+        public string
+            Cin
         {
             get
             {
-                return age;
+                return cin;
             }
 
             set
             {
-                age = value;
+                cin = value;
             }
         }
-        public Etudiant(int i,string n,string p,int a)
+        public Etudiant(int i,string n,string p,string cin)
         {
             this.Id = i;
             this.Nom = n;
             this.Prenom = p;
-            this.Age = a;
+            this.Cin = cin;
         }
         public Etudiant()
         { }

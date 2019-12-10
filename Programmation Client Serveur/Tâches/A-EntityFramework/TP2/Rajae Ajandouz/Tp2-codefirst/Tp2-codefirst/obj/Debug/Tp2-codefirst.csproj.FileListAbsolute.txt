@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Tp2-codefirst\Tp2-codefirst\obj\Debug\Tp2-codefirst.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Tp2-codefirst\Tp2-codefirst\obj\Debug\Tp2-codefirst.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Tp2-codefirst\Tp2-codefirst\bin\Debug\Tp2-codefirst.exe.config
+C:\Users\HP\source\repos\Tp2-codefirst\Tp2-codefirst\bin\Debug\Tp2-codefirst.exe
+C:\Users\HP\source\repos\Tp2-codefirst\Tp2-codefirst\bin\Debug\Tp2-codefirst.pdb
+C:\Users\HP\source\repos\Tp2-codefirst\Tp2-codefirst\bin\Debug\EntityFramework.dll
+C:\Users\HP\source\repos\Tp2-codefirst\Tp2-codefirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\source\repos\Tp2-codefirst\Tp2-codefirst\bin\Debug\EntityFramework.xml
+C:\Users\HP\source\repos\Tp2-codefirst\Tp2-codefirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\source\repos\Tp2-codefirst\Tp2-codefirst\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\HP\source\repos\Tp2-codefirst\Tp2-codefirst\obj\Debug\Tp2-codefirst.csproj.CopyComplete
+C:\Users\HP\source\repos\Tp2-codefirst\Tp2-codefirst\obj\Debug\Tp2-codefirst.exe
+C:\Users\HP\source\repos\Tp2-codefirst\Tp2-codefirst\obj\Debug\Tp2-codefirst.pdb

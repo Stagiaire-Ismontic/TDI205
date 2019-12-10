@@ -7,12 +7,33 @@ C:\Users\HP\Desktop\tp6\tp6\bin\Debug\tp6.exe
 C:\Users\HP\Desktop\tp6\tp6\bin\Debug\tp6.pdb
 C:\Users\HP\Desktop\tp6\tp6\obj\Debug\tp6.exe
 C:\Users\HP\Desktop\tp6\tp6\obj\Debug\tp6.pdb
-C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\S1.Tp\TP6\Imane Amro\tp6\tp6\bin\Debug\tp6.exe.config
-C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\S1.Tp\TP6\Imane Amro\tp6\tp6\obj\Debug\tp6.exe
-C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\S1.Tp\TP6\Imane Amro\tp6\tp6\obj\Debug\tp6.pdb
-C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\S1.Tp\TP6\Imane Amro\tp6\tp6\bin\Debug\tp6.exe
-C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\S1.Tp\TP6\Imane Amro\tp6\tp6\bin\Debug\tp6.pdb
-C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\S1.Tp\TP6\Imane Amro\tp6\tp6\obj\Debug\tp6.csprojResolveAssemblyReference.cache
-C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\S1.Tp\TP6\Imane Amro\tp6\tp6\obj\Debug\tp6.Form1.resources
-C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\S1.Tp\TP6\Imane Amro\tp6\tp6\obj\Debug\tp6.Properties.Resources.resources
-C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\S1.Tp\TP6\Imane Amro\tp6\tp6\obj\Debug\tp6.csproj.GenerateResource.Cache
+E:\tp6\tp6\bin\Debug\tp6.exe.config
+E:\tp6\tp6\obj\Debug\tp6.exe
+E:\tp6\tp6\obj\Debug\tp6.pdb
+F:\tp6\tp6\bin\Debug\tp6.exe.config
+F:\tp6\tp6\bin\Debug\tp6.exe
+F:\tp6\tp6\bin\Debug\tp6.pdb
+F:\tp6\tp6\obj\Debug\tp6.csprojAssemblyReference.cache
+F:\tp6\tp6\obj\Debug\tp6.Form1.resources
+F:\tp6\tp6\obj\Debug\tp6.Properties.Resources.resources
+F:\tp6\tp6\obj\Debug\tp6.csproj.GenerateResource.cache
+F:\tp6\tp6\obj\Debug\tp6.exe
+F:\tp6\tp6\obj\Debug\tp6.pdb
+C:\Users\ACER\Desktop\BaiduWifi\tp6\tp6\bin\Debug\tp6.exe.config
+C:\Users\ACER\Desktop\BaiduWifi\tp6\tp6\obj\Debug\tp6.exe
+C:\Users\ACER\Desktop\BaiduWifi\tp6\tp6\obj\Debug\tp6.pdb
+C:\Users\ACER\Desktop\BaiduWifi\tp6\tp6\bin\Debug\tp6.exe
+C:\Users\ACER\Desktop\BaiduWifi\tp6\tp6\bin\Debug\tp6.pdb
+C:\Users\ACER\Desktop\BaiduWifi\tp6\tp6\obj\Debug\tp6.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\BaiduWifi\tp6\tp6\obj\Debug\tp6.Form1.resources
+C:\Users\ACER\Desktop\BaiduWifi\tp6\tp6\obj\Debug\tp6.Properties.Resources.resources
+C:\Users\ACER\Desktop\BaiduWifi\tp6\tp6\obj\Debug\tp6.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\imane\Modeconnecter\tp6\tp6\bin\Debug\tp6.exe.config
+C:\Users\HP\Desktop\imane\Modeconnecter\tp6\tp6\bin\Debug\tp6.exe
+C:\Users\HP\Desktop\imane\Modeconnecter\tp6\tp6\bin\Debug\tp6.pdb
+C:\Users\HP\Desktop\imane\Modeconnecter\tp6\tp6\obj\Debug\tp6.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\imane\Modeconnecter\tp6\tp6\obj\Debug\tp6.Form1.resources
+C:\Users\HP\Desktop\imane\Modeconnecter\tp6\tp6\obj\Debug\tp6.Properties.Resources.resources
+C:\Users\HP\Desktop\imane\Modeconnecter\tp6\tp6\obj\Debug\tp6.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\imane\Modeconnecter\tp6\tp6\obj\Debug\tp6.exe
+C:\Users\HP\Desktop\imane\Modeconnecter\tp6\tp6\obj\Debug\tp6.pdb

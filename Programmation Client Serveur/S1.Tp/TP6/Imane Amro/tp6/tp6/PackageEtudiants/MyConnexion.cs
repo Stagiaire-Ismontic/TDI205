@@ -9,7 +9,7 @@ namespace tp6.PackageEtudiants
 {
     class MyConnexion
     {
-        private static SqlConnection cnx = new SqlConnection(@"Data Source=DESKTOP-PIUCF0K\SQLEXPRESS;Initial Catalog=test1;Integrated Security=True");
+        private static SqlConnection cnx = new SqlConnection(@"Data Source=DESKTOP-PIUCF0K\SQLEXPRESS;Initial Catalog=test2;Integrated Security=True");
         private static SqlCommand commande;
 
         public static int ExecuteSQL(string requete)
@@ -25,6 +25,7 @@ namespace tp6.PackageEtudiants
         {
             commande = new SqlCommand(requete, cnx);
             cnx.Open();
+           // cnx.Close();
             return commande.ExecuteReader();
 
         }

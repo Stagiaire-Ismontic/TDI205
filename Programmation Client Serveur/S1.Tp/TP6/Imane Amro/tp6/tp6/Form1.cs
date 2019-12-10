@@ -13,11 +13,12 @@ namespace tp6
 {
     public partial class Form1 : Form
     {
-        Etudiant e = new Etudiant();
+     
         GestionEtudiant ge = new GestionEtudiant();
         public Form1()
         {
             InitializeComponent();
+            Chargerdata();
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -35,11 +36,11 @@ namespace tp6
             string nom = this.textBox2.Text;
             string prenom = this.textBox3.Text;
 
-            int age = int.Parse(this.textBox4.Text);
+            string cin= textBox4.Text;
             
-            Etudiant a = new Etudiant(id,nom, prenom, age);
+            Etudiant a = new Etudiant(id,nom, prenom, cin);
             ge.Ajouter(a);
-            this.actualiser();
+            Chargerdata();
 
             MessageBox.Show("stagiaire ajouter avec succes");
         }
@@ -50,40 +51,39 @@ namespace tp6
             int id = int.Parse(this.textBox1.Text);
             string nom = this.textBox2.Text;
             string prenom = this.textBox3.Text;
+           string cin =textBox4.Text;
 
-            int age = int.Parse(this.textBox4.Text);
-
-            Etudiant a = new Etudiant(id, nom, prenom, age);
+            Etudiant a = new Etudiant(id, nom, prenom, cin);
             ge.Modifier(a);
-            this.actualiser();
+            this.Chargerdata();
         }
 
         private void buttonsu_Click(object sender, EventArgs e)
         {
             int id = int.Parse(this.textBox1.Text);
             ge.Supprimer(id);
-            this.actualiser();
+            this.Chargerdata();
         }
 
         private void buttonaff_Click(object sender, EventArgs e)
         {
-            this.actualiser();
+            this.Chargerdata();
         }
-        private void actualiser()
+        private void Chargerdata()
         {
-            List<Etudiant> lst = new List<Etudiant>();
-            lst = ge.Afficher();
-            dataGridView1.AutoGenerateColumns = false;
-            dataGridView1.DataSource = null;
-            dataGridView1.DataSource = lst;
-      
+            this.dataGridView1.DataSource = null;
+            dataGridView1.DataSource = ge.Afficher();
         }
-
         private void dataGridView1_MouseDoubleClick(object sender, MouseEventArgs e)
         {
 
 
             }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
         }
+    }
     }
 
