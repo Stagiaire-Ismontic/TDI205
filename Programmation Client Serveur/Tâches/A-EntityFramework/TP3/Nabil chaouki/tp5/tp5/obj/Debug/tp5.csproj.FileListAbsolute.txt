@@ -1,0 +1,14 @@
+C:\Users\j\source\repos\tp5\tp5\bin\Debug\tp5.exe.config
+C:\Users\j\source\repos\tp5\tp5\bin\Debug\tp5.exe
+C:\Users\j\source\repos\tp5\tp5\bin\Debug\tp5.pdb
+C:\Users\j\source\repos\tp5\tp5\bin\Debug\EntityFramework.dll
+C:\Users\j\source\repos\tp5\tp5\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\j\source\repos\tp5\tp5\bin\Debug\EntityFramework.xml
+C:\Users\j\source\repos\tp5\tp5\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\j\source\repos\tp5\tp5\obj\Debug\tp5.csprojAssemblyReference.cache
+C:\Users\j\source\repos\tp5\tp5\obj\Debug\tp5.Form1.resources
+C:\Users\j\source\repos\tp5\tp5\obj\Debug\tp5.Properties.Resources.resources
+C:\Users\j\source\repos\tp5\tp5\obj\Debug\tp5.csproj.GenerateResource.cache
+C:\Users\j\source\repos\tp5\tp5\obj\Debug\tp5.csproj.CopyComplete
+C:\Users\j\source\repos\tp5\tp5\obj\Debug\tp5.exe
+C:\Users\j\source\repos\tp5\tp5\obj\Debug\tp5.pdb
