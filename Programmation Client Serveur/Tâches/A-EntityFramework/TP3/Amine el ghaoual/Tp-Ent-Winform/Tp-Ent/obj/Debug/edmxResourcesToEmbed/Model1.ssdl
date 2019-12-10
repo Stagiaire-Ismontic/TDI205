@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="dbsimpleModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Groupe">
+    <Key>
+      <PropertyRef Name="IDg" />
+    </Key>
+    <Property Name="IDg" Type="int" Nullable="false" />
+    <Property Name="NameG" Type="nvarchar" MaxLength="50" />
+    <Property Name="ID" Type="int" />
+  </EntityType>
+  <EntityType Name="Persone">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" />
+    <Property Name="Passw" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK__Groupe__ID__1273C1CD">
+    <End Role="Persone" Type="Self.Persone" Multiplicity="0..1" />
+    <End Role="Groupe" Type="Self.Groupe" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Persone">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Groupe">
+        <PropertyRef Name="ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="dbsimpleModelStoreContainer">
+    <EntitySet Name="Groupe" EntityType="Self.Groupe" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Persone" EntityType="Self.Persone" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Groupe__ID__1273C1CD" Association="Self.FK__Groupe__ID__1273C1CD">
+      <End Role="Persone" EntitySet="Persone" />
+      <End Role="Groupe" EntitySet="Groupe" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

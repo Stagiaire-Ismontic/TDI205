@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="dbsimpleModelStoreContainer" CdmEntityContainer="dbsimpleEntities">
+    <EntitySetMapping Name="Groupes">
+      <EntityTypeMapping TypeName="dbsimpleModel.Groupe">
+        <MappingFragment StoreEntitySet="Groupe">
+          <ScalarProperty Name="IDg" ColumnName="IDg" />
+          <ScalarProperty Name="NameG" ColumnName="NameG" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Persones">
+      <EntityTypeMapping TypeName="dbsimpleModel.Persone">
+        <MappingFragment StoreEntitySet="Persone">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Passw" ColumnName="Passw" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

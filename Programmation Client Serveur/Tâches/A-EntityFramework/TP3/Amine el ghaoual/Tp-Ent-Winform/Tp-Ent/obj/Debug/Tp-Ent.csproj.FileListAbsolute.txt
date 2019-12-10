@@ -1,0 +1,24 @@
+C:\Users\Amine\Documents\Visual Studio 2017\Projects\Tp-Ent\Tp-Ent\bin\Debug\Tp-Ent.exe.config
+C:\Users\Amine\Documents\Visual Studio 2017\Projects\Tp-Ent\Tp-Ent\bin\Debug\Tp-Ent.exe
+C:\Users\Amine\Documents\Visual Studio 2017\Projects\Tp-Ent\Tp-Ent\bin\Debug\Tp-Ent.pdb
+C:\Users\Amine\Documents\Visual Studio 2017\Projects\Tp-Ent\Tp-Ent\bin\Debug\EntityFramework.dll
+C:\Users\Amine\Documents\Visual Studio 2017\Projects\Tp-Ent\Tp-Ent\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amine\Documents\Visual Studio 2017\Projects\Tp-Ent\Tp-Ent\bin\Debug\EntityFramework.xml
+C:\Users\Amine\Documents\Visual Studio 2017\Projects\Tp-Ent\Tp-Ent\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amine\Documents\Visual Studio 2017\Projects\Tp-Ent\Tp-Ent\obj\Debug\Tp-Ent.csprojAssemblyReference.cache
+C:\Users\Amine\Documents\Visual Studio 2017\Projects\Tp-Ent\Tp-Ent\obj\Debug\Tp_Ent.Form1.resources
+C:\Users\Amine\Documents\Visual Studio 2017\Projects\Tp-Ent\Tp-Ent\obj\Debug\Tp_Ent.Properties.Resources.resources
+C:\Users\Amine\Documents\Visual Studio 2017\Projects\Tp-Ent\Tp-Ent\obj\Debug\Tp-Ent.csproj.GenerateResource.cache
+C:\Users\Amine\Documents\Visual Studio 2017\Projects\Tp-Ent\Tp-Ent\obj\Debug\Tp-Ent.csproj.CoreCompileInputs.cache
+C:\Users\Amine\Documents\Visual Studio 2017\Projects\Tp-Ent\Tp-Ent\obj\Debug\Tp-Ent.csproj.CopyComplete
+C:\Users\Amine\Documents\Visual Studio 2017\Projects\Tp-Ent\Tp-Ent\obj\Debug\Tp-Ent.exe
+C:\Users\Amine\Documents\Visual Studio 2017\Projects\Tp-Ent\Tp-Ent\obj\Debug\Tp-Ent.pdb
+F:\Tp-Ent\Tp-Ent\bin\Debug\Tp-Ent.exe.config
+F:\Tp-Ent\Tp-Ent\obj\Debug\Tp-Ent.exe
+F:\Tp-Ent\Tp-Ent\obj\Debug\Tp-Ent.pdb
+E:\Tp-Ent\Tp-Ent\bin\Debug\Tp-Ent.exe.config
+E:\Tp-Ent\Tp-Ent\obj\Debug\Tp-Ent.exe
+E:\Tp-Ent\Tp-Ent\obj\Debug\Tp-Ent.pdb
+E:\Tp-Ent-Winform\Tp-Ent\bin\Debug\Tp-Ent.exe.config
+E:\Tp-Ent-Winform\Tp-Ent\obj\Debug\Tp-Ent.exe
+E:\Tp-Ent-Winform\Tp-Ent\obj\Debug\Tp-Ent.pdb
