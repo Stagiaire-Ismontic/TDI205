@@ -1,0 +1,9 @@
+E:\TPS\tp3modeConnecte\tp3modeConnecte\bin\Debug\tp3modeConnecte.exe.config
+E:\TPS\tp3modeConnecte\tp3modeConnecte\bin\Debug\tp3modeConnecte.exe
+E:\TPS\tp3modeConnecte\tp3modeConnecte\bin\Debug\tp3modeConnecte.pdb
+E:\TPS\tp3modeConnecte\tp3modeConnecte\obj\Debug\tp3modeConnecte.csprojResolveAssemblyReference.cache
+E:\TPS\tp3modeConnecte\tp3modeConnecte\obj\Debug\tp3modeConnecte.Form1.resources
+E:\TPS\tp3modeConnecte\tp3modeConnecte\obj\Debug\tp3modeConnecte.Properties.Resources.resources
+E:\TPS\tp3modeConnecte\tp3modeConnecte\obj\Debug\tp3modeConnecte.csproj.GenerateResource.Cache
+E:\TPS\tp3modeConnecte\tp3modeConnecte\obj\Debug\tp3modeConnecte.exe
+E:\TPS\tp3modeConnecte\tp3modeConnecte\obj\Debug\tp3modeConnecte.pdb
