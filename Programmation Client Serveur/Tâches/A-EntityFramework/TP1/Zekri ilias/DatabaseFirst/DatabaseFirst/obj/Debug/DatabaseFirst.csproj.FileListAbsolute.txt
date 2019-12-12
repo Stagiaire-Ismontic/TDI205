@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\DatabaseFirst\DatabaseFirst\bin\Debug\DatabaseFirst.exe.config
+C:\Users\HP\Desktop\DatabaseFirst\DatabaseFirst\bin\Debug\DatabaseFirst.exe
+C:\Users\HP\Desktop\DatabaseFirst\DatabaseFirst\bin\Debug\DatabaseFirst.pdb
+C:\Users\HP\Desktop\DatabaseFirst\DatabaseFirst\bin\Debug\EntityFramework.dll
+C:\Users\HP\Desktop\DatabaseFirst\DatabaseFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\DatabaseFirst\DatabaseFirst\bin\Debug\EntityFramework.xml
+C:\Users\HP\Desktop\DatabaseFirst\DatabaseFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\DatabaseFirst\DatabaseFirst\obj\Debug\DatabaseFirst.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\DatabaseFirst\DatabaseFirst\obj\Debug\DatabaseFirst.exe
+C:\Users\HP\Desktop\DatabaseFirst\DatabaseFirst\obj\Debug\DatabaseFirst.pdb

@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\Tp 3\Tp 3\bin\Debug\Tp 3.exe.config
+C:\Users\HP\Desktop\Tp 3\Tp 3\bin\Debug\Tp 3.exe
+C:\Users\HP\Desktop\Tp 3\Tp 3\bin\Debug\Tp 3.pdb
+C:\Users\HP\Desktop\Tp 3\Tp 3\bin\Debug\EntityFramework.dll
+C:\Users\HP\Desktop\Tp 3\Tp 3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\Tp 3\Tp 3\bin\Debug\EntityFramework.xml
+C:\Users\HP\Desktop\Tp 3\Tp 3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\Tp 3\Tp 3\obj\Debug\Tp 3.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Tp 3\Tp 3\obj\Debug\Tp_3.Form1.resources
+C:\Users\HP\Desktop\Tp 3\Tp 3\obj\Debug\Tp_3.Properties.Resources.resources
+C:\Users\HP\Desktop\Tp 3\Tp 3\obj\Debug\Tp 3.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Tp 3\Tp 3\obj\Debug\Tp 3.exe
+C:\Users\HP\Desktop\Tp 3\Tp 3\obj\Debug\Tp 3.pdb

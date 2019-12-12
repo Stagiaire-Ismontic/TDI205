@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe.config
+C:\Users\HP\Desktop\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe
+C:\Users\HP\Desktop\CodeFirst\CodeFirst\bin\Debug\CodeFirst.pdb
+C:\Users\HP\Desktop\CodeFirst\CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\HP\Desktop\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\CodeFirst\CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\HP\Desktop\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\CodeFirst\CodeFirst\obj\Debug\CodeFirst.exe
+C:\Users\HP\Desktop\CodeFirst\CodeFirst\obj\Debug\CodeFirst.pdb
