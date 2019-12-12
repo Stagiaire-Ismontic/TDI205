@@ -1,0 +1,12 @@
+C:\Users\Stagiaire\Desktop\tp2 EF\tp2 EF\bin\Debug\tp2 EF.exe.config
+C:\Users\Stagiaire\Desktop\tp2 EF\tp2 EF\bin\Debug\tp2 EF.exe
+C:\Users\Stagiaire\Desktop\tp2 EF\tp2 EF\bin\Debug\tp2 EF.pdb
+C:\Users\Stagiaire\Desktop\tp2 EF\tp2 EF\bin\Debug\EntityFramework.dll
+C:\Users\Stagiaire\Desktop\tp2 EF\tp2 EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stagiaire\Desktop\tp2 EF\tp2 EF\bin\Debug\EntityFramework.xml
+C:\Users\Stagiaire\Desktop\tp2 EF\tp2 EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stagiaire\Desktop\tp2 EF\tp2 EF\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\Stagiaire\Desktop\tp2 EF\tp2 EF\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\Stagiaire\Desktop\tp2 EF\tp2 EF\obj\Debug\tp2 EF.exe
+C:\Users\Stagiaire\Desktop\tp2 EF\tp2 EF\obj\Debug\tp2 EF.pdb
+C:\Users\Stagiaire\Desktop\tp2 EF\tp2 EF\obj\Debug\tp2 EF.csprojResolveAssemblyReference.cache
