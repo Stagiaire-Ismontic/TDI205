@@ -1,0 +1,9 @@
+C:\Users\TP\source\repos\TP1\obj\Debug\TP1.csprojAssemblyReference.cache
+C:\Users\TP\source\repos\TP1\obj\Debug\TP1.Form1.resources
+C:\Users\TP\source\repos\TP1\obj\Debug\TP1.Properties.Resources.resources
+C:\Users\TP\source\repos\TP1\obj\Debug\TP1.csproj.GenerateResource.cache
+C:\Users\TP\source\repos\TP1\bin\Debug\TP1.exe.config
+C:\Users\TP\source\repos\TP1\bin\Debug\TP1.exe
+C:\Users\TP\source\repos\TP1\bin\Debug\TP1.pdb
+C:\Users\TP\source\repos\TP1\obj\Debug\TP1.exe
+C:\Users\TP\source\repos\TP1\obj\Debug\TP1.pdb
