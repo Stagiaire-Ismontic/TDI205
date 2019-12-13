@@ -6,3 +6,5 @@ c:\users\j\documents\visual studio 2015\Projects\TP1_PCS\TP1_PCS\bin\Debug\TP1_P
 c:\users\j\documents\visual studio 2015\Projects\TP1_PCS\TP1_PCS\bin\Debug\TP1_PCS.pdb
 c:\users\j\documents\visual studio 2015\Projects\TP1_PCS\TP1_PCS\obj\Debug\TP1_PCS.exe
 c:\users\j\documents\visual studio 2015\Projects\TP1_PCS\TP1_PCS\obj\Debug\TP1_PCS.pdb
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\Nabil chaouki\TP1_PCS\TP1_PCS\obj\Debug\TP1_PCS.exe
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\Nabil chaouki\TP1_PCS\TP1_PCS\obj\Debug\TP1_PCS.pdb

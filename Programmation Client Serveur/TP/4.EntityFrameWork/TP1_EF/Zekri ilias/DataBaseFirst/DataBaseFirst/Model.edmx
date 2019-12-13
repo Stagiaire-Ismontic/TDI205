@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="GestionComModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Commande">
+          <Key>
+            <PropertyRef Name="IdCommande" />
+          </Key>
+          <Property Name="IdCommande" Type="int" Nullable="false" />
+          <Property Name="Descriptions" Type="varchar" MaxLength="50" />
+          <Property Name="Prix" Type="money" />
+          <Property Name="ProduitId" Type="int" />
+        </EntityType>
+        <EntityType Name="Produit">
+          <Key>
+            <PropertyRef Name="IdProduit" />
+          </Key>
+          <Property Name="IdProduit" Type="int" Nullable="false" />
+          <Property Name="Nom" Type="varchar" MaxLength="50" />
+          <Property Name="Prix" Type="money" />
+        </EntityType>
+        <Association Name="fk">
+          <End Role="Produit" Type="Self.Produit" Multiplicity="0..1" />
+          <End Role="Commande" Type="Self.Commande" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Produit">
+              <PropertyRef Name="IdProduit" />
+            </Principal>
+            <Dependent Role="Commande">
+              <PropertyRef Name="ProduitId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="GestionComModelStoreContainer">
+          <EntitySet Name="Commande" EntityType="Self.Commande" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Produit" EntityType="Self.Produit" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="fk" Association="Self.fk">
+            <End Role="Produit" EntitySet="Produit" />
+            <End Role="Commande" EntitySet="Commande" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="GestionComModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Commande">
+          <Key>
+            <PropertyRef Name="IdCommande" />
+          </Key>
+          <Property Name="IdCommande" Type="Int32" Nullable="false" />
+          <Property Name="Descriptions" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Prix" Type="Decimal" Precision="19" Scale="4" />
+          <Property Name="ProduitId" Type="Int32" />
+          <NavigationProperty Name="Produit" Relationship="Self.fk" FromRole="Commande" ToRole="Produit" />
+        </EntityType>
+        <EntityType Name="Produit">
+          <Key>
+            <PropertyRef Name="IdProduit" />
+          </Key>
+          <Property Name="IdProduit" Type="Int32" Nullable="false" />
+          <Property Name="Nom" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Prix" Type="Decimal" Precision="19" Scale="4" />
+          <NavigationProperty Name="Commandes" Relationship="Self.fk" FromRole="Produit" ToRole="Commande" />
+        </EntityType>
+        <Association Name="fk">
+          <End Role="Produit" Type="Self.Produit" Multiplicity="0..1" />
+          <End Role="Commande" Type="Self.Commande" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Produit">
+              <PropertyRef Name="IdProduit" />
+            </Principal>
+            <Dependent Role="Commande">
+              <PropertyRef Name="ProduitId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="GestionComEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Commandes" EntityType="Self.Commande" />
+          <EntitySet Name="Produits" EntityType="Self.Produit" />
+          <AssociationSet Name="fk" Association="Self.fk">
+            <End Role="Produit" EntitySet="Produits" />
+            <End Role="Commande" EntitySet="Commandes" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="GestionComModelStoreContainer" CdmEntityContainer="GestionComEntities">
+          <EntitySetMapping Name="Commandes">
+            <EntityTypeMapping TypeName="GestionComModel.Commande">
+              <MappingFragment StoreEntitySet="Commande">
+                <ScalarProperty Name="IdCommande" ColumnName="IdCommande" />
+                <ScalarProperty Name="Descriptions" ColumnName="Descriptions" />
+                <ScalarProperty Name="Prix" ColumnName="Prix" />
+                <ScalarProperty Name="ProduitId" ColumnName="ProduitId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Produits">
+            <EntityTypeMapping TypeName="GestionComModel.Produit">
+              <MappingFragment StoreEntitySet="Produit">
+                <ScalarProperty Name="IdProduit" ColumnName="IdProduit" />
+                <ScalarProperty Name="Nom" ColumnName="Nom" />
+                <ScalarProperty Name="Prix" ColumnName="Prix" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Aucun" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

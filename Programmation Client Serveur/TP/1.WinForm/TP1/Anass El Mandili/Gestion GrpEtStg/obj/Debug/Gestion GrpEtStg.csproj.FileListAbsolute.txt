@@ -20,3 +20,6 @@ E:\MOI\Gestion GrpEtStg\Gestion GrpEtStg\obj\Debug\Gestion GrpEtStg.exe
 E:\MOI\Gestion GrpEtStg\Gestion GrpEtStg\obj\Debug\Gestion GrpEtStg.pdb
 E:\MOI\Gestion GrpEtStg\Gestion GrpEtStg\obj\Debug\Gestion_GrpEtStg.Form2.resources
 E:\MOI\Gestion GrpEtStg\Gestion GrpEtStg\obj\Debug\Gestion_GrpEtStg.Form3.resources
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\Anass El Mandili\Gestion GrpEtStg\bin\Debug\Gestion GrpEtStg.exe.config
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\Anass El Mandili\Gestion GrpEtStg\obj\Debug\Gestion GrpEtStg.exe
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\Anass El Mandili\Gestion GrpEtStg\obj\Debug\Gestion GrpEtStg.pdb

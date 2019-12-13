@@ -8,3 +8,12 @@ C:\Users\Omar\Desktop\2eme.exe\Base des donnees\Prog\TP\GestionGroupe (projet fi
 C:\Users\Omar\Desktop\2eme.exe\Base des donnees\Prog\TP\GestionGroupe (projet fin etude)\GestionGroupe\bin\Debug\GestionGroupe.pdb
 C:\Users\Omar\Desktop\2eme.exe\Base des donnees\Prog\TP\GestionGroupe (projet fin etude)\GestionGroupe\obj\Debug\GestionGroupe.exe
 C:\Users\Omar\Desktop\2eme.exe\Base des donnees\Prog\TP\GestionGroupe (projet fin etude)\GestionGroupe\obj\Debug\GestionGroupe.pdb
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\omar ben sabih el imrany\GestionGroupe\bin\Debug\GestionGroupe.exe.config
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\omar ben sabih el imrany\GestionGroupe\obj\Debug\GestionGroupe.exe
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\omar ben sabih el imrany\GestionGroupe\obj\Debug\GestionGroupe.pdb
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\omar ben sabih el imrany\GestionGroupe\bin\Debug\GestionGroupe.exe
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\omar ben sabih el imrany\GestionGroupe\bin\Debug\GestionGroupe.pdb
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\omar ben sabih el imrany\GestionGroupe\obj\Debug\GestionGroupe.csprojResolveAssemblyReference.cache
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\omar ben sabih el imrany\GestionGroupe\obj\Debug\GestionGroupe.Form1.resources
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\omar ben sabih el imrany\GestionGroupe\obj\Debug\GestionGroupe.Properties.Resources.resources
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\omar ben sabih el imrany\GestionGroupe\obj\Debug\GestionGroupe.csproj.GenerateResource.Cache

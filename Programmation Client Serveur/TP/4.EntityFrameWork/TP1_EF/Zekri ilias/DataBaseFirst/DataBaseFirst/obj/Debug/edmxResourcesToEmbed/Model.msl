@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="GestionComModelStoreContainer" CdmEntityContainer="GestionComEntities">
+    <EntitySetMapping Name="Commandes">
+      <EntityTypeMapping TypeName="GestionComModel.Commande">
+        <MappingFragment StoreEntitySet="Commande">
+          <ScalarProperty Name="IdCommande" ColumnName="IdCommande" />
+          <ScalarProperty Name="Descriptions" ColumnName="Descriptions" />
+          <ScalarProperty Name="Prix" ColumnName="Prix" />
+          <ScalarProperty Name="ProduitId" ColumnName="ProduitId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Produits">
+      <EntityTypeMapping TypeName="GestionComModel.Produit">
+        <MappingFragment StoreEntitySet="Produit">
+          <ScalarProperty Name="IdProduit" ColumnName="IdProduit" />
+          <ScalarProperty Name="Nom" ColumnName="Nom" />
+          <ScalarProperty Name="Prix" ColumnName="Prix" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
