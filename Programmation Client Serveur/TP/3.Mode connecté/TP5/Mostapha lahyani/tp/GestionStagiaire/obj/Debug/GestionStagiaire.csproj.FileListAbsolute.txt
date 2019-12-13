@@ -1,0 +1,14 @@
+C:\Users\Mustapha\Desktop\Dev 2eme anne\Fouad\c#\GStagiaire\GestionStagiaire\bin\Debug\GestionStagiaire.exe.config
+C:\Users\Mustapha\Desktop\Dev 2eme anne\Fouad\c#\GStagiaire\GestionStagiaire\bin\Debug\GestionStagiaire.exe
+C:\Users\Mustapha\Desktop\Dev 2eme anne\Fouad\c#\GStagiaire\GestionStagiaire\bin\Debug\GestionStagiaire.pdb
+C:\Users\Mustapha\Desktop\Dev 2eme anne\Fouad\c#\GStagiaire\GestionStagiaire\obj\Debug\GestionStagiaire.csprojAssemblyReference.cache
+C:\Users\Mustapha\Desktop\Dev 2eme anne\Fouad\c#\GStagiaire\GestionStagiaire\obj\Debug\GestionStagiaire.csproj.CoreCompileInputs.cache
+C:\Users\Mustapha\Desktop\Dev 2eme anne\Fouad\c#\GStagiaire\GestionStagiaire\obj\Debug\GestionStagiaire.exe
+C:\Users\Mustapha\Desktop\Dev 2eme anne\Fouad\c#\GStagiaire\GestionStagiaire\obj\Debug\GestionStagiaire.pdb
+G:\tp5\GStagiaire\GestionStagiaire\bin\Debug\GestionStagiaire.exe.config
+G:\tp5\GStagiaire\GestionStagiaire\bin\Debug\GestionStagiaire.exe
+G:\tp5\GStagiaire\GestionStagiaire\bin\Debug\GestionStagiaire.pdb
+G:\tp5\GStagiaire\GestionStagiaire\obj\Debug\GestionStagiaire.csprojAssemblyReference.cache
+G:\tp5\GStagiaire\GestionStagiaire\obj\Debug\GestionStagiaire.csproj.CoreCompileInputs.cache
+G:\tp5\GStagiaire\GestionStagiaire\obj\Debug\GestionStagiaire.exe
+G:\tp5\GStagiaire\GestionStagiaire\obj\Debug\GestionStagiaire.pdb
