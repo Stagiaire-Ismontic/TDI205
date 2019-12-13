@@ -31,11 +31,9 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
             this.txt_id = new System.Windows.Forms.TextBox();
             this.txt_nom = new System.Windows.Forms.TextBox();
             this.txt_categorie = new System.Windows.Forms.TextBox();
-            this.txt_idLivre = new System.Windows.Forms.TextBox();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.btn_Ajouter = new System.Windows.Forms.Button();
             this.btn_modifier = new System.Windows.Forms.Button();
@@ -60,9 +58,9 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(34, 58);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(29, 13);
+            this.label2.Size = new System.Drawing.Size(28, 13);
             this.label2.TabIndex = 1;
-            this.label2.Text = "Nom";
+            this.label2.Text = "Titre";
             // 
             // label3
             // 
@@ -73,15 +71,6 @@
             this.label3.TabIndex = 2;
             this.label3.Text = "Categorie";
             this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(34, 140);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(40, 13);
-            this.label4.TabIndex = 3;
-            this.label4.Text = "id_livre";
             // 
             // txt_id
             // 
@@ -104,13 +93,6 @@
             this.txt_categorie.Size = new System.Drawing.Size(100, 20);
             this.txt_categorie.TabIndex = 6;
             // 
-            // txt_idLivre
-            // 
-            this.txt_idLivre.Location = new System.Drawing.Point(99, 140);
-            this.txt_idLivre.Name = "txt_idLivre";
-            this.txt_idLivre.Size = new System.Drawing.Size(100, 20);
-            this.txt_idLivre.TabIndex = 7;
-            // 
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
@@ -122,9 +104,9 @@
             // 
             // btn_Ajouter
             // 
-            this.btn_Ajouter.Location = new System.Drawing.Point(13, 206);
+            this.btn_Ajouter.Location = new System.Drawing.Point(13, 164);
             this.btn_Ajouter.Name = "btn_Ajouter";
-            this.btn_Ajouter.Size = new System.Drawing.Size(75, 23);
+            this.btn_Ajouter.Size = new System.Drawing.Size(95, 38);
             this.btn_Ajouter.TabIndex = 9;
             this.btn_Ajouter.Text = "Ajouter";
             this.btn_Ajouter.UseVisualStyleBackColor = true;
@@ -132,9 +114,9 @@
             // 
             // btn_modifier
             // 
-            this.btn_modifier.Location = new System.Drawing.Point(114, 205);
+            this.btn_modifier.Location = new System.Drawing.Point(145, 164);
             this.btn_modifier.Name = "btn_modifier";
-            this.btn_modifier.Size = new System.Drawing.Size(75, 23);
+            this.btn_modifier.Size = new System.Drawing.Size(95, 38);
             this.btn_modifier.TabIndex = 10;
             this.btn_modifier.Text = "modifier";
             this.btn_modifier.UseVisualStyleBackColor = true;
@@ -142,9 +124,9 @@
             // 
             // btn_Rechercher
             // 
-            this.btn_Rechercher.Location = new System.Drawing.Point(13, 246);
+            this.btn_Rechercher.Location = new System.Drawing.Point(11, 208);
             this.btn_Rechercher.Name = "btn_Rechercher";
-            this.btn_Rechercher.Size = new System.Drawing.Size(75, 23);
+            this.btn_Rechercher.Size = new System.Drawing.Size(95, 38);
             this.btn_Rechercher.TabIndex = 11;
             this.btn_Rechercher.Text = "Rechercher";
             this.btn_Rechercher.UseVisualStyleBackColor = true;
@@ -152,9 +134,9 @@
             // 
             // btn_Supprimer
             // 
-            this.btn_Supprimer.Location = new System.Drawing.Point(114, 245);
+            this.btn_Supprimer.Location = new System.Drawing.Point(143, 208);
             this.btn_Supprimer.Name = "btn_Supprimer";
-            this.btn_Supprimer.Size = new System.Drawing.Size(75, 23);
+            this.btn_Supprimer.Size = new System.Drawing.Size(95, 38);
             this.btn_Supprimer.TabIndex = 12;
             this.btn_Supprimer.Text = "supprimer";
             this.btn_Supprimer.UseVisualStyleBackColor = true;
@@ -162,9 +144,9 @@
             // 
             // btn_vider
             // 
-            this.btn_vider.Location = new System.Drawing.Point(13, 293);
+            this.btn_vider.Location = new System.Drawing.Point(12, 261);
             this.btn_vider.Name = "btn_vider";
-            this.btn_vider.Size = new System.Drawing.Size(75, 23);
+            this.btn_vider.Size = new System.Drawing.Size(95, 38);
             this.btn_vider.TabIndex = 13;
             this.btn_vider.Text = "vider";
             this.btn_vider.UseVisualStyleBackColor = true;
@@ -172,9 +154,9 @@
             // 
             // btn_quitter
             // 
-            this.btn_quitter.Location = new System.Drawing.Point(114, 293);
+            this.btn_quitter.Location = new System.Drawing.Point(144, 262);
             this.btn_quitter.Name = "btn_quitter";
-            this.btn_quitter.Size = new System.Drawing.Size(75, 23);
+            this.btn_quitter.Size = new System.Drawing.Size(95, 38);
             this.btn_quitter.TabIndex = 14;
             this.btn_quitter.Text = "quitter";
             this.btn_quitter.UseVisualStyleBackColor = true;
@@ -184,7 +166,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(775, 372);
+            this.ClientSize = new System.Drawing.Size(765, 326);
             this.Controls.Add(this.btn_quitter);
             this.Controls.Add(this.btn_vider);
             this.Controls.Add(this.btn_Supprimer);
@@ -192,11 +174,9 @@
             this.Controls.Add(this.btn_modifier);
             this.Controls.Add(this.btn_Ajouter);
             this.Controls.Add(this.dataGridView1);
-            this.Controls.Add(this.txt_idLivre);
             this.Controls.Add(this.txt_categorie);
             this.Controls.Add(this.txt_nom);
             this.Controls.Add(this.txt_id);
-            this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
@@ -214,11 +194,9 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Label label4;
         private System.Windows.Forms.TextBox txt_id;
         private System.Windows.Forms.TextBox txt_nom;
         private System.Windows.Forms.TextBox txt_categorie;
-        private System.Windows.Forms.TextBox txt_idLivre;
         private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.Button btn_Ajouter;
         private System.Windows.Forms.Button btn_modifier;

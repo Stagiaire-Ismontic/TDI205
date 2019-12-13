@@ -8,3 +8,12 @@ c:\users\hp probook\documents\visual studio 2015\Projects\Tp6\Tp6\obj\Debug\Tp6.
 c:\users\hp probook\documents\visual studio 2015\Projects\Tp6\Tp6\obj\Debug\Tp6.pdb
 C:\Users\Hp ProBook\Documents\Visual Studio 2015\Projects\Tp6\Tp6\obj\Debug\Tp6.csprojAssemblyReference.cache
 C:\Users\Hp ProBook\Documents\Visual Studio 2015\Projects\Tp6\Tp6\obj\Debug\Tp6.csproj.CoreCompileInputs.cache
+G:\Tp6\Tp6\bin\Debug\Tp6.exe.config
+G:\Tp6\Tp6\obj\Debug\Tp6.exe
+G:\Tp6\Tp6\obj\Debug\Tp6.pdb
+G:\Tp6\Tp6\obj\Debug\Tp6.csprojResolveAssemblyReference.cache
+G:\Tp6\Tp6\obj\Debug\Tp6.Form1.resources
+G:\Tp6\Tp6\obj\Debug\Tp6.Properties.Resources.resources
+G:\Tp6\Tp6\obj\Debug\Tp6.csproj.GenerateResource.Cache
+G:\Tp6\Tp6\bin\Debug\Tp6.exe
+G:\Tp6\Tp6\bin\Debug\Tp6.pdb

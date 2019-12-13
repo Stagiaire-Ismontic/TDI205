@@ -53,13 +53,16 @@ namespace Tp6
                 categorie = value;
             }
         }
+
         public Livre() { }
+
         public Livre(int id,string titre,string categorie)
         {
             this.id = id;
             this.titre = titre;
             this.categorie = categorie;
         }
+
         public override string ToString()
         {
             return this.id + "  /  " + this.titre + "  /  " + this.categorie;
