@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\TP1_linq\TP1_linq\bin\Debug\TP1_linq.exe.config
+C:\Users\HP\source\repos\TP1_linq\TP1_linq\bin\Debug\TP1_linq.exe
+C:\Users\HP\source\repos\TP1_linq\TP1_linq\bin\Debug\TP1_linq.pdb
+C:\Users\HP\source\repos\TP1_linq\TP1_linq\obj\Debug\TP1_linq.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\TP1_linq\TP1_linq\obj\Debug\TP1_linq.Form1.resources
+C:\Users\HP\source\repos\TP1_linq\TP1_linq\obj\Debug\TP1_linq.Properties.Resources.resources
+C:\Users\HP\source\repos\TP1_linq\TP1_linq\obj\Debug\TP1_linq.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\TP1_linq\TP1_linq\obj\Debug\TP1_linq.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TP1_linq\TP1_linq\obj\Debug\TP1_linq.exe
+C:\Users\HP\source\repos\TP1_linq\TP1_linq\obj\Debug\TP1_linq.pdb
