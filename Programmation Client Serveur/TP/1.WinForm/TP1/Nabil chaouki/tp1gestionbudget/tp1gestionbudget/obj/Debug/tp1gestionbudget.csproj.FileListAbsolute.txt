@@ -1,0 +1,9 @@
+C:\Users\j\source\repos\tp1gestionbudget\tp1gestionbudget\bin\Debug\tp1gestionbudget.exe.config
+C:\Users\j\source\repos\tp1gestionbudget\tp1gestionbudget\bin\Debug\tp1gestionbudget.exe
+C:\Users\j\source\repos\tp1gestionbudget\tp1gestionbudget\bin\Debug\tp1gestionbudget.pdb
+C:\Users\j\source\repos\tp1gestionbudget\tp1gestionbudget\obj\Debug\tp1gestionbudget.csprojAssemblyReference.cache
+C:\Users\j\source\repos\tp1gestionbudget\tp1gestionbudget\obj\Debug\tp1gestionbudget.Form1.resources
+C:\Users\j\source\repos\tp1gestionbudget\tp1gestionbudget\obj\Debug\tp1gestionbudget.Properties.Resources.resources
+C:\Users\j\source\repos\tp1gestionbudget\tp1gestionbudget\obj\Debug\tp1gestionbudget.csproj.GenerateResource.cache
+C:\Users\j\source\repos\tp1gestionbudget\tp1gestionbudget\obj\Debug\tp1gestionbudget.exe
+C:\Users\j\source\repos\tp1gestionbudget\tp1gestionbudget\obj\Debug\tp1gestionbudget.pdb
