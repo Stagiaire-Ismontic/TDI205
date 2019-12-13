@@ -1,0 +1,19 @@
+E:\jjhtrrr\Gestion GrpEtStg\bin\Debug\Gestion GrpEtStg.exe.config
+E:\jjhtrrr\Gestion GrpEtStg\bin\Debug\Gestion GrpEtStg.exe
+E:\jjhtrrr\Gestion GrpEtStg\bin\Debug\Gestion GrpEtStg.pdb
+E:\jjhtrrr\Gestion GrpEtStg\obj\Debug\Gestion_Etudiant.csprojResolveAssemblyReference.cache
+E:\jjhtrrr\Gestion GrpEtStg\obj\Debug\Gestion_GrpEtStg.Form1.resources
+E:\jjhtrrr\Gestion GrpEtStg\obj\Debug\Gestion_GrpEtStg.Form2.resources
+E:\jjhtrrr\Gestion GrpEtStg\obj\Debug\Gestion_GrpEtStg.Properties.Resources.resources
+E:\jjhtrrr\Gestion GrpEtStg\obj\Debug\Gestion_Etudiant.csproj.GenerateResource.Cache
+E:\jjhtrrr\Gestion GrpEtStg\obj\Debug\Gestion GrpEtStg.exe
+E:\jjhtrrr\Gestion GrpEtStg\obj\Debug\Gestion GrpEtStg.pdb
+E:\GestionMany\Gestion GrpEtStg\bin\Debug\Gestion GrpEtStg.exe.config
+E:\GestionMany\Gestion GrpEtStg\obj\Debug\Gestion GrpEtStg.exe
+E:\GestionMany\Gestion GrpEtStg\obj\Debug\Gestion GrpEtStg.pdb
+E:\GestionMany\Gestion GrpEtStg\obj\Debug\Gestion_Etudiant.csprojResolveAssemblyReference.cache
+E:\GestionMany\Gestion GrpEtStg\obj\Debug\Gestion_Etudiant.Form1.resources
+E:\GestionMany\Gestion GrpEtStg\obj\Debug\Gestion_GrpEtStg.Properties.Resources.resources
+E:\GestionMany\Gestion GrpEtStg\obj\Debug\Gestion_Etudiant.csproj.GenerateResource.Cache
+E:\GestionMany\Gestion GrpEtStg\bin\Debug\Gestion GrpEtStg.exe
+E:\GestionMany\Gestion GrpEtStg\bin\Debug\Gestion GrpEtStg.pdb
