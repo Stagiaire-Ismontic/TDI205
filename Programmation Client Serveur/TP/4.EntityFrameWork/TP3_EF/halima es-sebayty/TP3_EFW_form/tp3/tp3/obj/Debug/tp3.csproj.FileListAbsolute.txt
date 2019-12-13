@@ -1,0 +1,28 @@
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\entity frameWork\TP3_EFW_form\tp3\tp3\bin\Debug\tp3.exe.config
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\entity frameWork\TP3_EFW_form\tp3\tp3\bin\Debug\tp3.exe
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\entity frameWork\TP3_EFW_form\tp3\tp3\bin\Debug\tp3.pdb
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\entity frameWork\TP3_EFW_form\tp3\tp3\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\entity frameWork\TP3_EFW_form\tp3\tp3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\entity frameWork\TP3_EFW_form\tp3\tp3\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\entity frameWork\TP3_EFW_form\tp3\tp3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\entity frameWork\TP3_EFW_form\tp3\tp3\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\entity frameWork\TP3_EFW_form\tp3\tp3\obj\Debug\tp3.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\entity frameWork\TP3_EFW_form\tp3\tp3\obj\Debug\tp3.Form1.resources
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\entity frameWork\TP3_EFW_form\tp3\tp3\obj\Debug\tp3.Properties.Resources.resources
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\entity frameWork\TP3_EFW_form\tp3\tp3\obj\Debug\tp3.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\entity frameWork\TP3_EFW_form\tp3\tp3\obj\Debug\tp3.exe
+C:\Users\lenovo\Desktop\language C#\Halima ES_Sebyty\entity frameWork\TP3_EFW_form\tp3\tp3\obj\Debug\tp3.pdb
+G:\TP3_EFW_form\tp3\tp3\bin\Debug\tp3.exe.config
+G:\TP3_EFW_form\tp3\tp3\obj\Debug\tp3.exe
+G:\TP3_EFW_form\tp3\tp3\obj\Debug\tp3.pdb
+G:\TP3_EFW_form\tp3\tp3\bin\Debug\tp3.exe
+G:\TP3_EFW_form\tp3\tp3\bin\Debug\tp3.pdb
+G:\TP3_EFW_form\tp3\tp3\bin\Debug\EntityFramework.dll
+G:\TP3_EFW_form\tp3\tp3\bin\Debug\EntityFramework.SqlServer.dll
+G:\TP3_EFW_form\tp3\tp3\bin\Debug\EntityFramework.xml
+G:\TP3_EFW_form\tp3\tp3\bin\Debug\EntityFramework.SqlServer.xml
+G:\TP3_EFW_form\tp3\tp3\bin\Debug\fr\EntityFramework.resources.dll
+G:\TP3_EFW_form\tp3\tp3\obj\Debug\tp3.csprojResolveAssemblyReference.cache
+G:\TP3_EFW_form\tp3\tp3\obj\Debug\tp3.Form1.resources
+G:\TP3_EFW_form\tp3\tp3\obj\Debug\tp3.Properties.Resources.resources
+G:\TP3_EFW_form\tp3\tp3\obj\Debug\tp3.csproj.GenerateResource.Cache

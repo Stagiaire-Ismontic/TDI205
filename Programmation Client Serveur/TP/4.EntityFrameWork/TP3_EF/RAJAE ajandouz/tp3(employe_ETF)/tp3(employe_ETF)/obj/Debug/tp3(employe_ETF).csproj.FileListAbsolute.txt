@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\tp3(employe_ETF)\tp3(employe_ETF)\bin\Debug\tp3(employe_ETF).exe.config
+C:\Users\HP\source\repos\tp3(employe_ETF)\tp3(employe_ETF)\bin\Debug\tp3(employe_ETF).exe
+C:\Users\HP\source\repos\tp3(employe_ETF)\tp3(employe_ETF)\bin\Debug\tp3(employe_ETF).pdb
+C:\Users\HP\source\repos\tp3(employe_ETF)\tp3(employe_ETF)\bin\Debug\EntityFramework.dll
+C:\Users\HP\source\repos\tp3(employe_ETF)\tp3(employe_ETF)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\source\repos\tp3(employe_ETF)\tp3(employe_ETF)\bin\Debug\EntityFramework.xml
+C:\Users\HP\source\repos\tp3(employe_ETF)\tp3(employe_ETF)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\source\repos\tp3(employe_ETF)\tp3(employe_ETF)\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\HP\source\repos\tp3(employe_ETF)\tp3(employe_ETF)\obj\Debug\tp3(employe_ETF).csprojAssemblyReference.cache
+C:\Users\HP\source\repos\tp3(employe_ETF)\tp3(employe_ETF)\obj\Debug\tp3_employe_ETF_.Form1.resources
+C:\Users\HP\source\repos\tp3(employe_ETF)\tp3(employe_ETF)\obj\Debug\tp3_employe_ETF_.Properties.Resources.resources
+C:\Users\HP\source\repos\tp3(employe_ETF)\tp3(employe_ETF)\obj\Debug\tp3(employe_ETF).csproj.GenerateResource.cache
+C:\Users\HP\source\repos\tp3(employe_ETF)\tp3(employe_ETF)\obj\Debug\tp3(employe_ETF).csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\tp3(employe_ETF)\tp3(employe_ETF)\obj\Debug\tp3(employe_ETF).csproj.CopyComplete
+C:\Users\HP\source\repos\tp3(employe_ETF)\tp3(employe_ETF)\obj\Debug\tp3(employe_ETF).exe
+C:\Users\HP\source\repos\tp3(employe_ETF)\tp3(employe_ETF)\obj\Debug\tp3(employe_ETF).pdb

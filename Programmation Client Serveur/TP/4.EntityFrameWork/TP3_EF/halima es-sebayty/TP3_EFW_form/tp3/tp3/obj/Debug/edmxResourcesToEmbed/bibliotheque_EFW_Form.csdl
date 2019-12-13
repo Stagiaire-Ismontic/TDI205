@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="biblio_Entity_frameWorkModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="editeur">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="nom" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="prenom" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="numero_inscription" Type="Int32" />
+    <Property Name="id_livre" Type="Int32" />
+    <NavigationProperty Name="Livre" Relationship="Self.FK__editeur__id_livr__1273C1CD" FromRole="editeur" ToRole="Livre" />
+  </EntityType>
+  <EntityType Name="Livre">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="titre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="categorie" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="editeurs" Relationship="Self.FK__editeur__id_livr__1273C1CD" FromRole="Livre" ToRole="editeur" />
+  </EntityType>
+  <Association Name="FK__editeur__id_livr__1273C1CD">
+    <End Role="Livre" Type="Self.Livre" Multiplicity="0..1" />
+    <End Role="editeur" Type="Self.editeur" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Livre">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="editeur">
+        <PropertyRef Name="id_livre" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="biblio_Entity_frameWorkEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="editeurs" EntityType="Self.editeur" />
+    <EntitySet Name="Livres" EntityType="Self.Livre" />
+    <AssociationSet Name="FK__editeur__id_livr__1273C1CD" Association="Self.FK__editeur__id_livr__1273C1CD">
+      <End Role="Livre" EntitySet="Livres" />
+      <End Role="editeur" EntitySet="editeurs" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

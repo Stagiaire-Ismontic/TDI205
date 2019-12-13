@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="loubnaModelStoreContainer" CdmEntityContainer="loubnaEntities">
+    <EntitySetMapping Name="commandes">
+      <EntityTypeMapping TypeName="loubnaModel.commande">
+        <MappingFragment StoreEntitySet="commande">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Code" ColumnName="Code" />
+          <ScalarProperty Name="Nom" ColumnName="Nom" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="livraisons">
+      <EntityTypeMapping TypeName="loubnaModel.livraison">
+        <MappingFragment StoreEntitySet="livraison">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Datelivraison" ColumnName="Datelivraison" />
+          <ScalarProperty Name="IdCommande" ColumnName="IdCommande" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

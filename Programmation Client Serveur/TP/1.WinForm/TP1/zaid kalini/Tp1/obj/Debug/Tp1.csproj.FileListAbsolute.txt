@@ -48,3 +48,6 @@ D:\ofppt\tp1\Tp1\obj\Debug\Tp1.csproj.GenerateResource.Cache
 C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\S1.Tp\TP1\zaid kalini\Tp1\bin\Debug\Tp1.exe.config
 C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\S1.Tp\TP1\zaid kalini\Tp1\obj\Debug\Tp1.exe
 C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\S1.Tp\TP1\zaid kalini\Tp1\obj\Debug\Tp1.pdb
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\zaid kalini\Tp1\bin\Debug\Tp1.exe.config
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\zaid kalini\Tp1\obj\Debug\Tp1.exe
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\zaid kalini\Tp1\obj\Debug\Tp1.pdb

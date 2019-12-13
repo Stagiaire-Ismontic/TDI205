@@ -1,0 +1,14 @@
+C:\Users\TP\Desktop\Tp1Ef1\Tp1Ef1\bin\Debug\Tp1Ef1.exe.config
+C:\Users\TP\Desktop\Tp1Ef1\Tp1Ef1\bin\Debug\Tp1Ef1.exe
+C:\Users\TP\Desktop\Tp1Ef1\Tp1Ef1\bin\Debug\Tp1Ef1.pdb
+C:\Users\TP\Desktop\Tp1Ef1\Tp1Ef1\bin\Debug\EntityFramework.dll
+C:\Users\TP\Desktop\Tp1Ef1\Tp1Ef1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TP\Desktop\Tp1Ef1\Tp1Ef1\bin\Debug\EntityFramework.xml
+C:\Users\TP\Desktop\Tp1Ef1\Tp1Ef1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TP\Desktop\Tp1Ef1\Tp1Ef1\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\TP\Desktop\Tp1Ef1\Tp1Ef1\obj\Debug\Tp1Ef1.csprojResolveAssemblyReference.cache
+C:\Users\TP\Desktop\Tp1Ef1\Tp1Ef1\obj\Debug\Tp1Ef1.exe
+C:\Users\TP\Desktop\Tp1Ef1\Tp1Ef1\obj\Debug\Tp1Ef1.pdb
+E:\Tp1Ef1\Tp1Ef1\bin\Debug\Tp1Ef1.exe.config
+E:\Tp1Ef1\Tp1Ef1\obj\Debug\Tp1Ef1.exe
+E:\Tp1Ef1\Tp1Ef1\obj\Debug\Tp1Ef1.pdb

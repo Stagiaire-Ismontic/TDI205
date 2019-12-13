@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="loubnaModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="commande">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Code" Type="varchar" MaxLength="50" />
+    <Property Name="Nom" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="livraison">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Datelivraison" Type="datetime" />
+    <Property Name="IdCommande" Type="int" />
+  </EntityType>
+  <Association Name="FK__livraison__IdCom__25869641">
+    <End Role="commande" Type="Self.commande" Multiplicity="0..1" />
+    <End Role="livraison" Type="Self.livraison" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="commande">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="livraison">
+        <PropertyRef Name="IdCommande" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="loubnaModelStoreContainer">
+    <EntitySet Name="commande" EntityType="Self.commande" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="livraison" EntityType="Self.livraison" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__livraison__IdCom__25869641" Association="Self.FK__livraison__IdCom__25869641">
+      <End Role="commande" EntitySet="commande" />
+      <End Role="livraison" EntitySet="livraison" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
