@@ -12,6 +12,7 @@ namespace AppFacture
         private string titre;
         private double somme;
         private DateTime date;
+        private Client client;
 
         public int Id
         {
@@ -61,7 +62,30 @@ namespace AppFacture
                 date = value;
             }
         }
+        public Client Client
+        {
+            get
+            {
+                return client;
+            }
 
-        
+            set
+            {
+                client = value;
+            }
+        }
+
+        public Facture()
+        {
+
+        }
+
+        public Facture(string titre,double somme,DateTime date,Client client)
+        {
+            this.titre = titre;
+            this.somme = somme;
+            this.date = date;
+            this.client = client;
+        }
     }
 }

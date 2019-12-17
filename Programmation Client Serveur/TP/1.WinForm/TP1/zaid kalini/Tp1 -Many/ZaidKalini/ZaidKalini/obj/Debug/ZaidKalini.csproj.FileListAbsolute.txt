@@ -1,0 +1,28 @@
+E:\C sharp\Tp1\ZaidKalini\ZaidKalini\bin\Debug\ZaidKalini.exe.config
+E:\C sharp\Tp1\ZaidKalini\ZaidKalini\bin\Debug\ZaidKalini.exe
+E:\C sharp\Tp1\ZaidKalini\ZaidKalini\bin\Debug\ZaidKalini.pdb
+E:\C sharp\Tp1\ZaidKalini\ZaidKalini\obj\Debug\ZaidKalini.csprojResolveAssemblyReference.cache
+E:\C sharp\Tp1\ZaidKalini\ZaidKalini\obj\Debug\ZaidKalini.Module.resources
+E:\C sharp\Tp1\ZaidKalini\ZaidKalini\obj\Debug\ZaidKalini.Properties.Resources.resources
+E:\C sharp\Tp1\ZaidKalini\ZaidKalini\obj\Debug\ZaidKalini.csproj.GenerateResource.Cache
+E:\C sharp\Tp1\ZaidKalini\ZaidKalini\obj\Debug\ZaidKalini.exe
+E:\C sharp\Tp1\ZaidKalini\ZaidKalini\obj\Debug\ZaidKalini.pdb
+G:\C sharp\Tp1\ZaidKalini\ZaidKalini\bin\Debug\ZaidKalini.exe.config
+G:\C sharp\Tp1\ZaidKalini\ZaidKalini\bin\Debug\ZaidKalini.exe
+G:\C sharp\Tp1\ZaidKalini\ZaidKalini\bin\Debug\ZaidKalini.pdb
+G:\C sharp\Tp1\ZaidKalini\ZaidKalini\obj\Debug\ZaidKalini.csprojAssemblyReference.cache
+G:\C sharp\Tp1\ZaidKalini\ZaidKalini\obj\Debug\ZaidKalini.Module.resources
+G:\C sharp\Tp1\ZaidKalini\ZaidKalini\obj\Debug\ZaidKalini.Properties.Resources.resources
+G:\C sharp\Tp1\ZaidKalini\ZaidKalini\obj\Debug\ZaidKalini.csproj.GenerateResource.cache
+G:\C sharp\Tp1\ZaidKalini\ZaidKalini\obj\Debug\ZaidKalini.csproj.CoreCompileInputs.cache
+G:\C sharp\Tp1\ZaidKalini\ZaidKalini\obj\Debug\ZaidKalini.exe
+G:\C sharp\Tp1\ZaidKalini\ZaidKalini\obj\Debug\ZaidKalini.pdb
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\zaid kalini\Tp1 -Many\ZaidKalini\ZaidKalini\bin\Debug\ZaidKalini.exe.config
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\zaid kalini\Tp1 -Many\ZaidKalini\ZaidKalini\obj\Debug\ZaidKalini.exe
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\zaid kalini\Tp1 -Many\ZaidKalini\ZaidKalini\obj\Debug\ZaidKalini.pdb
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\zaid kalini\Tp1 -Many\ZaidKalini\ZaidKalini\bin\Debug\ZaidKalini.exe
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\zaid kalini\Tp1 -Many\ZaidKalini\ZaidKalini\bin\Debug\ZaidKalini.pdb
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\zaid kalini\Tp1 -Many\ZaidKalini\ZaidKalini\obj\Debug\ZaidKalini.csprojResolveAssemblyReference.cache
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\zaid kalini\Tp1 -Many\ZaidKalini\ZaidKalini\obj\Debug\ZaidKalini.Module.resources
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\zaid kalini\Tp1 -Many\ZaidKalini\ZaidKalini\obj\Debug\ZaidKalini.Properties.Resources.resources
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\zaid kalini\Tp1 -Many\ZaidKalini\ZaidKalini\obj\Debug\ZaidKalini.csproj.GenerateResource.Cache

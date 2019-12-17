@@ -1,0 +1,10 @@
+C:\Users\ITM Professional\Desktop\TDI\2eme annee\M09 Développement d'application Client-Serveur\TP01\GestionStock\bin\Debug\GestionStock.exe.config
+C:\Users\ITM Professional\Desktop\TDI\2eme annee\M09 Développement d'application Client-Serveur\TP01\GestionStock\bin\Debug\GestionStock.exe
+C:\Users\ITM Professional\Desktop\TDI\2eme annee\M09 Développement d'application Client-Serveur\TP01\GestionStock\bin\Debug\GestionStock.pdb
+C:\Users\ITM Professional\Desktop\TDI\2eme annee\M09 Développement d'application Client-Serveur\TP01\GestionStock\obj\Debug\GestionStock.csprojAssemblyReference.cache
+C:\Users\ITM Professional\Desktop\TDI\2eme annee\M09 Développement d'application Client-Serveur\TP01\GestionStock\obj\Debug\GestionStock.Form1.resources
+C:\Users\ITM Professional\Desktop\TDI\2eme annee\M09 Développement d'application Client-Serveur\TP01\GestionStock\obj\Debug\GestionStock.Properties.Resources.resources
+C:\Users\ITM Professional\Desktop\TDI\2eme annee\M09 Développement d'application Client-Serveur\TP01\GestionStock\obj\Debug\GestionStock.csproj.GenerateResource.cache
+C:\Users\ITM Professional\Desktop\TDI\2eme annee\M09 Développement d'application Client-Serveur\TP01\GestionStock\obj\Debug\GestionStock.csproj.CoreCompileInputs.cache
+C:\Users\ITM Professional\Desktop\TDI\2eme annee\M09 Développement d'application Client-Serveur\TP01\GestionStock\obj\Debug\GestionStock.exe
+C:\Users\ITM Professional\Desktop\TDI\2eme annee\M09 Développement d'application Client-Serveur\TP01\GestionStock\obj\Debug\GestionStock.pdb

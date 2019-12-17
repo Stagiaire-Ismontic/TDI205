@@ -50,12 +50,16 @@ E:\Projet\AppFacture\AppFacture\obj\Debug\AppFacture.csprojResolveAssemblyRefere
 E:\Projet\AppFacture\AppFacture\obj\Debug\AppFacture.GestionnaireFactures.resources
 E:\Projet\AppFacture\AppFacture\obj\Debug\AppFacture.Properties.Resources.resources
 E:\Projet\AppFacture\AppFacture\obj\Debug\AppFacture.csproj.GenerateResource.Cache
+F:\Base des données\Programmation avec Sql\Trav Pratique\Tp1...Tp6\Tp1\AppFacture\AppFacture\bin\Debug\AppFacture.exe.config
+F:\Base des données\Programmation avec Sql\Trav Pratique\Tp1...Tp6\Tp1\AppFacture\AppFacture\obj\Debug\AppFacture.exe
+F:\Base des données\Programmation avec Sql\Trav Pratique\Tp1...Tp6\Tp1\AppFacture\AppFacture\obj\Debug\AppFacture.pdb
+F:\Base des données\Programmation avec Sql\Trav Pratique\Tp1...Tp6\Tp1\AppFacture\AppFacture\bin\Debug\AppFacture.exe
+F:\Base des données\Programmation avec Sql\Trav Pratique\Tp1...Tp6\Tp1\AppFacture\AppFacture\bin\Debug\AppFacture.pdb
+F:\Base des données\Programmation avec Sql\Trav Pratique\Tp1...Tp6\Tp1\AppFacture\AppFacture\obj\Debug\AppFacture.csprojResolveAssemblyReference.cache
+F:\Base des données\Programmation avec Sql\Trav Pratique\Tp1...Tp6\Tp1\AppFacture\AppFacture\obj\Debug\AppFacture.GestionnaireFactures.resources
+F:\Base des données\Programmation avec Sql\Trav Pratique\Tp1...Tp6\Tp1\AppFacture\AppFacture\obj\Debug\AppFacture.Properties.Resources.resources
+F:\Base des données\Programmation avec Sql\Trav Pratique\Tp1...Tp6\Tp1\AppFacture\AppFacture\obj\Debug\AppFacture.csproj.GenerateResource.Cache
+F:\Base des données\Programmation avec Sql\Trav Pratique\Tp1...Tp6\Tp1\AppFacture\AppFacture\obj\Debug\AppFacture.FormC.resources
 C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\ilias zekri\AppFacture\AppFacture\bin\Debug\AppFacture.exe.config
 C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\ilias zekri\AppFacture\AppFacture\obj\Debug\AppFacture.exe
 C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\ilias zekri\AppFacture\AppFacture\obj\Debug\AppFacture.pdb
-C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\ilias zekri\AppFacture\AppFacture\obj\Debug\AppFacture.csprojResolveAssemblyReference.cache
-C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\ilias zekri\AppFacture\AppFacture\obj\Debug\AppFacture.GestionnaireFactures.resources
-C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\ilias zekri\AppFacture\AppFacture\obj\Debug\AppFacture.Properties.Resources.resources
-C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\ilias zekri\AppFacture\AppFacture\obj\Debug\AppFacture.csproj.GenerateResource.Cache
-C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\ilias zekri\AppFacture\AppFacture\bin\Debug\AppFacture.exe
-C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\ilias zekri\AppFacture\AppFacture\bin\Debug\AppFacture.pdb

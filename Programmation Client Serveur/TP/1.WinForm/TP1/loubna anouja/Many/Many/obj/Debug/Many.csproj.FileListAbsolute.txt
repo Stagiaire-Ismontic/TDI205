@@ -1,0 +1,9 @@
+E:\Many\Many\bin\Debug\Many.exe.config
+E:\Many\Many\bin\Debug\Many.exe
+E:\Many\Many\bin\Debug\Many.pdb
+E:\Many\Many\obj\Debug\Many.csprojResolveAssemblyReference.cache
+E:\Many\Many\obj\Debug\Many.Form1.resources
+E:\Many\Many\obj\Debug\Many.Properties.Resources.resources
+E:\Many\Many\obj\Debug\Many.csproj.GenerateResource.Cache
+E:\Many\Many\obj\Debug\Many.exe
+E:\Many\Many\obj\Debug\Many.pdb

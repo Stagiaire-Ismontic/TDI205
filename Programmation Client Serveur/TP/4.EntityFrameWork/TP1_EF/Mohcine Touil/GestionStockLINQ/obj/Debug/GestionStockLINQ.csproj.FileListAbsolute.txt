@@ -1,0 +1,10 @@
+C:\Users\ITM Professional\Desktop\TDI\2eme annee\M09 Développement d'application Client-Serveur\TP01\GestionStockLINQ\bin\Debug\GestionStockLINQ.exe.config
+C:\Users\ITM Professional\Desktop\TDI\2eme annee\M09 Développement d'application Client-Serveur\TP01\GestionStockLINQ\bin\Debug\GestionStockLINQ.exe
+C:\Users\ITM Professional\Desktop\TDI\2eme annee\M09 Développement d'application Client-Serveur\TP01\GestionStockLINQ\bin\Debug\GestionStockLINQ.pdb
+C:\Users\ITM Professional\Desktop\TDI\2eme annee\M09 Développement d'application Client-Serveur\TP01\GestionStockLINQ\obj\Debug\GestionStockLINQ.csprojAssemblyReference.cache
+C:\Users\ITM Professional\Desktop\TDI\2eme annee\M09 Développement d'application Client-Serveur\TP01\GestionStockLINQ\obj\Debug\GestionStockLINQ.Form1.resources
+C:\Users\ITM Professional\Desktop\TDI\2eme annee\M09 Développement d'application Client-Serveur\TP01\GestionStockLINQ\obj\Debug\GestionStockLINQ.Properties.Resources.resources
+C:\Users\ITM Professional\Desktop\TDI\2eme annee\M09 Développement d'application Client-Serveur\TP01\GestionStockLINQ\obj\Debug\GestionStockLINQ.csproj.GenerateResource.cache
+C:\Users\ITM Professional\Desktop\TDI\2eme annee\M09 Développement d'application Client-Serveur\TP01\GestionStockLINQ\obj\Debug\GestionStockLINQ.csproj.CoreCompileInputs.cache
+C:\Users\ITM Professional\Desktop\TDI\2eme annee\M09 Développement d'application Client-Serveur\TP01\GestionStockLINQ\obj\Debug\GestionStockLINQ.exe
+C:\Users\ITM Professional\Desktop\TDI\2eme annee\M09 Développement d'application Client-Serveur\TP01\GestionStockLINQ\obj\Debug\GestionStockLINQ.pdb

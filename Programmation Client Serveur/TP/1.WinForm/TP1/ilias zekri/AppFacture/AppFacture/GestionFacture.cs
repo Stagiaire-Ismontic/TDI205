@@ -8,39 +8,27 @@ namespace AppFacture
 {
     public  class GestionFacture
     {
-        private static List<Facture> List_Facture = new List<Facture>();
+        public static List<Facture> List_Facture = new List<Facture>();
 
 
         public static int Indice;
 
-        public bool Ajouter(Facture f)
+        public void Ajouter(Facture f)
         {
-            Facture fc = this.Recherche(f.Id);
-            if (fc == null)
-            {
                 f.Id = ++Indice;
-                List_Facture.Add(f);
-                return true;
-            }
-            return false;      
+                List_Facture.Add(f);     
         }
 
         public Facture Recherche(int Id)
         {
-            foreach(var Fac in List_Facture)
-            {
-                if (Fac.Id == Id)
-                {
-                    return Fac;
-                }
-            }
-            return null;
+            Facture F=List_Facture.SingleOrDefault(s=>s.Id==Id);
+            return F;
         }
 
-        public bool Supprimer(Facture f)
+        public bool Supprimer(int Id)
         {
        
-            Facture fc = this.Recherche(f.Id);
+            Facture fc = Recherche(Id);
             if (fc != null)
             {
                 List_Facture.Remove(fc);
@@ -53,17 +41,16 @@ namespace AppFacture
         public bool Modifier(Facture f)
         {
 
-            Facture fc = this.Recherche(f.Id);
+            Facture fc = Recherche(f.Id);
             if (fc != null)
             {
                 fc.Titre = f.Titre;
                 fc.Somme = f.Somme;
                 fc.Date = f.Date;
+                fc.Client = f.Client;
                 return true;
             }
             return false;
-            
-
         }
 
         public List<Facture> Donne()

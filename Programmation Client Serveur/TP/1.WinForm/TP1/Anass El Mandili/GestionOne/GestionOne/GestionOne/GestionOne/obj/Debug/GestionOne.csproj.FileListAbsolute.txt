@@ -1,0 +1,9 @@
+C:\Users\TP\Desktop\GestionOne\GestionOne\GestionOne\bin\Debug\GestionOne.exe.config
+C:\Users\TP\Desktop\GestionOne\GestionOne\GestionOne\bin\Debug\GestionOne.exe
+C:\Users\TP\Desktop\GestionOne\GestionOne\GestionOne\bin\Debug\GestionOne.pdb
+C:\Users\TP\Desktop\GestionOne\GestionOne\GestionOne\obj\Debug\GestionOne.csprojResolveAssemblyReference.cache
+C:\Users\TP\Desktop\GestionOne\GestionOne\GestionOne\obj\Debug\GestionOne.Form1.resources
+C:\Users\TP\Desktop\GestionOne\GestionOne\GestionOne\obj\Debug\GestionOne.Properties.Resources.resources
+C:\Users\TP\Desktop\GestionOne\GestionOne\GestionOne\obj\Debug\GestionOne.csproj.GenerateResource.Cache
+C:\Users\TP\Desktop\GestionOne\GestionOne\GestionOne\obj\Debug\GestionOne.exe
+C:\Users\TP\Desktop\GestionOne\GestionOne\GestionOne\obj\Debug\GestionOne.pdb

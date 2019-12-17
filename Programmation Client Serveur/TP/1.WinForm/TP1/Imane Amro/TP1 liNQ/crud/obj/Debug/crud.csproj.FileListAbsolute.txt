@@ -16,3 +16,6 @@ F:\1er Annee\crud\crud\obj\Debug\crud.Properties.Resources.resources
 F:\1er Annee\crud\crud\obj\Debug\crud.csproj.GenerateResource.cache
 F:\1er Annee\crud\crud\obj\Debug\crud.exe
 F:\1er Annee\crud\crud\obj\Debug\crud.pdb
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\Imane Amro\TP1 liNQ\crud\bin\Debug\crud.exe.config
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\Imane Amro\TP1 liNQ\crud\obj\Debug\crud.exe
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\Imane Amro\TP1 liNQ\crud\obj\Debug\crud.pdb
