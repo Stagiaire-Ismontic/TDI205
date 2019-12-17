@@ -1,0 +1,20 @@
+C:\Users\Amine\Documents\Visual Studio 2017\Projects\Amine_El_Ghaoual\Amine_El_Ghaoual\bin\Debug\Amine_El_Ghaoual.exe.config
+C:\Users\Amine\Documents\Visual Studio 2017\Projects\Amine_El_Ghaoual\Amine_El_Ghaoual\bin\Debug\Amine_El_Ghaoual.exe
+C:\Users\Amine\Documents\Visual Studio 2017\Projects\Amine_El_Ghaoual\Amine_El_Ghaoual\bin\Debug\Amine_El_Ghaoual.pdb
+C:\Users\Amine\Documents\Visual Studio 2017\Projects\Amine_El_Ghaoual\Amine_El_Ghaoual\obj\Debug\Amine_El_Ghaoual.csprojAssemblyReference.cache
+C:\Users\Amine\Documents\Visual Studio 2017\Projects\Amine_El_Ghaoual\Amine_El_Ghaoual\obj\Debug\Amine_El_Ghaoual.Form1.resources
+C:\Users\Amine\Documents\Visual Studio 2017\Projects\Amine_El_Ghaoual\Amine_El_Ghaoual\obj\Debug\Amine_El_Ghaoual.Properties.Resources.resources
+C:\Users\Amine\Documents\Visual Studio 2017\Projects\Amine_El_Ghaoual\Amine_El_Ghaoual\obj\Debug\Amine_El_Ghaoual.csproj.GenerateResource.cache
+C:\Users\Amine\Documents\Visual Studio 2017\Projects\Amine_El_Ghaoual\Amine_El_Ghaoual\obj\Debug\Amine_El_Ghaoual.csproj.CoreCompileInputs.cache
+C:\Users\Amine\Documents\Visual Studio 2017\Projects\Amine_El_Ghaoual\Amine_El_Ghaoual\obj\Debug\Amine_El_Ghaoual.exe
+C:\Users\Amine\Documents\Visual Studio 2017\Projects\Amine_El_Ghaoual\Amine_El_Ghaoual\obj\Debug\Amine_El_Ghaoual.pdb
+G:\GestionMany\Amine_El_Ghaoual\Amine_El_Ghaoual\obj\Debug\Amine_El_Ghaoual.csprojAssemblyReference.cache
+G:\GestionMany\Amine_El_Ghaoual\Amine_El_Ghaoual\obj\Debug\Amine_El_Ghaoual.Form1.resources
+G:\GestionMany\Amine_El_Ghaoual\Amine_El_Ghaoual\obj\Debug\Amine_El_Ghaoual.Properties.Resources.resources
+G:\GestionMany\Amine_El_Ghaoual\Amine_El_Ghaoual\obj\Debug\Amine_El_Ghaoual.csproj.GenerateResource.cache
+G:\GestionMany\Amine_El_Ghaoual\Amine_El_Ghaoual\obj\Debug\Amine_El_Ghaoual.csproj.CoreCompileInputs.cache
+G:\GestionMany\Amine_El_Ghaoual\Amine_El_Ghaoual\obj\Debug\Amine_El_Ghaoual.exe
+G:\GestionMany\Amine_El_Ghaoual\Amine_El_Ghaoual\obj\Debug\Amine_El_Ghaoual.pdb
+G:\GestionMany\Amine_El_Ghaoual\Amine_El_Ghaoual\bin\Debug\Amine_El_Ghaoual.exe.config
+G:\GestionMany\Amine_El_Ghaoual\Amine_El_Ghaoual\bin\Debug\Amine_El_Ghaoual.exe
+G:\GestionMany\Amine_El_Ghaoual\Amine_El_Ghaoual\bin\Debug\Amine_El_Ghaoual.pdb

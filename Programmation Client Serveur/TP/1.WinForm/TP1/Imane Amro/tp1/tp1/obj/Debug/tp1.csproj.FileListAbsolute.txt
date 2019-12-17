@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\imane\tp1\tp1\bin\Debug\tp1.exe.config
+C:\Users\HP\Desktop\imane\tp1\tp1\bin\Debug\tp1.exe
+C:\Users\HP\Desktop\imane\tp1\tp1\bin\Debug\tp1.pdb
+C:\Users\HP\Desktop\imane\tp1\tp1\obj\Debug\tp1.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\imane\tp1\tp1\obj\Debug\tp1.Form1.resources
+C:\Users\HP\Desktop\imane\tp1\tp1\obj\Debug\tp1.Properties.Resources.resources
+C:\Users\HP\Desktop\imane\tp1\tp1\obj\Debug\tp1.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\imane\tp1\tp1\obj\Debug\tp1.exe
+C:\Users\HP\Desktop\imane\tp1\tp1\obj\Debug\tp1.pdb
