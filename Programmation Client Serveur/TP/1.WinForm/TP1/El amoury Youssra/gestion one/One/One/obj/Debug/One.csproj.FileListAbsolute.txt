@@ -1,0 +1,9 @@
+C:\Users\Stagiaire\Desktop\gestion one\One\One\bin\Debug\One.exe.config
+C:\Users\Stagiaire\Desktop\gestion one\One\One\bin\Debug\One.exe
+C:\Users\Stagiaire\Desktop\gestion one\One\One\bin\Debug\One.pdb
+C:\Users\Stagiaire\Desktop\gestion one\One\One\obj\Debug\One.csprojResolveAssemblyReference.cache
+C:\Users\Stagiaire\Desktop\gestion one\One\One\obj\Debug\One.Form1.resources
+C:\Users\Stagiaire\Desktop\gestion one\One\One\obj\Debug\One.Properties.Resources.resources
+C:\Users\Stagiaire\Desktop\gestion one\One\One\obj\Debug\One.csproj.GenerateResource.Cache
+C:\Users\Stagiaire\Desktop\gestion one\One\One\obj\Debug\One.exe
+C:\Users\Stagiaire\Desktop\gestion one\One\One\obj\Debug\One.pdb

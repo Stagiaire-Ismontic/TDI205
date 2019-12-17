@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="gestionCoursModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="elive">
+          <Key>
+            <PropertyRef Name="idelive" />
+          </Key>
+          <Property Name="idelive" Type="int" Nullable="false" />
+          <Property Name="nom" Type="varchar" MaxLength="30" />
+          <Property Name="prenom" Type="varchar" MaxLength="30" />
+          <Property Name="rue" Type="varchar" MaxLength="30" />
+          <Property Name="ville" Type="varchar" MaxLength="30" />
+          <Property Name="cp" Type="int" />
+          <Property Name="credithoraire" Type="money" />
+          <Property Name="dateinscription" Type="date" />
+        </EntityType>
+        <EntityType Name="lecon">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" Nullable="false" />
+          <Property Name="datelecon" Type="date" />
+          <Property Name="heur" Type="int" />
+          <Property Name="duree" Type="int" />
+          <Property Name="efectuee" Type="int" />
+          <Property Name="idelive" Type="int" />
+          <Property Name="idvehicule" Type="int" />
+        </EntityType>
+        <EntityType Name="vehicule">
+          <Key>
+            <PropertyRef Name="idvehicule" />
+          </Key>
+          <Property Name="idvehicule" Type="int" Nullable="false" />
+          <Property Name="modele" Type="varchar" MaxLength="30" />
+          <Property Name="cylindree" Type="varchar" MaxLength="30" />
+          <Property Name="voiture" Type="varchar" MaxLength="30" />
+        </EntityType>
+        <Association Name="FK__lecon__idelive__4D94879B">
+          <End Role="elive" Type="Self.elive" Multiplicity="0..1" />
+          <End Role="lecon" Type="Self.lecon" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="elive">
+              <PropertyRef Name="idelive" />
+            </Principal>
+            <Dependent Role="lecon">
+              <PropertyRef Name="idelive" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__lecon__idvehicul__4E88ABD4">
+          <End Role="vehicule" Type="Self.vehicule" Multiplicity="0..1" />
+          <End Role="lecon" Type="Self.lecon" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="vehicule">
+              <PropertyRef Name="idvehicule" />
+            </Principal>
+            <Dependent Role="lecon">
+              <PropertyRef Name="idvehicule" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="gestionCoursModelStoreContainer">
+          <EntitySet Name="elive" EntityType="Self.elive" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="lecon" EntityType="Self.lecon" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="vehicule" EntityType="Self.vehicule" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK__lecon__idelive__4D94879B" Association="Self.FK__lecon__idelive__4D94879B">
+            <End Role="elive" EntitySet="elive" />
+            <End Role="lecon" EntitySet="lecon" />
+          </AssociationSet>
+          <AssociationSet Name="FK__lecon__idvehicul__4E88ABD4" Association="Self.FK__lecon__idvehicul__4E88ABD4">
+            <End Role="vehicule" EntitySet="vehicule" />
+            <End Role="lecon" EntitySet="lecon" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="gestionCoursModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="elive">
+          <Key>
+            <PropertyRef Name="idelive" />
+          </Key>
+          <Property Name="idelive" Type="Int32" Nullable="false" />
+          <Property Name="nom" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="prenom" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="rue" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="ville" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="cp" Type="Int32" />
+          <Property Name="credithoraire" Type="Decimal" Precision="19" Scale="4" />
+          <Property Name="dateinscription" Type="DateTime" Precision="0" />
+          <NavigationProperty Name="lecon" Relationship="Self.FK__lecon__idelive__4D94879B" FromRole="elive" ToRole="lecon" />
+        </EntityType>
+        <EntityType Name="lecon">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" />
+          <Property Name="datelecon" Type="DateTime" Precision="0" />
+          <Property Name="heur" Type="Int32" />
+          <Property Name="duree" Type="Int32" />
+          <Property Name="efectuee" Type="Int32" />
+          <Property Name="idelive" Type="Int32" />
+          <Property Name="idvehicule" Type="Int32" />
+          <NavigationProperty Name="elive" Relationship="Self.FK__lecon__idelive__4D94879B" FromRole="lecon" ToRole="elive" />
+          <NavigationProperty Name="vehicule" Relationship="Self.FK__lecon__idvehicul__4E88ABD4" FromRole="lecon" ToRole="vehicule" />
+        </EntityType>
+        <EntityType Name="vehicule">
+          <Key>
+            <PropertyRef Name="idvehicule" />
+          </Key>
+          <Property Name="idvehicule" Type="Int32" Nullable="false" />
+          <Property Name="modele" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="cylindree" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="voiture" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="lecon" Relationship="Self.FK__lecon__idvehicul__4E88ABD4" FromRole="vehicule" ToRole="lecon" />
+        </EntityType>
+        <Association Name="FK__lecon__idelive__4D94879B">
+          <End Role="elive" Type="Self.elive" Multiplicity="0..1" />
+          <End Role="lecon" Type="Self.lecon" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="elive">
+              <PropertyRef Name="idelive" />
+            </Principal>
+            <Dependent Role="lecon">
+              <PropertyRef Name="idelive" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__lecon__idvehicul__4E88ABD4">
+          <End Role="vehicule" Type="Self.vehicule" Multiplicity="0..1" />
+          <End Role="lecon" Type="Self.lecon" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="vehicule">
+              <PropertyRef Name="idvehicule" />
+            </Principal>
+            <Dependent Role="lecon">
+              <PropertyRef Name="idvehicule" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="gestionCoursEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="elive" EntityType="Self.elive" />
+          <EntitySet Name="lecon" EntityType="Self.lecon" />
+          <EntitySet Name="vehicule" EntityType="Self.vehicule" />
+          <AssociationSet Name="FK__lecon__idelive__4D94879B" Association="Self.FK__lecon__idelive__4D94879B">
+            <End Role="elive" EntitySet="elive" />
+            <End Role="lecon" EntitySet="lecon" />
+          </AssociationSet>
+          <AssociationSet Name="FK__lecon__idvehicul__4E88ABD4" Association="Self.FK__lecon__idvehicul__4E88ABD4">
+            <End Role="vehicule" EntitySet="vehicule" />
+            <End Role="lecon" EntitySet="lecon" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="gestionCoursModelStoreContainer" CdmEntityContainer="gestionCoursEntities">
+          <EntitySetMapping Name="elive">
+            <EntityTypeMapping TypeName="gestionCoursModel.elive">
+              <MappingFragment StoreEntitySet="elive">
+                <ScalarProperty Name="idelive" ColumnName="idelive" />
+                <ScalarProperty Name="nom" ColumnName="nom" />
+                <ScalarProperty Name="prenom" ColumnName="prenom" />
+                <ScalarProperty Name="rue" ColumnName="rue" />
+                <ScalarProperty Name="ville" ColumnName="ville" />
+                <ScalarProperty Name="cp" ColumnName="cp" />
+                <ScalarProperty Name="credithoraire" ColumnName="credithoraire" />
+                <ScalarProperty Name="dateinscription" ColumnName="dateinscription" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="lecon">
+            <EntityTypeMapping TypeName="gestionCoursModel.lecon">
+              <MappingFragment StoreEntitySet="lecon">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="datelecon" ColumnName="datelecon" />
+                <ScalarProperty Name="heur" ColumnName="heur" />
+                <ScalarProperty Name="duree" ColumnName="duree" />
+                <ScalarProperty Name="efectuee" ColumnName="efectuee" />
+                <ScalarProperty Name="idelive" ColumnName="idelive" />
+                <ScalarProperty Name="idvehicule" ColumnName="idvehicule" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="vehicule">
+            <EntityTypeMapping TypeName="gestionCoursModel.vehicule">
+              <MappingFragment StoreEntitySet="vehicule">
+                <ScalarProperty Name="idvehicule" ColumnName="idvehicule" />
+                <ScalarProperty Name="modele" ColumnName="modele" />
+                <ScalarProperty Name="cylindree" ColumnName="cylindree" />
+                <ScalarProperty Name="voiture" ColumnName="voiture" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Aucun" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

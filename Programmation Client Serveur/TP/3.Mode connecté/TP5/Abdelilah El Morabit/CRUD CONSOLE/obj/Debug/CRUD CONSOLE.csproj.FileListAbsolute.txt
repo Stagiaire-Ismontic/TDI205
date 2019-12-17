@@ -4,3 +4,6 @@ C:\Users\TP\Desktop\abdelilah el morabit\CRUD CONSOLE\CRUD CONSOLE\bin\Debug\CRU
 C:\Users\TP\Desktop\abdelilah el morabit\CRUD CONSOLE\CRUD CONSOLE\bin\Debug\CRUD CONSOLE.pdb
 C:\Users\TP\Desktop\abdelilah el morabit\CRUD CONSOLE\CRUD CONSOLE\obj\Debug\CRUD CONSOLE.exe
 C:\Users\TP\Desktop\abdelilah el morabit\CRUD CONSOLE\CRUD CONSOLE\obj\Debug\CRUD CONSOLE.pdb
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\3.Mode connecté\TP5\Abdelilah El Morabit\CRUD CONSOLE\bin\Debug\CRUD CONSOLE.exe.config
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\3.Mode connecté\TP5\Abdelilah El Morabit\CRUD CONSOLE\obj\Debug\CRUD CONSOLE.exe
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\3.Mode connecté\TP5\Abdelilah El Morabit\CRUD CONSOLE\obj\Debug\CRUD CONSOLE.pdb
