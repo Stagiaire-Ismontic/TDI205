@@ -1,0 +1,42 @@
+C:\Users\TP\Desktop\Mouad\tp 1\tp 1\bin\Debug\tp 1.exe.config
+C:\Users\TP\Desktop\Mouad\tp 1\tp 1\obj\Debug\tp 1.csprojResolveAssemblyReference.cache
+C:\Users\TP\Desktop\Mouad\tp 1\tp 1\obj\Debug\tp_1.Form1.resources
+C:\Users\TP\Desktop\Mouad\tp 1\tp 1\obj\Debug\tp_1.Properties.Resources.resources
+C:\Users\TP\Desktop\Mouad\tp 1\tp 1\obj\Debug\tp 1.csproj.GenerateResource.Cache
+C:\Users\TP\Desktop\Mouad\tp 1\tp 1\bin\Debug\tp 1.exe
+C:\Users\TP\Desktop\Mouad\tp 1\tp 1\bin\Debug\tp 1.pdb
+C:\Users\TP\Desktop\Mouad\tp 1\tp 1\obj\Debug\tp 1.exe
+C:\Users\TP\Desktop\Mouad\tp 1\tp 1\obj\Debug\tp 1.pdb
+C:\Users\TP\Desktop\abdelilah el morabit\tp 1\tp 1\bin\Debug\tp 1.exe.config
+C:\Users\TP\Desktop\abdelilah el morabit\tp 1\tp 1\bin\Debug\tp 1.exe
+C:\Users\TP\Desktop\abdelilah el morabit\tp 1\tp 1\bin\Debug\tp 1.pdb
+C:\Users\TP\Desktop\abdelilah el morabit\tp 1\tp 1\obj\Debug\tp 1.csprojAssemblyReference.cache
+C:\Users\TP\Desktop\abdelilah el morabit\tp 1\tp 1\obj\Debug\tp_1.Properties.Resources.resources
+C:\Users\TP\Desktop\abdelilah el morabit\tp 1\tp 1\obj\Debug\tp 1.csproj.GenerateResource.cache
+C:\Users\TP\Desktop\abdelilah el morabit\tp 1\tp 1\obj\Debug\tp 1.exe
+C:\Users\TP\Desktop\abdelilah el morabit\tp 1\tp 1\obj\Debug\tp 1.pdb
+C:\Users\TP\Desktop\tp 1\tp 1\bin\Debug\tp 1.exe.config
+C:\Users\TP\Desktop\tp 1\tp 1\obj\Debug\tp 1.exe
+C:\Users\TP\Desktop\tp 1\tp 1\obj\Debug\tp 1.pdb
+F:\tp 1\tp 1\bin\Debug\tp 1.exe.config
+F:\tp 1\tp 1\obj\Debug\tp 1.exe
+F:\tp 1\tp 1\obj\Debug\tp 1.pdb
+F:\tp 1\tp 1\obj\Debug\tp 1.csprojResolveAssemblyReference.cache
+F:\tp 1\tp 1\obj\Debug\tp_1.Form1.resources
+F:\tp 1\tp 1\obj\Debug\tp_1.Properties.Resources.resources
+F:\tp 1\tp 1\obj\Debug\tp 1.csproj.GenerateResource.Cache
+F:\tp 1\tp 1\bin\Debug\tp 1.exe
+F:\tp 1\tp 1\bin\Debug\tp 1.pdb
+C:\Users\abdem\OneDrive\Desktop\tp 1\tp 1\bin\Debug\tp 1.exe.config
+C:\Users\abdem\OneDrive\Desktop\tp 1\tp 1\bin\Debug\tp 1.exe
+C:\Users\abdem\OneDrive\Desktop\tp 1\tp 1\bin\Debug\tp 1.pdb
+C:\Users\abdem\OneDrive\Desktop\tp 1\tp 1\obj\Debug\tp 1.csprojAssemblyReference.cache
+C:\Users\abdem\OneDrive\Desktop\tp 1\tp 1\obj\Debug\tp_1.Properties.Resources.resources
+C:\Users\abdem\OneDrive\Desktop\tp 1\tp 1\obj\Debug\tp 1.csproj.GenerateResource.cache
+C:\Users\abdem\OneDrive\Desktop\tp 1\tp 1\obj\Debug\tp 1.exe
+C:\Users\abdem\OneDrive\Desktop\tp 1\tp 1\obj\Debug\tp 1.pdb
+C:\Users\abdem\OneDrive\Desktop\tp 1\tp 1\obj\Debug\tp_1.Gestion_Players_Form.resources
+C:\Users\abdem\OneDrive\Desktop\tp 1\tp 1\obj\Debug\tp_1.Gestion_Teams_Form.resources
+C:\Users\TP\Desktop\abdelilah el morabit\tp 1\tp 1\obj\Debug\tp_1.Gestion_Players_Form.resources
+C:\Users\TP\Desktop\abdelilah el morabit\tp 1\tp 1\obj\Debug\tp_1.Gestion_Teams_Form.resources
+C:\Users\TP\Desktop\abdelilah el morabit\tp 1\tp 1\obj\Debug\tp_1.Gestion_Form.resources

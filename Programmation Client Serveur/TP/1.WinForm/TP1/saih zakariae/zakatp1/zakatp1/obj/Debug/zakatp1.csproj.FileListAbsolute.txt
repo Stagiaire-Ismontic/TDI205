@@ -1,0 +1,10 @@
+C:\Users\TP\Desktop\Oumaima El Musaui\zakatp1\zakatp1\bin\Debug\zakatp1.exe.config
+C:\Users\TP\Desktop\Oumaima El Musaui\zakatp1\zakatp1\bin\Debug\zakatp1.exe
+C:\Users\TP\Desktop\Oumaima El Musaui\zakatp1\zakatp1\bin\Debug\zakatp1.pdb
+C:\Users\TP\Desktop\Oumaima El Musaui\zakatp1\zakatp1\obj\Debug\zakatp1.csprojResolveAssemblyReference.cache
+C:\Users\TP\Desktop\Oumaima El Musaui\zakatp1\zakatp1\obj\Debug\zakatp1.Form1.resources
+C:\Users\TP\Desktop\Oumaima El Musaui\zakatp1\zakatp1\obj\Debug\zakatp1.Properties.Resources.resources
+C:\Users\TP\Desktop\Oumaima El Musaui\zakatp1\zakatp1\obj\Debug\zakatp1.csproj.GenerateResource.Cache
+C:\Users\TP\Desktop\Oumaima El Musaui\zakatp1\zakatp1\obj\Debug\zakatp1.exe
+C:\Users\TP\Desktop\Oumaima El Musaui\zakatp1\zakatp1\obj\Debug\zakatp1.pdb
+C:\Users\TP\Desktop\Oumaima El Musaui\zakatp1\zakatp1\obj\Debug\zakatp1.Form2.resources
