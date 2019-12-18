@@ -1,0 +1,6 @@
+C:\Users\Stagiaire\Desktop\Debogage\Debogage\bin\Debug\Debogage.exe.config
+C:\Users\Stagiaire\Desktop\Debogage\Debogage\bin\Debug\Debogage.exe
+C:\Users\Stagiaire\Desktop\Debogage\Debogage\bin\Debug\Debogage.pdb
+C:\Users\Stagiaire\Desktop\Debogage\Debogage\obj\Debug\Debogage.csprojResolveAssemblyReference.cache
+C:\Users\Stagiaire\Desktop\Debogage\Debogage\obj\Debug\Debogage.exe
+C:\Users\Stagiaire\Desktop\Debogage\Debogage\obj\Debug\Debogage.pdb
