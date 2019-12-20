@@ -10,27 +10,37 @@ namespace CodeFirst
     {
         static void Main(string[] args)
         {
-            using (var context = new Gestion())
+            using (var c=new ModelGestion())
             {
                 ////Ajouter
-                //context.lst.Add(new Controle(1,"ilias",15));
-                //context.SaveChanges();
+                //Produit P = new Produit(1, "Kawkw", 10);
+                //c.ListeProduit.Add(P);
+                //Commande Cm = new Commande(1, "Free", 20, P);
+                //c.ListeCommande.Add(Cm);
+                //c.SaveChanges();
 
                 ////Modifier
-                //Controle C=context.lst.SingleOrDefault(s => s.Id == 1);
-                //C.Nom = "Zekri";
-                //C.Note = 18;
-                //context.SaveChanges();
+                //Produit P= c.ListeProduit.SingleOrDefault(s=>s.ProduitId==1);
+                //P.Prix = 50;
+                //Commande Cm = c.ListeCommande.SingleOrDefault(s=>s.CommandeId==1);
+                //Cm.Prix = 100;
+                //c.SaveChanges();
 
-                //////Supprimer
-                //Controle C = context.lst.SingleOrDefault(s => s.Id == 1);
-                //context.lst.Remove(C);
-                //context.SaveChanges();
+                ////Supprimer
+                //Produit P = c.ListeProduit.SingleOrDefault(s => s.ProduitId == 1);
+                //c.ListeProduit.Remove(P);
+                //Commande Cm = c.ListeCommande.SingleOrDefault(s => s.CommandeId == 1);
+                //c.ListeCommande.Remove(Cm);
+                //c.SaveChanges();
 
                 ////Afficher
-                //foreach (var item in context.lst)
+                //foreach (var item in c.ListeProduit)
                 //{
-                //    Console.WriteLine(item.Id+"  "+item.Nom+"  "+item.Note);
+                //    Console.WriteLine(item.ProduitId+"  "+item.Nom+"  "+item.Prix);
+                //}
+                //foreach (var item in c.ListeCommande)
+                //{
+                //    Console.WriteLine(item.CommandeId + "  " + item.Descriptions + "  " + item.Prix+"  "+item.Produit);
                 //}
             }
             Console.ReadKey();

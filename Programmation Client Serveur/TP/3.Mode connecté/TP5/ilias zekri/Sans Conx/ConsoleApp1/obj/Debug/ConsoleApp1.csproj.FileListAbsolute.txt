@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\HP\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\HP\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\HP\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\HP\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\Base des données\Programmation avec Sql\Trav Pratique\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Base des données\Programmation avec Sql\Trav Pratique\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Base des données\Programmation avec Sql\Trav Pratique\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\Base des données\Programmation avec Sql\Trav Pratique\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Base des données\Programmation avec Sql\Trav Pratique\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Base des données\Programmation avec Sql\Trav Pratique\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache

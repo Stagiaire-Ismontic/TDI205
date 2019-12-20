@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{678DE389-DD82-4540-BE91-29AA5D01ADED}</ProjectGuid>
+    <ProjectGuid>{6A6D2B8F-EA32-4D40-A539-9F5B9941D404}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>CodeFirst</RootNamespace>
@@ -54,8 +54,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Controle.cs" />
-    <Compile Include="Gestion.cs" />
+    <Compile Include="Commande.cs" />
+    <Compile Include="ModelGestion.cs" />
+    <Compile Include="Produit.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

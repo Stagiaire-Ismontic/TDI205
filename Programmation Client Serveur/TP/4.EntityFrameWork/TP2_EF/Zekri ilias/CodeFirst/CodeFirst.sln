@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirst", "CodeFirst\CodeFirst.csproj", "{678DE389-DD82-4540-BE91-29AA5D01ADED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirst", "CodeFirst\CodeFirst.csproj", "{6A6D2B8F-EA32-4D40-A539-9F5B9941D404}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{678DE389-DD82-4540-BE91-29AA5D01ADED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{678DE389-DD82-4540-BE91-29AA5D01ADED}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{678DE389-DD82-4540-BE91-29AA5D01ADED}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{678DE389-DD82-4540-BE91-29AA5D01ADED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A6D2B8F-EA32-4D40-A539-9F5B9941D404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A6D2B8F-EA32-4D40-A539-9F5B9941D404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A6D2B8F-EA32-4D40-A539-9F5B9941D404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A6D2B8F-EA32-4D40-A539-9F5B9941D404}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

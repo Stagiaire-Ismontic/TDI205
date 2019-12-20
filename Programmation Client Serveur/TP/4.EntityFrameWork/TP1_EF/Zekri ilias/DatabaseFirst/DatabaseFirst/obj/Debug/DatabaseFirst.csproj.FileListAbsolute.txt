@@ -9,3 +9,6 @@ C:\Users\Stagiaire\Desktop\DataBaseFirst\DataBaseFirst\bin\Debug\fr\EntityFramew
 C:\Users\Stagiaire\Desktop\DataBaseFirst\DataBaseFirst\obj\Debug\DataBaseFirst.csprojResolveAssemblyReference.cache
 C:\Users\Stagiaire\Desktop\DataBaseFirst\DataBaseFirst\obj\Debug\DataBaseFirst.exe
 C:\Users\Stagiaire\Desktop\DataBaseFirst\DataBaseFirst\obj\Debug\DataBaseFirst.pdb
+E:\Base des données\Programmation avec Sql\Trav Pratique\Entity Framework\Tp\DataBaseFirst\DataBaseFirst\bin\Debug\DataBaseFirst.exe.config
+E:\Base des données\Programmation avec Sql\Trav Pratique\Entity Framework\Tp\DataBaseFirst\DataBaseFirst\obj\Debug\DataBaseFirst.exe
+E:\Base des données\Programmation avec Sql\Trav Pratique\Entity Framework\Tp\DataBaseFirst\DataBaseFirst\obj\Debug\DataBaseFirst.pdb
