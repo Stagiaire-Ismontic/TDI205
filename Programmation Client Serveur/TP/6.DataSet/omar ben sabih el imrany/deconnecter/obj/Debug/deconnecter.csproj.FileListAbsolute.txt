@@ -1,0 +1,6 @@
+C:\Users\Omar\Desktop\tp entite framework\tp 2 framework\deconnecter\deconnecter\bin\Debug\deconnecter.exe.config
+C:\Users\Omar\Desktop\tp entite framework\tp 2 framework\deconnecter\deconnecter\bin\Debug\deconnecter.exe
+C:\Users\Omar\Desktop\tp entite framework\tp 2 framework\deconnecter\deconnecter\bin\Debug\deconnecter.pdb
+C:\Users\Omar\Desktop\tp entite framework\tp 2 framework\deconnecter\deconnecter\obj\Debug\deconnecter.csprojResolveAssemblyReference.cache
+C:\Users\Omar\Desktop\tp entite framework\tp 2 framework\deconnecter\deconnecter\obj\Debug\deconnecter.exe
+C:\Users\Omar\Desktop\tp entite framework\tp 2 framework\deconnecter\deconnecter\obj\Debug\deconnecter.pdb
