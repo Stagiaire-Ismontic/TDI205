@@ -1,0 +1,6 @@
+C:\Users\lenovo\Desktop\Mode deconnecter\TP1_ConsoleApplication\TP1_ConsoleApplication\bin\Debug\TP1_ConsoleApplication.exe.config
+C:\Users\lenovo\Desktop\Mode deconnecter\TP1_ConsoleApplication\TP1_ConsoleApplication\bin\Debug\TP1_ConsoleApplication.exe
+C:\Users\lenovo\Desktop\Mode deconnecter\TP1_ConsoleApplication\TP1_ConsoleApplication\bin\Debug\TP1_ConsoleApplication.pdb
+C:\Users\lenovo\Desktop\Mode deconnecter\TP1_ConsoleApplication\TP1_ConsoleApplication\obj\Debug\TP1_ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\Mode deconnecter\TP1_ConsoleApplication\TP1_ConsoleApplication\obj\Debug\TP1_ConsoleApplication.exe
+C:\Users\lenovo\Desktop\Mode deconnecter\TP1_ConsoleApplication\TP1_ConsoleApplication\obj\Debug\TP1_ConsoleApplication.pdb

@@ -23,6 +23,14 @@ namespace Tp_deco
             DataSet Dat = new DataSet();
             dtap.Fill(Dat);
             SqlCommandBuilder cb = new SqlCommandBuilder(dtap);
+            //Ajouter un Persone
+            DataRow dr1 = Dat.Tables[0].NewRow();
+            dr1["ID"] = 4;
+            dr1["Name"] = "sara";
+            dr1["Passw"] = qqwerty;
+            Dat.Tables[0].Rows.Add(dr1);
+            Asdapt.Update(Dat);
+
             //Afficher Produit
             foreach (DataRow ligne in Dat.Tables[0].Rows)
             {
