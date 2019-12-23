@@ -1,0 +1,7 @@
+C:\Users\Amine\Documents\Visual Studio 2017\Projects\Tp_deco\Tp_deco\bin\Debug\Tp_deco.exe.config
+C:\Users\Amine\Documents\Visual Studio 2017\Projects\Tp_deco\Tp_deco\bin\Debug\Tp_deco.exe
+C:\Users\Amine\Documents\Visual Studio 2017\Projects\Tp_deco\Tp_deco\bin\Debug\Tp_deco.pdb
+C:\Users\Amine\Documents\Visual Studio 2017\Projects\Tp_deco\Tp_deco\obj\Debug\Tp_deco.csprojAssemblyReference.cache
+C:\Users\Amine\Documents\Visual Studio 2017\Projects\Tp_deco\Tp_deco\obj\Debug\Tp_deco.csproj.CoreCompileInputs.cache
+C:\Users\Amine\Documents\Visual Studio 2017\Projects\Tp_deco\Tp_deco\obj\Debug\Tp_deco.exe
+C:\Users\Amine\Documents\Visual Studio 2017\Projects\Tp_deco\Tp_deco\obj\Debug\Tp_deco.pdb
