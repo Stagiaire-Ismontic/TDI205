@@ -1,0 +1,12 @@
+C:\Users\Omar\Desktop\tp entite framework\tp 2 framework\ModeD\ModeD\bin\Debug\ModeD.exe.config
+C:\Users\Omar\Desktop\tp entite framework\tp 2 framework\ModeD\ModeD\bin\Debug\ModeD.exe
+C:\Users\Omar\Desktop\tp entite framework\tp 2 framework\ModeD\ModeD\bin\Debug\ModeD.pdb
+C:\Users\Omar\Desktop\tp entite framework\tp 2 framework\ModeD\ModeD\obj\Debug\ModeD.csprojResolveAssemblyReference.cache
+C:\Users\Omar\Desktop\tp entite framework\tp 2 framework\ModeD\ModeD\obj\Debug\ModeD.exe
+C:\Users\Omar\Desktop\tp entite framework\tp 2 framework\ModeD\ModeD\obj\Debug\ModeD.pdb
+C:\Users\Omar\Desktop\ModeD\ModeD\bin\Debug\ModeD.exe.config
+C:\Users\Omar\Desktop\ModeD\ModeD\obj\Debug\ModeD.exe
+C:\Users\Omar\Desktop\ModeD\ModeD\obj\Debug\ModeD.pdb
+C:\Users\Omar\Desktop\ModeD\ModeD\bin\Debug\ModeD.exe
+C:\Users\Omar\Desktop\ModeD\ModeD\bin\Debug\ModeD.pdb
+C:\Users\Omar\Desktop\ModeD\ModeD\obj\Debug\ModeD.csprojResolveAssemblyReference.cache
