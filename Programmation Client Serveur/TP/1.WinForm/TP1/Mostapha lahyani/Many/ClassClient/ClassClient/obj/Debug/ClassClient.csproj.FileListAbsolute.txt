@@ -1,0 +1,10 @@
+C:\Users\Mustapha\Desktop\ClassClient\ClassClient\bin\Debug\ClassClient.exe.config
+C:\Users\Mustapha\Desktop\ClassClient\ClassClient\bin\Debug\ClassClient.exe
+C:\Users\Mustapha\Desktop\ClassClient\ClassClient\bin\Debug\ClassClient.pdb
+C:\Users\Mustapha\Desktop\ClassClient\ClassClient\obj\Debug\ClassClient.csprojAssemblyReference.cache
+C:\Users\Mustapha\Desktop\ClassClient\ClassClient\obj\Debug\ClassClient.Form1.resources
+C:\Users\Mustapha\Desktop\ClassClient\ClassClient\obj\Debug\ClassClient.Properties.Resources.resources
+C:\Users\Mustapha\Desktop\ClassClient\ClassClient\obj\Debug\ClassClient.csproj.GenerateResource.cache
+C:\Users\Mustapha\Desktop\ClassClient\ClassClient\obj\Debug\ClassClient.csproj.CoreCompileInputs.cache
+C:\Users\Mustapha\Desktop\ClassClient\ClassClient\obj\Debug\ClassClient.exe
+C:\Users\Mustapha\Desktop\ClassClient\ClassClient\obj\Debug\ClassClient.pdb

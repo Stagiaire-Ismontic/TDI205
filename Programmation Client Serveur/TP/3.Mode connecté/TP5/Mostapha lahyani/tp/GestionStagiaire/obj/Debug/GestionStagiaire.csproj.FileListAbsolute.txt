@@ -12,3 +12,7 @@ G:\tp5\GStagiaire\GestionStagiaire\obj\Debug\GestionStagiaire.csprojAssemblyRefe
 G:\tp5\GStagiaire\GestionStagiaire\obj\Debug\GestionStagiaire.csproj.CoreCompileInputs.cache
 G:\tp5\GStagiaire\GestionStagiaire\obj\Debug\GestionStagiaire.exe
 G:\tp5\GStagiaire\GestionStagiaire\obj\Debug\GestionStagiaire.pdb
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\3.Mode connecté\TP5\Mostapha lahyani\tp\GestionStagiaire\bin\Debug\GestionStagiaire.exe.config
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\3.Mode connecté\TP5\Mostapha lahyani\tp\GestionStagiaire\obj\Debug\GestionStagiaire.exe
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\3.Mode connecté\TP5\Mostapha lahyani\tp\GestionStagiaire\obj\Debug\GestionStagiaire.pdb
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\3.Mode connecté\TP5\Mostapha lahyani\tp\GestionStagiaire\obj\Debug\GestionStagiaire.csprojResolveAssemblyReference.cache
