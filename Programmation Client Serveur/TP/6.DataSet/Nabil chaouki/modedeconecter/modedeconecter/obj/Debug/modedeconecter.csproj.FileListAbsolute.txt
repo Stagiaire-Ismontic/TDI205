@@ -1,0 +1,12 @@
+C:\Users\j\source\repos\modedeconecter\modedeconecter\obj\Debug\modedeconecter.csprojAssemblyReference.cache
+C:\Users\j\source\repos\modedeconecter\modedeconecter\bin\Debug\modedeconecter.exe.config
+C:\Users\j\source\repos\modedeconecter\modedeconecter\bin\Debug\modedeconecter.exe
+C:\Users\j\source\repos\modedeconecter\modedeconecter\bin\Debug\modedeconecter.pdb
+C:\Users\j\source\repos\modedeconecter\modedeconecter\obj\Debug\modedeconecter.exe
+C:\Users\j\source\repos\modedeconecter\modedeconecter\obj\Debug\modedeconecter.pdb
+D:\modedeconecter\modedeconecter\bin\Debug\modedeconecter.exe.config
+D:\modedeconecter\modedeconecter\bin\Debug\modedeconecter.exe
+D:\modedeconecter\modedeconecter\bin\Debug\modedeconecter.pdb
+D:\modedeconecter\modedeconecter\obj\Debug\modedeconecter.csprojAssemblyReference.cache
+D:\modedeconecter\modedeconecter\obj\Debug\modedeconecter.exe
+D:\modedeconecter\modedeconecter\obj\Debug\modedeconecter.pdb
