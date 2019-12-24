@@ -1,0 +1,9 @@
+C:\Users\Stagiaire\Desktop\DAtaset\InterfaceMisAjour\InterfaceMisAjour\bin\Debug\InterfaceMisAjour.exe.config
+C:\Users\Stagiaire\Desktop\DAtaset\InterfaceMisAjour\InterfaceMisAjour\bin\Debug\InterfaceMisAjour.exe
+C:\Users\Stagiaire\Desktop\DAtaset\InterfaceMisAjour\InterfaceMisAjour\bin\Debug\InterfaceMisAjour.pdb
+C:\Users\Stagiaire\Desktop\DAtaset\InterfaceMisAjour\InterfaceMisAjour\obj\Debug\InterfaceMisAjour.csprojResolveAssemblyReference.cache
+C:\Users\Stagiaire\Desktop\DAtaset\InterfaceMisAjour\InterfaceMisAjour\obj\Debug\InterfaceMisAjour.Form1.resources
+C:\Users\Stagiaire\Desktop\DAtaset\InterfaceMisAjour\InterfaceMisAjour\obj\Debug\InterfaceMisAjour.Properties.Resources.resources
+C:\Users\Stagiaire\Desktop\DAtaset\InterfaceMisAjour\InterfaceMisAjour\obj\Debug\InterfaceMisAjour.csproj.GenerateResource.Cache
+C:\Users\Stagiaire\Desktop\DAtaset\InterfaceMisAjour\InterfaceMisAjour\obj\Debug\InterfaceMisAjour.exe
+C:\Users\Stagiaire\Desktop\DAtaset\InterfaceMisAjour\InterfaceMisAjour\obj\Debug\InterfaceMisAjour.pdb
