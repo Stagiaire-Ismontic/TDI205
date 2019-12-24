@@ -1,0 +1,13 @@
+C:\Users\Omar\Desktop\2eme.exe\Base des donnees\Prog\TP\GestionGroupe\GestionGroupe\bin\Debug\GestionGroupe.exe.config
+C:\Users\Omar\Desktop\2eme.exe\Base des donnees\Prog\TP\GestionGroupe (projet fin etude)\GestionGroupe\bin\Debug\GestionGroupe.exe.config
+C:\Users\Omar\Desktop\2eme.exe\Base des donnees\Prog\TP\GestionGroupe (projet fin etude)\GestionGroupe\obj\Debug\GestionGroupe.csprojResolveAssemblyReference.cache
+C:\Users\Omar\Desktop\2eme.exe\Base des donnees\Prog\TP\GestionGroupe (projet fin etude)\GestionGroupe\obj\Debug\GestionGroupe.Form1.resources
+C:\Users\Omar\Desktop\2eme.exe\Base des donnees\Prog\TP\GestionGroupe (projet fin etude)\GestionGroupe\obj\Debug\GestionGroupe.Properties.Resources.resources
+C:\Users\Omar\Desktop\2eme.exe\Base des donnees\Prog\TP\GestionGroupe (projet fin etude)\GestionGroupe\obj\Debug\GestionGroupe.csproj.GenerateResource.Cache
+C:\Users\Omar\Desktop\2eme.exe\Base des donnees\Prog\TP\GestionGroupe (projet fin etude)\GestionGroupe\bin\Debug\GestionGroupe.exe
+C:\Users\Omar\Desktop\2eme.exe\Base des donnees\Prog\TP\GestionGroupe (projet fin etude)\GestionGroupe\bin\Debug\GestionGroupe.pdb
+C:\Users\Omar\Desktop\2eme.exe\Base des donnees\Prog\TP\GestionGroupe (projet fin etude)\GestionGroupe\obj\Debug\GestionGroupe.exe
+C:\Users\Omar\Desktop\2eme.exe\Base des donnees\Prog\TP\GestionGroupe (projet fin etude)\GestionGroupe\obj\Debug\GestionGroupe.pdb
+D:\GestionGroupe (projet fin etude)\GestionGroupe\bin\Debug\GestionGroupe.exe.config
+D:\GestionGroupe (projet fin etude)\GestionGroupe\obj\Debug\GestionGroupe.exe
+D:\GestionGroupe (projet fin etude)\GestionGroupe\obj\Debug\GestionGroupe.pdb
