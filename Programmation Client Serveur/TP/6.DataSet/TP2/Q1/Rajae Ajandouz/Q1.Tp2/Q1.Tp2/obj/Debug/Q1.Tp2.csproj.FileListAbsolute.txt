@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2012\Projects\Q1.Tp2\Q1.Tp2\bin\Debug\Q1.Tp2.exe.config
+c:\users\hp\documents\visual studio 2012\Projects\Q1.Tp2\Q1.Tp2\obj\Debug\Q1.Tp2.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2012\Projects\Q1.Tp2\Q1.Tp2\bin\Debug\Q1.Tp2.exe
+c:\users\hp\documents\visual studio 2012\Projects\Q1.Tp2\Q1.Tp2\bin\Debug\Q1.Tp2.pdb
+c:\users\hp\documents\visual studio 2012\Projects\Q1.Tp2\Q1.Tp2\obj\Debug\Q1.Tp2.exe
+c:\users\hp\documents\visual studio 2012\Projects\Q1.Tp2\Q1.Tp2\obj\Debug\Q1.Tp2.pdb
