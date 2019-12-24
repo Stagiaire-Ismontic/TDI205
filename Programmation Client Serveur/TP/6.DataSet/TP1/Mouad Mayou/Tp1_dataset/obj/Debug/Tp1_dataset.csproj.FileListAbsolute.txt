@@ -1,0 +1,6 @@
+C:\Users\TP\source\repos\Tp1_dataset\bin\Debug\Tp1_dataset.exe.config
+C:\Users\TP\source\repos\Tp1_dataset\bin\Debug\Tp1_dataset.exe
+C:\Users\TP\source\repos\Tp1_dataset\bin\Debug\Tp1_dataset.pdb
+C:\Users\TP\source\repos\Tp1_dataset\obj\Debug\Tp1_dataset.csprojAssemblyReference.cache
+C:\Users\TP\source\repos\Tp1_dataset\obj\Debug\Tp1_dataset.exe
+C:\Users\TP\source\repos\Tp1_dataset\obj\Debug\Tp1_dataset.pdb
