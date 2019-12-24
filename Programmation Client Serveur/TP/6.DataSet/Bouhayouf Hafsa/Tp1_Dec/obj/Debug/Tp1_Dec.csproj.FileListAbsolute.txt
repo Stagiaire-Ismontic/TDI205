@@ -1,0 +1,6 @@
+C:\Users\P6\Desktop\Tp1_Dec\Tp1_Dec\bin\Debug\Tp1_Dec.exe.config
+C:\Users\P6\Desktop\Tp1_Dec\Tp1_Dec\bin\Debug\Tp1_Dec.exe
+C:\Users\P6\Desktop\Tp1_Dec\Tp1_Dec\bin\Debug\Tp1_Dec.pdb
+C:\Users\P6\Desktop\Tp1_Dec\Tp1_Dec\obj\Debug\Tp1_Dec.csprojAssemblyReference.cache
+C:\Users\P6\Desktop\Tp1_Dec\Tp1_Dec\obj\Debug\Tp1_Dec.exe
+C:\Users\P6\Desktop\Tp1_Dec\Tp1_Dec\obj\Debug\Tp1_Dec.pdb
