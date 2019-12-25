@@ -1,0 +1,9 @@
+c:\users\hp\documents\visual studio 2012\Projects\Q2.TP2\Q2.TP2\bin\Debug\Q2.TP2.exe.config
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Q2.TP2\Q2.TP2\bin\Debug\Q2.TP2.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Q2.TP2\Q2.TP2\bin\Debug\Q2.TP2.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Q2.TP2\Q2.TP2\obj\Debug\Q2.TP2.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Q2.TP2\Q2.TP2\obj\Debug\Q2.TP2.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Q2.TP2\Q2.TP2\obj\Debug\Q2.TP2.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Q2.TP2\Q2.TP2\obj\Debug\Q2.TP2.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Q2.TP2\Q2.TP2\obj\Debug\Q2.TP2.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Q2.TP2\Q2.TP2\obj\Debug\Q2.TP2.pdb
