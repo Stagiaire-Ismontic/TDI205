@@ -1,0 +1,10 @@
+C:\Users\Stagiaire\Desktop\DAtaset\Q4\Q4\bin\Debug\Q4.exe.config
+C:\Users\Stagiaire\Desktop\DAtaset\Q4\Q4\bin\Debug\Q4.exe
+C:\Users\Stagiaire\Desktop\DAtaset\Q4\Q4\bin\Debug\Q4.pdb
+C:\Users\Stagiaire\Desktop\DAtaset\Q4\Q4\obj\Debug\Q4.csprojResolveAssemblyReference.cache
+C:\Users\Stagiaire\Desktop\DAtaset\Q4\Q4\obj\Debug\Q4.Form1.resources
+C:\Users\Stagiaire\Desktop\DAtaset\Q4\Q4\obj\Debug\Q4.Gestion_Employer.resources
+C:\Users\Stagiaire\Desktop\DAtaset\Q4\Q4\obj\Debug\Q4.Properties.Resources.resources
+C:\Users\Stagiaire\Desktop\DAtaset\Q4\Q4\obj\Debug\Q4.csproj.GenerateResource.Cache
+C:\Users\Stagiaire\Desktop\DAtaset\Q4\Q4\obj\Debug\Q4.exe
+C:\Users\Stagiaire\Desktop\DAtaset\Q4\Q4\obj\Debug\Q4.pdb

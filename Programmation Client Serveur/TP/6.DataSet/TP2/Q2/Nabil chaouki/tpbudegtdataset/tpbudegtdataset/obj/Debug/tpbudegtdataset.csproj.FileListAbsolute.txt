@@ -1,0 +1,9 @@
+C:\Users\j\source\repos\tpbudegtdataset\tpbudegtdataset\bin\Debug\tpbudegtdataset.exe.config
+C:\Users\j\source\repos\tpbudegtdataset\tpbudegtdataset\bin\Debug\tpbudegtdataset.exe
+C:\Users\j\source\repos\tpbudegtdataset\tpbudegtdataset\bin\Debug\tpbudegtdataset.pdb
+C:\Users\j\source\repos\tpbudegtdataset\tpbudegtdataset\obj\Debug\tpbudegtdataset.csprojAssemblyReference.cache
+C:\Users\j\source\repos\tpbudegtdataset\tpbudegtdataset\obj\Debug\tpbudegtdataset.Form1.resources
+C:\Users\j\source\repos\tpbudegtdataset\tpbudegtdataset\obj\Debug\tpbudegtdataset.Properties.Resources.resources
+C:\Users\j\source\repos\tpbudegtdataset\tpbudegtdataset\obj\Debug\tpbudegtdataset.csproj.GenerateResource.cache
+C:\Users\j\source\repos\tpbudegtdataset\tpbudegtdataset\obj\Debug\tpbudegtdataset.exe
+C:\Users\j\source\repos\tpbudegtdataset\tpbudegtdataset\obj\Debug\tpbudegtdataset.pdb
