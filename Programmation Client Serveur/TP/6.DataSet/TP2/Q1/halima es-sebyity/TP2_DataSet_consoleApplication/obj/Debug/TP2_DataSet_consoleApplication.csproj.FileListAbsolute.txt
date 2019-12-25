@@ -1,0 +1,6 @@
+C:\Users\lenovo\Desktop\Mode deconnecter\TP2_DataSet_consoleApplication\TP2_DataSet_consoleApplication\bin\Debug\TP2_DataSet_consoleApplication.exe.config
+C:\Users\lenovo\Desktop\Mode deconnecter\TP2_DataSet_consoleApplication\TP2_DataSet_consoleApplication\bin\Debug\TP2_DataSet_consoleApplication.exe
+C:\Users\lenovo\Desktop\Mode deconnecter\TP2_DataSet_consoleApplication\TP2_DataSet_consoleApplication\bin\Debug\TP2_DataSet_consoleApplication.pdb
+C:\Users\lenovo\Desktop\Mode deconnecter\TP2_DataSet_consoleApplication\TP2_DataSet_consoleApplication\obj\Debug\TP2_DataSet_consoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\Mode deconnecter\TP2_DataSet_consoleApplication\TP2_DataSet_consoleApplication\obj\Debug\TP2_DataSet_consoleApplication.exe
+C:\Users\lenovo\Desktop\Mode deconnecter\TP2_DataSet_consoleApplication\TP2_DataSet_consoleApplication\obj\Debug\TP2_DataSet_consoleApplication.pdb

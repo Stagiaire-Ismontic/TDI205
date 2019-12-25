@@ -1,0 +1,11 @@
+C:\Users\lenovo\Desktop\Mode deconnecter\TP2_DataS_Rech\TP2\TP2\bin\Debug\TP2.exe.config
+C:\Users\lenovo\Desktop\Mode deconnecter\TP2_DataS_Rech\TP2\TP2\bin\Debug\TP2.exe
+C:\Users\lenovo\Desktop\Mode deconnecter\TP2_DataS_Rech\TP2\TP2\bin\Debug\TP2.pdb
+C:\Users\lenovo\Desktop\Mode deconnecter\TP2_DataS_Rech\TP2\TP2\obj\Debug\TP2.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\Mode deconnecter\TP2_DataS_Rech\TP2\TP2\obj\Debug\TP2.Form1.resources
+C:\Users\lenovo\Desktop\Mode deconnecter\TP2_DataS_Rech\TP2\TP2\obj\Debug\TP2.Gestion_Livre.resources
+C:\Users\lenovo\Desktop\Mode deconnecter\TP2_DataS_Rech\TP2\TP2\obj\Debug\TP2.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Mode deconnecter\TP2_DataS_Rech\TP2\TP2\obj\Debug\TP2.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\Mode deconnecter\TP2_DataS_Rech\TP2\TP2\obj\Debug\TP2.exe
+C:\Users\lenovo\Desktop\Mode deconnecter\TP2_DataS_Rech\TP2\TP2\obj\Debug\TP2.pdb
+C:\Users\lenovo\Desktop\Mode deconnecter\TP2_DataS_Rech\TP2\TP2\obj\Debug\TP2.Gestion_Editeur.resources

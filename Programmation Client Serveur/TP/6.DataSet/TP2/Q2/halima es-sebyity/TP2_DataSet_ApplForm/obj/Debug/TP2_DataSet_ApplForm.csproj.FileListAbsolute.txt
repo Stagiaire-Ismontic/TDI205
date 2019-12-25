@@ -1,0 +1,9 @@
+C:\Users\lenovo\Desktop\Mode deconnecter\TP2_DataSet_ApplForm\TP2_DataSet_ApplForm\bin\Debug\TP2_DataSet_ApplForm.exe.config
+C:\Users\lenovo\Desktop\Mode deconnecter\TP2_DataSet_ApplForm\TP2_DataSet_ApplForm\bin\Debug\TP2_DataSet_ApplForm.exe
+C:\Users\lenovo\Desktop\Mode deconnecter\TP2_DataSet_ApplForm\TP2_DataSet_ApplForm\bin\Debug\TP2_DataSet_ApplForm.pdb
+C:\Users\lenovo\Desktop\Mode deconnecter\TP2_DataSet_ApplForm\TP2_DataSet_ApplForm\obj\Debug\TP2_DataSet_ApplForm.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\Mode deconnecter\TP2_DataSet_ApplForm\TP2_DataSet_ApplForm\obj\Debug\TP2_DataSet_ApplForm.Form1.resources
+C:\Users\lenovo\Desktop\Mode deconnecter\TP2_DataSet_ApplForm\TP2_DataSet_ApplForm\obj\Debug\TP2_DataSet_ApplForm.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Mode deconnecter\TP2_DataSet_ApplForm\TP2_DataSet_ApplForm\obj\Debug\TP2_DataSet_ApplForm.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\Mode deconnecter\TP2_DataSet_ApplForm\TP2_DataSet_ApplForm\obj\Debug\TP2_DataSet_ApplForm.exe
+C:\Users\lenovo\Desktop\Mode deconnecter\TP2_DataSet_ApplForm\TP2_DataSet_ApplForm\obj\Debug\TP2_DataSet_ApplForm.pdb

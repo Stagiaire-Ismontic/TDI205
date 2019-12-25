@@ -1,0 +1,11 @@
+C:\Users\Hp ProBook\source\repos\Q3\Q3\bin\Debug\Q3.exe.config
+C:\Users\Hp ProBook\source\repos\Q3\Q3\bin\Debug\Q3.exe
+C:\Users\Hp ProBook\source\repos\Q3\Q3\bin\Debug\Q3.pdb
+C:\Users\Hp ProBook\source\repos\Q3\Q3\obj\Debug\Q3.csprojAssemblyReference.cache
+C:\Users\Hp ProBook\source\repos\Q3\Q3\obj\Debug\Q3.Editeurs.resources
+C:\Users\Hp ProBook\source\repos\Q3\Q3\obj\Debug\Q3.Form1.resources
+C:\Users\Hp ProBook\source\repos\Q3\Q3\obj\Debug\Q3.Properties.Resources.resources
+C:\Users\Hp ProBook\source\repos\Q3\Q3\obj\Debug\Q3.csproj.GenerateResource.cache
+C:\Users\Hp ProBook\source\repos\Q3\Q3\obj\Debug\Q3.csproj.CoreCompileInputs.cache
+C:\Users\Hp ProBook\source\repos\Q3\Q3\obj\Debug\Q3.exe
+C:\Users\Hp ProBook\source\repos\Q3\Q3\obj\Debug\Q3.pdb

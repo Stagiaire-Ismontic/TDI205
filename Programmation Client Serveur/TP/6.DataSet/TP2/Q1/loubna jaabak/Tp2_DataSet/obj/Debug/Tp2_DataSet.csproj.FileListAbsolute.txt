@@ -1,0 +1,7 @@
+C:\Users\Hp ProBook\source\repos\Tp2_DataSet\Tp2_DataSet\bin\Debug\Tp2_DataSet.exe.config
+C:\Users\Hp ProBook\source\repos\Tp2_DataSet\Tp2_DataSet\bin\Debug\Tp2_DataSet.exe
+C:\Users\Hp ProBook\source\repos\Tp2_DataSet\Tp2_DataSet\bin\Debug\Tp2_DataSet.pdb
+C:\Users\Hp ProBook\source\repos\Tp2_DataSet\Tp2_DataSet\obj\Debug\Tp2_DataSet.csprojAssemblyReference.cache
+C:\Users\Hp ProBook\source\repos\Tp2_DataSet\Tp2_DataSet\obj\Debug\Tp2_DataSet.csproj.CoreCompileInputs.cache
+C:\Users\Hp ProBook\source\repos\Tp2_DataSet\Tp2_DataSet\obj\Debug\Tp2_DataSet.exe
+C:\Users\Hp ProBook\source\repos\Tp2_DataSet\Tp2_DataSet\obj\Debug\Tp2_DataSet.pdb
