@@ -16,3 +16,12 @@ E:\Base des données\Programmation avec Sql\Trav Pratique\Tp1...Tp6\Tp6\WindowsF
 E:\Base des données\Programmation avec Sql\Trav Pratique\Tp1...Tp6\Tp6\WindowsF\obj\Debug\WindowsF.csproj.GenerateResource.Cache
 E:\Base des données\Programmation avec Sql\Trav Pratique\Tp1...Tp6\Tp6\WindowsF\bin\Debug\WindowsF.exe
 E:\Base des données\Programmation avec Sql\Trav Pratique\Tp1...Tp6\Tp6\WindowsF\bin\Debug\WindowsF.pdb
+E:\Base des données\Programmation avec Sql\Trav Pratique\Mode Connecte\Tp6\WindowsF\bin\Debug\WindowsF.exe.config
+E:\Base des données\Programmation avec Sql\Trav Pratique\Mode Connecte\Tp6\WindowsF\obj\Debug\WindowsF.exe
+E:\Base des données\Programmation avec Sql\Trav Pratique\Mode Connecte\Tp6\WindowsF\obj\Debug\WindowsF.pdb
+E:\Base des données\Programmation avec Sql\Trav Pratique\Mode Connecte\Tp6\WindowsF\bin\Debug\WindowsF.exe
+E:\Base des données\Programmation avec Sql\Trav Pratique\Mode Connecte\Tp6\WindowsF\bin\Debug\WindowsF.pdb
+E:\Base des données\Programmation avec Sql\Trav Pratique\Mode Connecte\Tp6\WindowsF\obj\Debug\WindowsF.csprojResolveAssemblyReference.cache
+E:\Base des données\Programmation avec Sql\Trav Pratique\Mode Connecte\Tp6\WindowsF\obj\Debug\WindowsF.Application.resources
+E:\Base des données\Programmation avec Sql\Trav Pratique\Mode Connecte\Tp6\WindowsF\obj\Debug\WindowsF.Properties.Resources.resources
+E:\Base des données\Programmation avec Sql\Trav Pratique\Mode Connecte\Tp6\WindowsF\obj\Debug\WindowsF.csproj.GenerateResource.Cache

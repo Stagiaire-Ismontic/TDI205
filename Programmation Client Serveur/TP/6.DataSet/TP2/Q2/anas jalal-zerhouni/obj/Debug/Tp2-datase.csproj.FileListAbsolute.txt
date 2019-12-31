@@ -1,0 +1,18 @@
+C:\Users\TP\source\repos\Tp2-datase\bin\Debug\Tp2-datase.exe.config
+C:\Users\TP\source\repos\Tp2-datase\bin\Debug\Tp2-datase.exe
+C:\Users\TP\source\repos\Tp2-datase\bin\Debug\Tp2-datase.pdb
+C:\Users\TP\source\repos\Tp2-datase\obj\Debug\Tp2-datase.csprojAssemblyReference.cache
+C:\Users\TP\source\repos\Tp2-datase\obj\Debug\Tp2_datase.Form1.resources
+C:\Users\TP\source\repos\Tp2-datase\obj\Debug\Tp2_datase.Properties.Resources.resources
+C:\Users\TP\source\repos\Tp2-datase\obj\Debug\Tp2-datase.csproj.GenerateResource.cache
+C:\Users\TP\source\repos\Tp2-datase\obj\Debug\Tp2-datase.exe
+C:\Users\TP\source\repos\Tp2-datase\obj\Debug\Tp2-datase.pdb
+C:\Users\TP\source\repos\Tp2-datase - Copie\bin\Debug\Tp2-datase.exe.config
+C:\Users\TP\source\repos\Tp2-datase - Copie\obj\Debug\Tp2-datase.exe
+C:\Users\TP\source\repos\Tp2-datase - Copie\obj\Debug\Tp2-datase.pdb
+C:\Users\TP\source\repos\Tp2-datase - Copie\bin\Debug\Tp2-datase.exe
+C:\Users\TP\source\repos\Tp2-datase - Copie\bin\Debug\Tp2-datase.pdb
+C:\Users\TP\source\repos\Tp2-datase - Copie\obj\Debug\Tp2-datase.csprojResolveAssemblyReference.cache
+C:\Users\TP\source\repos\Tp2-datase - Copie\obj\Debug\Tp2_datase.Form1.resources
+C:\Users\TP\source\repos\Tp2-datase - Copie\obj\Debug\Tp2_datase.Properties.Resources.resources
+C:\Users\TP\source\repos\Tp2-datase - Copie\obj\Debug\Tp2-datase.csproj.GenerateResource.Cache

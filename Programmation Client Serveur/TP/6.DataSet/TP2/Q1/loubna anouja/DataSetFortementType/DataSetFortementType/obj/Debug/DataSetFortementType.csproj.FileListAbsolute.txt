@@ -1,0 +1,6 @@
+E:\DataSetFortementType\DataSetFortementType\bin\Debug\DataSetFortementType.exe.config
+E:\DataSetFortementType\DataSetFortementType\bin\Debug\DataSetFortementType.exe
+E:\DataSetFortementType\DataSetFortementType\bin\Debug\DataSetFortementType.pdb
+E:\DataSetFortementType\DataSetFortementType\obj\Debug\DataSetFortementType.csprojResolveAssemblyReference.cache
+E:\DataSetFortementType\DataSetFortementType\obj\Debug\DataSetFortementType.exe
+E:\DataSetFortementType\DataSetFortementType\obj\Debug\DataSetFortementType.pdb

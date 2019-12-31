@@ -1,0 +1,9 @@
+E:\Qusetion 4\Question 3\Question 3\bin\Debug\Question 3.exe.config
+E:\Qusetion 4\Question 3\Question 3\bin\Debug\Question 3.exe
+E:\Qusetion 4\Question 3\Question 3\bin\Debug\Question 3.pdb
+E:\Qusetion 4\Question 3\Question 3\obj\Debug\Question 3.csprojResolveAssemblyReference.cache
+E:\Qusetion 4\Question 3\Question 3\obj\Debug\Question_3.Form1.resources
+E:\Qusetion 4\Question 3\Question 3\obj\Debug\Question_3.Properties.Resources.resources
+E:\Qusetion 4\Question 3\Question 3\obj\Debug\Question 3.csproj.GenerateResource.Cache
+E:\Qusetion 4\Question 3\Question 3\obj\Debug\Question 3.exe
+E:\Qusetion 4\Question 3\Question 3\obj\Debug\Question 3.pdb

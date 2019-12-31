@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CrystalRepModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Genre">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="Sexe" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Person" Relationship="Self.FK__Person__Id_Genre__0EA330E9" FromRole="Genre" ToRole="Person" />
+  </EntityType>
+  <EntityType Name="Person">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="Nom" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="Id_Genre" Type="Int32" />
+    <NavigationProperty Name="Genre" Relationship="Self.FK__Person__Id_Genre__0EA330E9" FromRole="Person" ToRole="Genre" />
+  </EntityType>
+  <Association Name="FK__Person__Id_Genre__0EA330E9">
+    <End Role="Genre" Type="Self.Genre" Multiplicity="0..1" />
+    <End Role="Person" Type="Self.Person" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Genre">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Person">
+        <PropertyRef Name="Id_Genre" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="CrystalRepEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Genre" EntityType="Self.Genre" />
+    <EntitySet Name="Person" EntityType="Self.Person" />
+    <AssociationSet Name="FK__Person__Id_Genre__0EA330E9" Association="Self.FK__Person__Id_Genre__0EA330E9">
+      <End Role="Genre" EntitySet="Genre" />
+      <End Role="Person" EntitySet="Person" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

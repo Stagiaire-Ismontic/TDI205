@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.TxtRecherche = new System.Windows.Forms.TextBox();
             this.lblId = new System.Windows.Forms.Label();
@@ -48,10 +49,12 @@
             this.Titre = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Somme = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Client = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.clientBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.groupBox1.SuspendLayout();
             this.panel1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.clientBindingSource)).BeginInit();
             this.SuspendLayout();
             // 
             // groupBox1
@@ -171,12 +174,14 @@
             // 
             // comboBox1
             // 
+            this.comboBox1.DataSource = this.clientBindingSource;
+            this.comboBox1.DisplayMember = "Nom";
             this.comboBox1.FormattingEnabled = true;
             this.comboBox1.Location = new System.Drawing.Point(96, 115);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(193, 28);
             this.comboBox1.TabIndex = 15;
-//            this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
+            this.comboBox1.ValueMember = "Id";
             // 
             // label6
             // 
@@ -266,6 +271,10 @@
             this.Client.ReadOnly = true;
             this.Client.Width = 140;
             // 
+            // clientBindingSource
+            // 
+            this.clientBindingSource.DataSource = typeof(WindowsF.Classes.Client);
+            // 
             // Application
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -286,6 +295,7 @@
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.clientBindingSource)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -313,6 +323,7 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn Titre;
         private System.Windows.Forms.DataGridViewTextBoxColumn Somme;
         private System.Windows.Forms.DataGridViewTextBoxColumn Client;
+        private System.Windows.Forms.BindingSource clientBindingSource;
     }
 }
 

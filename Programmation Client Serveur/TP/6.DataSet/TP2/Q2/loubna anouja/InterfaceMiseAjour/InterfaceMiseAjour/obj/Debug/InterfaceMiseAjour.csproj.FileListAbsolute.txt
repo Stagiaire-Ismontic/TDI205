@@ -1,0 +1,9 @@
+E:\InterfaceMiseAjour\InterfaceMiseAjour\bin\Debug\InterfaceMiseAjour.exe.config
+E:\InterfaceMiseAjour\InterfaceMiseAjour\bin\Debug\InterfaceMiseAjour.exe
+E:\InterfaceMiseAjour\InterfaceMiseAjour\bin\Debug\InterfaceMiseAjour.pdb
+E:\InterfaceMiseAjour\InterfaceMiseAjour\obj\Debug\InterfaceMiseAjour.csprojResolveAssemblyReference.cache
+E:\InterfaceMiseAjour\InterfaceMiseAjour\obj\Debug\InterfaceMiseAjour.Form1.resources
+E:\InterfaceMiseAjour\InterfaceMiseAjour\obj\Debug\InterfaceMiseAjour.Properties.Resources.resources
+E:\InterfaceMiseAjour\InterfaceMiseAjour\obj\Debug\InterfaceMiseAjour.csproj.GenerateResource.Cache
+E:\InterfaceMiseAjour\InterfaceMiseAjour\obj\Debug\InterfaceMiseAjour.exe
+E:\InterfaceMiseAjour\InterfaceMiseAjour\obj\Debug\InterfaceMiseAjour.pdb

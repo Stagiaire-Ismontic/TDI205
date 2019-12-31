@@ -1,0 +1,10 @@
+C:\Users\Hp ProBook\source\repos\Q4_Tp2\Q4_Tp2\bin\Debug\Q4_Tp2.exe.config
+C:\Users\Hp ProBook\source\repos\Q4_Tp2\Q4_Tp2\bin\Debug\Q4_Tp2.exe
+C:\Users\Hp ProBook\source\repos\Q4_Tp2\Q4_Tp2\bin\Debug\Q4_Tp2.pdb
+C:\Users\Hp ProBook\source\repos\Q4_Tp2\Q4_Tp2\obj\Debug\Q4_Tp2.csprojAssemblyReference.cache
+C:\Users\Hp ProBook\source\repos\Q4_Tp2\Q4_Tp2\obj\Debug\Q4_Tp2.Form1.resources
+C:\Users\Hp ProBook\source\repos\Q4_Tp2\Q4_Tp2\obj\Debug\Q4_Tp2.Properties.Resources.resources
+C:\Users\Hp ProBook\source\repos\Q4_Tp2\Q4_Tp2\obj\Debug\Q4_Tp2.csproj.GenerateResource.cache
+C:\Users\Hp ProBook\source\repos\Q4_Tp2\Q4_Tp2\obj\Debug\Q4_Tp2.csproj.CoreCompileInputs.cache
+C:\Users\Hp ProBook\source\repos\Q4_Tp2\Q4_Tp2\obj\Debug\Q4_Tp2.exe
+C:\Users\Hp ProBook\source\repos\Q4_Tp2\Q4_Tp2\obj\Debug\Q4_Tp2.pdb

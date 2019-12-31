@@ -1,0 +1,21 @@
+c:\users\tp\documents\visual studio 2015\Projects\Tp2_dataset\Interface_Maj\bin\Debug\Interface_Maj.exe.config
+c:\users\tp\documents\visual studio 2015\Projects\Tp2_dataset\Interface_Maj\bin\Debug\Interface_Maj.exe
+c:\users\tp\documents\visual studio 2015\Projects\Tp2_dataset\Interface_Maj\bin\Debug\Interface_Maj.pdb
+c:\users\tp\documents\visual studio 2015\Projects\Tp2_dataset\Interface_Maj\obj\Debug\Interface_Maj.csprojResolveAssemblyReference.cache
+c:\users\tp\documents\visual studio 2015\Projects\Tp2_dataset\Interface_Maj\obj\Debug\Interface_Maj.Form1.resources
+c:\users\tp\documents\visual studio 2015\Projects\Tp2_dataset\Interface_Maj\obj\Debug\Interface_Maj.Properties.Resources.resources
+c:\users\tp\documents\visual studio 2015\Projects\Tp2_dataset\Interface_Maj\obj\Debug\Interface_Maj.csproj.GenerateResource.Cache
+c:\users\tp\documents\visual studio 2015\Projects\Tp2_dataset\Interface_Maj\obj\Debug\Interface_Maj.exe
+c:\users\tp\documents\visual studio 2015\Projects\Tp2_dataset\Interface_Maj\obj\Debug\Interface_Maj.pdb
+E:\Tp2_dataset\Interface_Maj\bin\Debug\Interface_Maj.exe.config
+E:\Tp2_dataset\Interface_Maj\obj\Debug\Interface_Maj.exe
+E:\Tp2_dataset\Interface_Maj\obj\Debug\Interface_Maj.pdb
+E:\Tp2_dataset\Interface_Maj\bin\Debug\Interface_Maj.exe
+E:\Tp2_dataset\Interface_Maj\bin\Debug\Interface_Maj.pdb
+E:\Tp2_dataset\Interface_Maj\obj\Debug\Interface_Maj.Form1.resources
+E:\Tp2_dataset\Interface_Maj\obj\Debug\Interface_Maj.Form2.resources
+E:\Tp2_dataset\Interface_Maj\obj\Debug\Interface_Maj.Menu.resources
+E:\Tp2_dataset\Interface_Maj\obj\Debug\Interface_Maj.Properties.Resources.resources
+E:\Tp2_dataset\Interface_Maj\obj\Debug\Interface_Maj.csproj.GenerateResource.Cache
+E:\Tp2_dataset\Interface_Maj\obj\Debug\Interface_Maj.csprojAssemblyReference.cache
+E:\Tp2_dataset\Interface_Maj\obj\Debug\Interface_Maj.Form3.resources

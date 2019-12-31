@@ -1,0 +1,22 @@
+E:\Csharp\soukaina hanin\creation_classe\WindowsF\WindowsF\bin\Debug\WindowsF.exe.config
+E:\Csharp\soukaina hanin\creation_classe\WindowsF\WindowsF\bin\Debug\WindowsF.exe
+E:\Csharp\soukaina hanin\creation_classe\WindowsF\WindowsF\bin\Debug\WindowsF.pdb
+E:\Csharp\soukaina hanin\creation_classe\WindowsF\WindowsF\obj\Debug\WindowsF.csprojResolveAssemblyReference.cache
+E:\Csharp\soukaina hanin\creation_classe\WindowsF\WindowsF\obj\Debug\WindowsF.Properties.Resources.resources
+E:\Csharp\soukaina hanin\creation_classe\WindowsF\WindowsF\obj\Debug\WindowsF.csproj.GenerateResource.Cache
+E:\Csharp\soukaina hanin\creation_classe\WindowsF\WindowsF\obj\Debug\WindowsF.exe
+E:\Csharp\soukaina hanin\creation_classe\WindowsF\WindowsF\obj\Debug\WindowsF.pdb
+E:\Csharp\soukaina hanin\creation_classe\WindowsF\WindowsF\obj\Debug\WindowsF.Commande.resources
+E:\Csharp\soukaina hanin\creation_classe\WindowsF\WindowsF\obj\Debug\WindowsF.SansJointure.resources
+E:\Csharp\soukaina hanin\creation_classe\WindowsF\WindowsF\obj\Debug\WindowsF.AvecJointure.resources
+E:\Base des données\Programmation avec Sql\Trav Pratique\Mode Deconnecte\TrPr\ModeD(Tp2)\WindowsF\bin\Debug\WindowsF.exe.config
+E:\Base des données\Programmation avec Sql\Trav Pratique\Mode Deconnecte\TrPr\ModeD(Tp2)\WindowsF\obj\Debug\WindowsF.exe
+E:\Base des données\Programmation avec Sql\Trav Pratique\Mode Deconnecte\TrPr\ModeD(Tp2)\WindowsF\obj\Debug\WindowsF.pdb
+E:\Base des données\Programmation avec Sql\Trav Pratique\Mode Deconnecte\TrPr\ModeD(Tp2)\WindowsF\bin\Debug\WindowsF.exe
+E:\Base des données\Programmation avec Sql\Trav Pratique\Mode Deconnecte\TrPr\ModeD(Tp2)\WindowsF\bin\Debug\WindowsF.pdb
+E:\Base des données\Programmation avec Sql\Trav Pratique\Mode Deconnecte\TrPr\ModeD(Tp2)\WindowsF\obj\Debug\WindowsF.csprojResolveAssemblyReference.cache
+E:\Base des données\Programmation avec Sql\Trav Pratique\Mode Deconnecte\TrPr\ModeD(Tp2)\WindowsF\obj\Debug\WindowsF.AvecJointure.resources
+E:\Base des données\Programmation avec Sql\Trav Pratique\Mode Deconnecte\TrPr\ModeD(Tp2)\WindowsF\obj\Debug\WindowsF.Commande.resources
+E:\Base des données\Programmation avec Sql\Trav Pratique\Mode Deconnecte\TrPr\ModeD(Tp2)\WindowsF\obj\Debug\WindowsF.Properties.Resources.resources
+E:\Base des données\Programmation avec Sql\Trav Pratique\Mode Deconnecte\TrPr\ModeD(Tp2)\WindowsF\obj\Debug\WindowsF.SansJointure.resources
+E:\Base des données\Programmation avec Sql\Trav Pratique\Mode Deconnecte\TrPr\ModeD(Tp2)\WindowsF\obj\Debug\WindowsF.csproj.GenerateResource.Cache

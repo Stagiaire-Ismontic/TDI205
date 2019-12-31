@@ -45,8 +45,9 @@ namespace WindowsF
         }
 
         public void Nou()
-        {
+        {       
             comboBox1.DataSource = GesC.Afficher();
+      
         }
 
         private void Application_Load(object sender, EventArgs e)
@@ -60,7 +61,8 @@ namespace WindowsF
         {
             try
             {
-                bool l  = GesF.Modifier(new Facture() { Id = int.Parse(lblId.Text), Titre = TxtTitre.Text, Somme = Convert.ToDouble(TxtSomme.Text), Client = GesC.RechercheNom(comboBox1.Text)});    
+                Client c = GesC.RechercheId(Convert.ToInt32(comboBox1.SelectedValue));
+                bool l  = GesF.Modifier(new Facture() { Id = int.Parse(lblId.Text), Titre = TxtTitre.Text, Somme = Convert.ToDouble(TxtSomme.Text), Client = c});    
                 if (l == false) MessageBox.Show("N'existe pas!", "Erreur", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 this.Vide();
                 this.Actualiser();
@@ -83,7 +85,8 @@ namespace WindowsF
                     else
 
                     {
-                        GesF.Ajouter(new Facture(TxtTitre.Text, Convert.ToDouble(TxtSomme.Text), new Client { Nom = comboBox1.Text }));
+                       Client c= GesC.RechercheId(Convert.ToInt32(comboBox1.SelectedValue));
+                        GesF.Ajouter(new Facture(TxtTitre.Text, Convert.ToDouble(TxtSomme.Text),c));
                             Vide();
                             Actualiser();
                    

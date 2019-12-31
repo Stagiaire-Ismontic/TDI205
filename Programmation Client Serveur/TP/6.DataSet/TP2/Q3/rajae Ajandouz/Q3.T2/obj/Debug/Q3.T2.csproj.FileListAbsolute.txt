@@ -1,0 +1,12 @@
+c:\users\hp\documents\visual studio 2012\Projects\Q3.T2\Q3.T2\bin\Debug\Q3.T2.exe.config
+E:\Rajae Ajandouz\client-serveur\mode deconnecter\Tp2\Q3.T2\Q3.T2\bin\Debug\Q3.T2.exe.config
+E:\Rajae Ajandouz\client-serveur\mode deconnecter\Tp2\Q3.T2\Q3.T2\obj\Debug\Q3.T2.Employe.resources
+E:\Rajae Ajandouz\client-serveur\mode deconnecter\Tp2\Q3.T2\Q3.T2\obj\Debug\Q3.T2.Form1.resources
+E:\Rajae Ajandouz\client-serveur\mode deconnecter\Tp2\Q3.T2\Q3.T2\obj\Debug\Q3.T2.Properties.Resources.resources
+E:\Rajae Ajandouz\client-serveur\mode deconnecter\Tp2\Q3.T2\Q3.T2\obj\Debug\Q3.T2.csproj.GenerateResource.Cache
+E:\Rajae Ajandouz\client-serveur\mode deconnecter\Tp2\Q3.T2\Q3.T2\bin\Debug\Q3.T2.exe
+E:\Rajae Ajandouz\client-serveur\mode deconnecter\Tp2\Q3.T2\Q3.T2\bin\Debug\Q3.T2.pdb
+E:\Rajae Ajandouz\client-serveur\mode deconnecter\Tp2\Q3.T2\Q3.T2\obj\Debug\Q3.T2.exe
+E:\Rajae Ajandouz\client-serveur\mode deconnecter\Tp2\Q3.T2\Q3.T2\obj\Debug\Q3.T2.pdb
+E:\Rajae Ajandouz\client-serveur\mode deconnecter\Tp2\Q3.T2\Q3.T2\obj\Debug\Q3.T2.csprojAssemblyReference.cache
+E:\Rajae Ajandouz\client-serveur\mode deconnecter\Tp2\Q3.T2\Q3.T2\obj\Debug\Q3.T2.csproj.CoreCompileInputs.cache

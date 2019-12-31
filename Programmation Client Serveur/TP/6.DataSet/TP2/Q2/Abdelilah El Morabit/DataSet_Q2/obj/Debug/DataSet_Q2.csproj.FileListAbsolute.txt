@@ -1,0 +1,9 @@
+F:\abdelilah el morabit\DataSet_Q2\DataSet_Q2\bin\Debug\DataSet_Q2.exe.config
+F:\abdelilah el morabit\DataSet_Q2\DataSet_Q2\bin\Debug\DataSet_Q2.exe
+F:\abdelilah el morabit\DataSet_Q2\DataSet_Q2\bin\Debug\DataSet_Q2.pdb
+F:\abdelilah el morabit\DataSet_Q2\DataSet_Q2\obj\Debug\DataSet_Q2.csprojAssemblyReference.cache
+F:\abdelilah el morabit\DataSet_Q2\DataSet_Q2\obj\Debug\DataSet_Q2.Form1.resources
+F:\abdelilah el morabit\DataSet_Q2\DataSet_Q2\obj\Debug\DataSet_Q2.Properties.Resources.resources
+F:\abdelilah el morabit\DataSet_Q2\DataSet_Q2\obj\Debug\DataSet_Q2.csproj.GenerateResource.cache
+F:\abdelilah el morabit\DataSet_Q2\DataSet_Q2\obj\Debug\DataSet_Q2.exe
+F:\abdelilah el morabit\DataSet_Q2\DataSet_Q2\obj\Debug\DataSet_Q2.pdb
