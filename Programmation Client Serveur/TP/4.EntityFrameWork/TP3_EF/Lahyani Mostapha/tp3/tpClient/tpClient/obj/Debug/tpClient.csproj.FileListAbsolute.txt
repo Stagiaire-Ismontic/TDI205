@@ -1,0 +1,16 @@
+C:\Users\Mustapha\Desktop\Dev 2eme anne\Fouad\c#\Entity framework\second video-tp2\tpClient\tpClient\obj\Debug\tpClient.csprojAssemblyReference.cache
+C:\Users\Mustapha\Desktop\Dev 2eme anne\Fouad\c#\Entity framework\second video-tp2\tpClient\tpClient\obj\Debug\tpClient.Form1.resources
+C:\Users\Mustapha\Desktop\Dev 2eme anne\Fouad\c#\Entity framework\second video-tp2\tpClient\tpClient\obj\Debug\tpClient.Properties.Resources.resources
+C:\Users\Mustapha\Desktop\Dev 2eme anne\Fouad\c#\Entity framework\second video-tp2\tpClient\tpClient\obj\Debug\tpClient.csproj.GenerateResource.cache
+C:\Users\Mustapha\Desktop\Dev 2eme anne\Fouad\c#\Entity framework\second video-tp2\tpClient\tpClient\obj\Debug\tpClient.csproj.CoreCompileInputs.cache
+C:\Users\Mustapha\Desktop\Dev 2eme anne\Fouad\c#\Entity framework\second video-tp2\tpClient\tpClient\bin\Debug\tpClient.exe.config
+C:\Users\Mustapha\Desktop\Dev 2eme anne\Fouad\c#\Entity framework\second video-tp2\tpClient\tpClient\bin\Debug\tpClient.exe
+C:\Users\Mustapha\Desktop\Dev 2eme anne\Fouad\c#\Entity framework\second video-tp2\tpClient\tpClient\bin\Debug\tpClient.pdb
+C:\Users\Mustapha\Desktop\Dev 2eme anne\Fouad\c#\Entity framework\second video-tp2\tpClient\tpClient\bin\Debug\EntityFramework.dll
+C:\Users\Mustapha\Desktop\Dev 2eme anne\Fouad\c#\Entity framework\second video-tp2\tpClient\tpClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mustapha\Desktop\Dev 2eme anne\Fouad\c#\Entity framework\second video-tp2\tpClient\tpClient\bin\Debug\EntityFramework.xml
+C:\Users\Mustapha\Desktop\Dev 2eme anne\Fouad\c#\Entity framework\second video-tp2\tpClient\tpClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mustapha\Desktop\Dev 2eme anne\Fouad\c#\Entity framework\second video-tp2\tpClient\tpClient\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\Mustapha\Desktop\Dev 2eme anne\Fouad\c#\Entity framework\second video-tp2\tpClient\tpClient\obj\Debug\tpClient.csproj.CopyComplete
+C:\Users\Mustapha\Desktop\Dev 2eme anne\Fouad\c#\Entity framework\second video-tp2\tpClient\tpClient\obj\Debug\tpClient.exe
+C:\Users\Mustapha\Desktop\Dev 2eme anne\Fouad\c#\Entity framework\second video-tp2\tpClient\tpClient\obj\Debug\tpClient.pdb
