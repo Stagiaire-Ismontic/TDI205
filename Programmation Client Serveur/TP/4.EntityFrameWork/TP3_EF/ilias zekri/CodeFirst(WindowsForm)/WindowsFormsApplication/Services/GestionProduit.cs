@@ -12,13 +12,8 @@ namespace WindowsFormsApplication.Services
        
         public Produit FindById(int Id)
         {
-            
-                foreach (var item in GestionCommande.context.ListeProduit)
-                {
-                    if (item.ProduitId == Id) return item;
-                }
-                return null;
-            
+            Classes.Produit p = GestionCommande.context.ListeProduit.SingleOrDefault(s => s.ProduitId == Id);
+            return p;
         }
 
         public void Insert(Produit P)
@@ -60,9 +55,7 @@ namespace WindowsFormsApplication.Services
 
         public List<Produit> Select()
         {
-                List<Produit> lst = GestionCommande.context.ListeProduit.ToList();
-            GestionCommande.context.SaveChanges();
-                return lst;
+            return GestionCommande.context.ListeProduit.ToList();
                 
         }
     }

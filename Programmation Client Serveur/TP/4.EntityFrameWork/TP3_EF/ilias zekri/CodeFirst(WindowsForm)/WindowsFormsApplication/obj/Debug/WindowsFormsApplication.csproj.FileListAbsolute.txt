@@ -41,3 +41,18 @@ G:\Base des données\Programmation avec Sql\Trav Pratique\Entity Framework\Tp\Wi
 G:\Base des données\Programmation avec Sql\Trav Pratique\Entity Framework\Tp\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Form.resources
 G:\Base des données\Programmation avec Sql\Trav Pratique\Entity Framework\Tp\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Properties.Resources.resources
 G:\Base des données\Programmation avec Sql\Trav Pratique\Entity Framework\Tp\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csproj.GenerateResource.Cache
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\4.EntityFrameWork\TP3_EF\ilias zekri\CodeFirst(WindowsForm)\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe.config
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\4.EntityFrameWork\TP3_EF\ilias zekri\CodeFirst(WindowsForm)\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\4.EntityFrameWork\TP3_EF\ilias zekri\CodeFirst(WindowsForm)\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.pdb
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\4.EntityFrameWork\TP3_EF\ilias zekri\CodeFirst(WindowsForm)\WindowsFormsApplication\bin\Debug\EntityFramework.dll
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\4.EntityFrameWork\TP3_EF\ilias zekri\CodeFirst(WindowsForm)\WindowsFormsApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\4.EntityFrameWork\TP3_EF\ilias zekri\CodeFirst(WindowsForm)\WindowsFormsApplication\bin\Debug\EntityFramework.xml
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\4.EntityFrameWork\TP3_EF\ilias zekri\CodeFirst(WindowsForm)\WindowsFormsApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\4.EntityFrameWork\TP3_EF\ilias zekri\CodeFirst(WindowsForm)\WindowsFormsApplication\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\4.EntityFrameWork\TP3_EF\ilias zekri\CodeFirst(WindowsForm)\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csprojAssemblyReference.cache
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\4.EntityFrameWork\TP3_EF\ilias zekri\CodeFirst(WindowsForm)\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Form.resources
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\4.EntityFrameWork\TP3_EF\ilias zekri\CodeFirst(WindowsForm)\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Properties.Resources.resources
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\4.EntityFrameWork\TP3_EF\ilias zekri\CodeFirst(WindowsForm)\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csproj.GenerateResource.cache
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\4.EntityFrameWork\TP3_EF\ilias zekri\CodeFirst(WindowsForm)\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csproj.CopyComplete
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\4.EntityFrameWork\TP3_EF\ilias zekri\CodeFirst(WindowsForm)\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.exe
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\4.EntityFrameWork\TP3_EF\ilias zekri\CodeFirst(WindowsForm)\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.pdb

@@ -50,8 +50,7 @@ namespace WindowsFormsApplication
 
         public void Actualiser()
         {
-            dataGridViewCommande.AutoGenerateColumns = false;
-            dataGridViewCommande.DataSource = null;
+        
             dataGridViewCommande.DataSource = Gest.Select();
         }
 
@@ -114,6 +113,7 @@ namespace WindowsFormsApplication
                 Commande C = Gest.Select()[position];
                 this.Afficher(C);
             }
+          
         }
 
         private void BtnModifier_Click(object sender, EventArgs e)
@@ -137,5 +137,29 @@ namespace WindowsFormsApplication
             }
         }
 
+        private void dataGridViewCommande_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            if (e.ColumnIndex == dataGridViewCommande.Columns["BtnS"].Index)
+            {
+                try
+                {
+                    int position = dataGridViewCommande.CurrentRow.Index;
+                    Commande C = Gest.Select()[position];
+                    bool b = Gest.Delete(C.CommandeId);
+                    if (b == false) MessageBox.Show("N'existe pas", "Erreur", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    else
+                    {
+                        MessageBox.Show("Le Commande est Supprimer", "Succes", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    }
+                    this.Actualiser();
+                    this.Vide();
+                }
+                catch (Exception)
+                {
+                    MessageBox.Show("Select votre commande a supprimer", "Erreur", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+                }
+            }
+        }
     }
 }

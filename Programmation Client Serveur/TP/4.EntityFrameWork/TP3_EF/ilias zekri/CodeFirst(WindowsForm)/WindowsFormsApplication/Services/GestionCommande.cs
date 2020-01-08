@@ -30,8 +30,8 @@ namespace WindowsFormsApplication.Services
         public bool Delete(int Id)
         {
             
-                Commande Cm = context.ListeCommande.SingleOrDefault(s => s.CommandeId == Id);
-                if (Cm != null)
+                Commande Cm =FindById(Id);
+            if (Cm != null)
                 {
                     context.ListeCommande.Remove(Cm);
                     context.SaveChanges();
@@ -43,8 +43,8 @@ namespace WindowsFormsApplication.Services
 
         public bool Update(Commande Cm)
         {
-            
-                Commande Cmr = context.ListeCommande.SingleOrDefault(s => s.CommandeId == Cm.CommandeId);
+
+            Commande Cmr = FindById(Cm.CommandeId);
                 if (Cmr != null)
                 {
                     Cmr.Descriptions = Cm.Descriptions;
@@ -59,14 +59,8 @@ namespace WindowsFormsApplication.Services
 
         public List<Commande> Select()
         {
-          
-                List<Commande> lst = new List<Commande>();
-                foreach (var item in context.ListeCommande)
-                {
-                    item.Produit = GP.FindById(item.Produit.ProduitId);
-                    lst.Add(item);
-                }
-                return lst;
+
+            return GestionCommande.context.ListeCommande.ToList();
             
         }
     }

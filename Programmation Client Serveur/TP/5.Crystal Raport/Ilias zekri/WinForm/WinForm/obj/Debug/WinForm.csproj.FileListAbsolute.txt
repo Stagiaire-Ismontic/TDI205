@@ -64,3 +64,6 @@ C:\Users\Stagiaire\Desktop\WinForm\WinForm\obj\Debug\WinForm.csprojResolveAssemb
 C:\Users\Stagiaire\Desktop\WinForm\WinForm\obj\Debug\WinForm.Form.resources
 C:\Users\Stagiaire\Desktop\WinForm\WinForm\obj\Debug\WinForm.Properties.Resources.resources
 C:\Users\Stagiaire\Desktop\WinForm\WinForm\obj\Debug\WinForm.csproj.GenerateResource.Cache
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\5.Crystal Raport\Ilias zekri\WinForm\WinForm\bin\Debug\WinForm.exe.config
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\5.Crystal Raport\Ilias zekri\WinForm\WinForm\obj\Debug\WinForm.exe
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\5.Crystal Raport\Ilias zekri\WinForm\WinForm\obj\Debug\WinForm.pdb

@@ -18,3 +18,13 @@ G:\C sharp\Tp1\ZaidKalini\ZaidKalini\obj\Debug\ZaidKalini.csproj.CoreCompileInpu
 G:\C sharp\Tp1\ZaidKalini\ZaidKalini\obj\Debug\ZaidKalini.exe
 G:\C sharp\Tp1\ZaidKalini\ZaidKalini\obj\Debug\ZaidKalini.pdb
 G:\C sharp\Tp1\ZaidKalini\ZaidKalini\obj\Debug\ZaidKalini.Presentation.Formateur.resources
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\zaid kalini\Tp1-One\ZaidKalini\ZaidKalini\bin\Debug\ZaidKalini.exe.config
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\zaid kalini\Tp1-One\ZaidKalini\ZaidKalini\bin\Debug\ZaidKalini.exe
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\zaid kalini\Tp1-One\ZaidKalini\ZaidKalini\bin\Debug\ZaidKalini.pdb
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\zaid kalini\Tp1-One\ZaidKalini\ZaidKalini\obj\Debug\ZaidKalini.csprojAssemblyReference.cache
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\zaid kalini\Tp1-One\ZaidKalini\ZaidKalini\obj\Debug\ZaidKalini.Presentation.Formateur.resources
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\zaid kalini\Tp1-One\ZaidKalini\ZaidKalini\obj\Debug\ZaidKalini.Module.resources
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\zaid kalini\Tp1-One\ZaidKalini\ZaidKalini\obj\Debug\ZaidKalini.Properties.Resources.resources
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\zaid kalini\Tp1-One\ZaidKalini\ZaidKalini\obj\Debug\ZaidKalini.csproj.GenerateResource.cache
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\zaid kalini\Tp1-One\ZaidKalini\ZaidKalini\obj\Debug\ZaidKalini.exe
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\1.WinForm\TP1\zaid kalini\Tp1-One\ZaidKalini\ZaidKalini\obj\Debug\ZaidKalini.pdb

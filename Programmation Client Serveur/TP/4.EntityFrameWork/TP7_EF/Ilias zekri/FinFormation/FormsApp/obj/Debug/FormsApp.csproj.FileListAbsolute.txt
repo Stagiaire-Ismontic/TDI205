@@ -1,0 +1,60 @@
+C:\Users\Stagiaire\Desktop\FinFormation\FormsApp\bin\Debug\FormsApp.exe.config
+E:\Base des données\Programmation avec Sql\Trav Pratique\Tp7(EFM)\FinFormation\FormsApp\bin\Debug\FormsApp.exe.config
+E:\Base des données\Programmation avec Sql\Trav Pratique\Tp7(EFM)\FinFormation\FormsApp\bin\Debug\FormsApp.exe
+E:\Base des données\Programmation avec Sql\Trav Pratique\Tp7(EFM)\FinFormation\FormsApp\bin\Debug\FormsApp.pdb
+E:\Base des données\Programmation avec Sql\Trav Pratique\Tp7(EFM)\FinFormation\FormsApp\bin\Debug\EntityFramework.dll
+E:\Base des données\Programmation avec Sql\Trav Pratique\Tp7(EFM)\FinFormation\FormsApp\bin\Debug\EntityFramework.SqlServer.dll
+E:\Base des données\Programmation avec Sql\Trav Pratique\Tp7(EFM)\FinFormation\FormsApp\bin\Debug\EntityFramework.xml
+E:\Base des données\Programmation avec Sql\Trav Pratique\Tp7(EFM)\FinFormation\FormsApp\bin\Debug\EntityFramework.SqlServer.xml
+E:\Base des données\Programmation avec Sql\Trav Pratique\Tp7(EFM)\FinFormation\FormsApp\bin\Debug\fr\EntityFramework.resources.dll
+E:\Base des données\Programmation avec Sql\Trav Pratique\Tp7(EFM)\FinFormation\FormsApp\obj\Debug\FormsApp.csprojResolveAssemblyReference.cache
+E:\Base des données\Programmation avec Sql\Trav Pratique\Tp7(EFM)\FinFormation\FormsApp\obj\Debug\FormsApp.Properties.Resources.resources
+E:\Base des données\Programmation avec Sql\Trav Pratique\Tp7(EFM)\FinFormation\FormsApp\obj\Debug\FormsApp.csproj.GenerateResource.Cache
+E:\Base des données\Programmation avec Sql\Trav Pratique\Tp7(EFM)\FinFormation\FormsApp\obj\Debug\FormsApp.exe
+E:\Base des données\Programmation avec Sql\Trav Pratique\Tp7(EFM)\FinFormation\FormsApp\obj\Debug\FormsApp.pdb
+F:\Base des données\Programmation avec Sql\Trav Pratique\Tp7(EFM)\FinFormation\FormsApp\bin\Debug\FormsApp.exe.config
+F:\Base des données\Programmation avec Sql\Trav Pratique\Tp7(EFM)\FinFormation\FormsApp\obj\Debug\FormsApp.exe
+F:\Base des données\Programmation avec Sql\Trav Pratique\Tp7(EFM)\FinFormation\FormsApp\obj\Debug\FormsApp.pdb
+F:\Base des données\Programmation avec Sql\Trav Pratique\Tp7(EFM)\FinFormation\FormsApp\bin\Debug\FormsApp.exe
+F:\Base des données\Programmation avec Sql\Trav Pratique\Tp7(EFM)\FinFormation\FormsApp\bin\Debug\FormsApp.pdb
+F:\Base des données\Programmation avec Sql\Trav Pratique\Tp7(EFM)\FinFormation\FormsApp\bin\Debug\EntityFramework.dll
+F:\Base des données\Programmation avec Sql\Trav Pratique\Tp7(EFM)\FinFormation\FormsApp\bin\Debug\EntityFramework.SqlServer.dll
+F:\Base des données\Programmation avec Sql\Trav Pratique\Tp7(EFM)\FinFormation\FormsApp\bin\Debug\EntityFramework.xml
+F:\Base des données\Programmation avec Sql\Trav Pratique\Tp7(EFM)\FinFormation\FormsApp\bin\Debug\EntityFramework.SqlServer.xml
+F:\Base des données\Programmation avec Sql\Trav Pratique\Tp7(EFM)\FinFormation\FormsApp\bin\Debug\fr\EntityFramework.resources.dll
+F:\Base des données\Programmation avec Sql\Trav Pratique\Tp7(EFM)\FinFormation\FormsApp\obj\Debug\FormsApp.csprojResolveAssemblyReference.cache
+F:\Base des données\Programmation avec Sql\Trav Pratique\Tp7(EFM)\FinFormation\FormsApp\obj\Debug\FormsApp.Properties.Resources.resources
+F:\Base des données\Programmation avec Sql\Trav Pratique\Tp7(EFM)\FinFormation\FormsApp\obj\Debug\FormsApp.csproj.GenerateResource.Cache
+F:\Base des données\Programmation avec Sql\Trav Pratique\Tp7(EFM)\FinFormation\FormsApp\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Base des données\Programmation avec Sql\Trav Pratique\Tp7(EFM)\FinFormation\FormsApp\obj\Debug\FormsApp.Forms.VilleForm.resources
+F:\Base des données\Programmation avec Sql\Trav Pratique\Tp7(EFM)\FinFormation\FormsApp\obj\Debug\FormsApp.Forms.ApplicationForm.resources
+F:\Base des données\Programmation avec Sql\Trav Pratique\Tp7(EFM)\FinFormation\FormsApp\obj\Debug\FormsApp.Forms.RegionForm.resources
+G:\Base des données\Programmation avec Sql\Trav Pratique\Tp7(EFM)\FinFormation\FormsApp\bin\Debug\FormsApp.exe.config
+G:\Base des données\Programmation avec Sql\Trav Pratique\Tp7(EFM)\FinFormation\FormsApp\obj\Debug\FormsApp.exe
+G:\Base des données\Programmation avec Sql\Trav Pratique\Tp7(EFM)\FinFormation\FormsApp\obj\Debug\FormsApp.pdb
+E:\Base des données\Programmation avec Sql\Trav Pratique\Tp7(EFM)\FinFormation\FormsApp\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Base des données\Programmation avec Sql\Trav Pratique\Tp7(EFM)\FinFormation\FormsApp\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\Base des données\Programmation avec Sql\Trav Pratique\Tp7(EFM)\FinFormation\FormsApp\obj\Debug\FormsApp.Forms.ApplicationForm.resources
+E:\Base des données\Programmation avec Sql\Trav Pratique\Tp7(EFM)\FinFormation\FormsApp\obj\Debug\FormsApp.Forms.RegionForm.resources
+E:\Base des données\Programmation avec Sql\Trav Pratique\Tp7(EFM)\FinFormation\FormsApp\obj\Debug\FormsApp.Forms.VilleForm.resources
+F:\Base des données\Programmation avec Sql\Trav Pratique\Tp7(EFM)\FinFormation\FormsApp\obj\Debug\FormsApp.Forms.Find.resources
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\4.EntityFrameWork\TP7_EF\Ilias zekri\FinFormation\FormsApp\bin\Debug\FormsApp.exe.config
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\4.EntityFrameWork\TP7_EF\Ilias zekri\FinFormation\FormsApp\bin\Debug\FormsApp.exe
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\4.EntityFrameWork\TP7_EF\Ilias zekri\FinFormation\FormsApp\bin\Debug\FormsApp.pdb
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\4.EntityFrameWork\TP7_EF\Ilias zekri\FinFormation\FormsApp\bin\Debug\EntityFramework.dll
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\4.EntityFrameWork\TP7_EF\Ilias zekri\FinFormation\FormsApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\4.EntityFrameWork\TP7_EF\Ilias zekri\FinFormation\FormsApp\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\4.EntityFrameWork\TP7_EF\Ilias zekri\FinFormation\FormsApp\bin\Debug\EntityFramework.xml
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\4.EntityFrameWork\TP7_EF\Ilias zekri\FinFormation\FormsApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\4.EntityFrameWork\TP7_EF\Ilias zekri\FinFormation\FormsApp\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\4.EntityFrameWork\TP7_EF\Ilias zekri\FinFormation\FormsApp\bin\Debug\fr\Microsoft.Data.Tools.Components.resources.dll
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\4.EntityFrameWork\TP7_EF\Ilias zekri\FinFormation\FormsApp\obj\Debug\FormsApp.csprojAssemblyReference.cache
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\4.EntityFrameWork\TP7_EF\Ilias zekri\FinFormation\FormsApp\obj\Debug\FormsApp.Forms.ApplicationForm.resources
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\4.EntityFrameWork\TP7_EF\Ilias zekri\FinFormation\FormsApp\obj\Debug\FormsApp.Forms.Find.resources
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\4.EntityFrameWork\TP7_EF\Ilias zekri\FinFormation\FormsApp\obj\Debug\FormsApp.Properties.Resources.resources
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\4.EntityFrameWork\TP7_EF\Ilias zekri\FinFormation\FormsApp\obj\Debug\FormsApp.Forms.RegionForm.resources
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\4.EntityFrameWork\TP7_EF\Ilias zekri\FinFormation\FormsApp\obj\Debug\FormsApp.Forms.VilleForm.resources
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\4.EntityFrameWork\TP7_EF\Ilias zekri\FinFormation\FormsApp\obj\Debug\FormsApp.csproj.GenerateResource.cache
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\4.EntityFrameWork\TP7_EF\Ilias zekri\FinFormation\FormsApp\obj\Debug\FormsApp.csproj.CopyComplete
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\4.EntityFrameWork\TP7_EF\Ilias zekri\FinFormation\FormsApp\obj\Debug\FormsApp.exe
+C:\Users\TP\Documents\GitHub\TDI205\Programmation Client Serveur\TP\4.EntityFrameWork\TP7_EF\Ilias zekri\FinFormation\FormsApp\obj\Debug\FormsApp.pdb

@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
@@ -36,15 +37,19 @@
             this.CbProduit = new System.Windows.Forms.ComboBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.dataGridViewCommande = new System.Windows.Forms.DataGridView();
-            this.Description = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Prix = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Produit = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.BtnAjouter = new System.Windows.Forms.Button();
             this.BtnSupprimer = new System.Windows.Forms.Button();
             this.BtnModifier = new System.Windows.Forms.Button();
             this.Id = new System.Windows.Forms.Label();
+            this.BtnS = new System.Windows.Forms.DataGridViewButtonColumn();
+            this.commandeIdDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.descriptionsDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.prixDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.produitDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.bindingSource1 = new System.Windows.Forms.BindingSource(this.components);
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewCommande)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bindingSource1)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -102,7 +107,6 @@
             this.CbProduit.Name = "CbProduit";
             this.CbProduit.Size = new System.Drawing.Size(235, 28);
             this.CbProduit.TabIndex = 5;
-//            this.CbProduit.MouseClick += new System.Windows.Forms.MouseEventHandler(this.CbProduit_MouseClick);
             // 
             // groupBox1
             // 
@@ -124,40 +128,22 @@
             // 
             this.dataGridViewCommande.AllowUserToAddRows = false;
             this.dataGridViewCommande.AllowUserToDeleteRows = false;
+            this.dataGridViewCommande.AutoGenerateColumns = false;
             this.dataGridViewCommande.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridViewCommande.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.Description,
-            this.Prix,
-            this.Produit});
-            this.dataGridViewCommande.Location = new System.Drawing.Point(45, 211);
+            this.commandeIdDataGridViewTextBoxColumn,
+            this.descriptionsDataGridViewTextBoxColumn,
+            this.prixDataGridViewTextBoxColumn,
+            this.produitDataGridViewTextBoxColumn,
+            this.BtnS});
+            this.dataGridViewCommande.DataSource = this.bindingSource1;
+            this.dataGridViewCommande.Location = new System.Drawing.Point(12, 194);
             this.dataGridViewCommande.Name = "dataGridViewCommande";
             this.dataGridViewCommande.ReadOnly = true;
-            this.dataGridViewCommande.Size = new System.Drawing.Size(498, 150);
+            this.dataGridViewCommande.Size = new System.Drawing.Size(546, 150);
             this.dataGridViewCommande.TabIndex = 7;
+            this.dataGridViewCommande.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewCommande_CellClick);
             this.dataGridViewCommande.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewCommande_CellDoubleClick);
-            // 
-            // Description
-            // 
-            this.Description.DataPropertyName = "Descriptions";
-            this.Description.HeaderText = "Description";
-            this.Description.Name = "Description";
-            this.Description.ReadOnly = true;
-            this.Description.Width = 200;
-            // 
-            // Prix
-            // 
-            this.Prix.DataPropertyName = "Prix";
-            this.Prix.HeaderText = "Prix";
-            this.Prix.Name = "Prix";
-            this.Prix.ReadOnly = true;
-            this.Prix.Width = 150;
-            // 
-            // Produit
-            // 
-            this.Produit.DataPropertyName = "Produit";
-            this.Produit.HeaderText = "Produit";
-            this.Produit.Name = "Produit";
-            this.Produit.ReadOnly = true;
             // 
             // BtnAjouter
             // 
@@ -202,6 +188,44 @@
             this.Id.TabIndex = 12;
             this.Id.Text = "-";
             // 
+            // BtnS
+            // 
+            this.BtnS.HeaderText = "";
+            this.BtnS.Name = "BtnS";
+            this.BtnS.ReadOnly = true;
+            // 
+            // commandeIdDataGridViewTextBoxColumn
+            // 
+            this.commandeIdDataGridViewTextBoxColumn.DataPropertyName = "CommandeId";
+            this.commandeIdDataGridViewTextBoxColumn.HeaderText = "CommandeId";
+            this.commandeIdDataGridViewTextBoxColumn.Name = "commandeIdDataGridViewTextBoxColumn";
+            this.commandeIdDataGridViewTextBoxColumn.ReadOnly = true;
+            // 
+            // descriptionsDataGridViewTextBoxColumn
+            // 
+            this.descriptionsDataGridViewTextBoxColumn.DataPropertyName = "Descriptions";
+            this.descriptionsDataGridViewTextBoxColumn.HeaderText = "Descriptions";
+            this.descriptionsDataGridViewTextBoxColumn.Name = "descriptionsDataGridViewTextBoxColumn";
+            this.descriptionsDataGridViewTextBoxColumn.ReadOnly = true;
+            // 
+            // prixDataGridViewTextBoxColumn
+            // 
+            this.prixDataGridViewTextBoxColumn.DataPropertyName = "Prix";
+            this.prixDataGridViewTextBoxColumn.HeaderText = "Prix";
+            this.prixDataGridViewTextBoxColumn.Name = "prixDataGridViewTextBoxColumn";
+            this.prixDataGridViewTextBoxColumn.ReadOnly = true;
+            // 
+            // produitDataGridViewTextBoxColumn
+            // 
+            this.produitDataGridViewTextBoxColumn.DataPropertyName = "Produit";
+            this.produitDataGridViewTextBoxColumn.HeaderText = "Produit";
+            this.produitDataGridViewTextBoxColumn.Name = "produitDataGridViewTextBoxColumn";
+            this.produitDataGridViewTextBoxColumn.ReadOnly = true;
+            // 
+            // bindingSource1
+            // 
+            this.bindingSource1.DataSource = typeof(WindowsFormsApplication.Classes.Commande);
+            // 
             // Form
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -219,6 +243,7 @@
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewCommande)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bindingSource1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -234,13 +259,16 @@
         private System.Windows.Forms.ComboBox CbProduit;
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.DataGridView dataGridViewCommande;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Description;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Prix;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Produit;
         private System.Windows.Forms.Button BtnAjouter;
         private System.Windows.Forms.Button BtnSupprimer;
         private System.Windows.Forms.Button BtnModifier;
         private System.Windows.Forms.Label Id;
+        private System.Windows.Forms.DataGridViewTextBoxColumn commandeIdDataGridViewTextBoxColumn;
+        private System.Windows.Forms.DataGridViewTextBoxColumn descriptionsDataGridViewTextBoxColumn;
+        private System.Windows.Forms.DataGridViewTextBoxColumn prixDataGridViewTextBoxColumn;
+        private System.Windows.Forms.DataGridViewTextBoxColumn produitDataGridViewTextBoxColumn;
+        private System.Windows.Forms.BindingSource bindingSource1;
+        private System.Windows.Forms.DataGridViewButtonColumn BtnS;
     }
 }
 
